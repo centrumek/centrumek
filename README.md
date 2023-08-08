@@ -18,11 +18,12 @@
             alt="centrumek"
           />
           I'm Paul Potaczała
-          <br/><br/>
-          Harmonious Software Engineer finding the consciousness and peace among time units.
-          <br/><br/>
-          I talk about Tech, Self-Development and Well-Being. 🌿🧘🚀
         </h2>
+        <h4>
+          Harmonious Software Engineer finding the consciousness and peace among time units.
+          <br/>
+          I talk about Tech, Self-Development and Well-Being. 🌿🧘🚀
+        </h4>
         <br/>
         <br/>
         <img
