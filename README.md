@@ -10,7 +10,7 @@
         <img src="https://komarev.com/ghpvc/?username=centrumek&label=visitors&color=0e75b6&style=flat" alt="centrumek"> 
       </td>
       <td width="30%">
-        <a href="https://app.daily.dev/centrumek"><img src="https://api.daily.dev/devcards/d6a38e9d474449a9a5edc0a0a2743895.png?r=c7c" alt="Paul Potaczała's Dev Card"/></a>
+        <a href="https://app.daily.dev/centrumek"><img src="./devcard.svg" alt="Paul Potaczała's Dev Card"/></a>
       </td>
     </tr>
   </tbody>
