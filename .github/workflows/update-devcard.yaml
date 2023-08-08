@@ -1,4 +1,7 @@
-name: Auto update DevCard
+name: Update DevCard
+
+# GitHub Actions documentation: https://docs.github.com/en/actions
+# GitHub Marketplace Actions: https://github.com/marketplace?type=actions
 
 on:
   workflow_dispatch:
@@ -6,7 +9,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '* * * * *'
+    - cron: "21 */6 * * *" # https://crontab.guru
 
 jobs:
   devcard:
@@ -18,3 +21,4 @@ jobs:
         uses: dailydotdev/action-devcard@2.2.0
         with:
           devcard_id: ${{ vars.DEVCARD_ID }}
+          commit_message: "chore(devcard): [NO-REF] Update ${filename} ⚡️"
