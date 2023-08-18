@@ -1,5 +1,6 @@
 import fetch from 'node-fetch'
 import fs from 'fs/promises'
+import 'dotenv/config'
 
 async function downloadDevCard(): Promise<void> {
 
