@@ -17,8 +17,24 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: devcard
-        uses: dailydotdev/action-devcard@2.2.0
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup node
+        uses: actions/setup-node@v3
         with:
-          devcard_id: ${{ vars.DEVCARD_ID }}
-          commit_message: "chore(devcard): [NO-REF] Update ${filename} ⚡️"
+          node-version: 20
+      - name: Install dependencies
+        run: npm install
+      - name: Run script
+        run: npm start
+        env:
+          DEVCARD_ID: ${{ vars.DEVCARD_ID }}
+      - name: Commit files
+        run: |
+          git config --global user.email "paul.potaczala@gmail.com"
+          git config --global user.name "Paul Potaczała"
+          git commit -am "chore(devcard): [NO-REF] Update devcard ⚡"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
