@@ -34,7 +34,7 @@
       <td width="30%">
         <a href="https://app.daily.dev/centrumek">
           <img
-            src="./devcard.svg"
+            src="./devcard.png"
             alt="centrumek"
           />
         </a>
