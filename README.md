@@ -10,7 +10,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center" width="70%">
+      <td align="center" width="70%" colspan="2">
         <h2>
           <img
             src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
@@ -24,19 +24,29 @@
           <br/>
           I talk about Tech, Self-Development and Well-Being. 🌿🧘🚀
         </h4>
-        <br/>
-        <br/>
-        <img
-          src="https://komarev.com/ghpvc/?username=centrumek&label=visitors&color=0e75b6&style=flat"
-          alt="centrumek"
-        > 
       </td>
-      <td width="30%">
+      <td width="30%" rowspan="2">
         <a href="https://app.daily.dev/centrumek">
           <img
             src="./devcard.png"
             alt="centrumek"
           />
+        </a>
+      </td>
+    </tr>
+    <tr align="center">
+      <td>
+        <img
+          src="https://komarev.com/ghpvc/?username=centrumek&label=visitors&color=0e75b6&style=flat"
+          alt="centrumek"
+        >
+      </td>
+      <td>
+        <a href="https://stackoverflow.com/users/14496012/centrumek">
+          <img
+            src="https://stackoverflow.com/users/flair/14496012.png?theme=dark"
+            alt="centrumek"
+          >
         </a>
       </td>
     </tr>
@@ -47,14 +57,10 @@
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=centrumek&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"
-    height="50%"
-    width="auto"
     alt="centrumek"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=centrumek&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&exclude_repo=air-statistic-app"
-    height="50%"
-    width="auto"
     alt="centrumek"
   />
   <img 
