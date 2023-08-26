@@ -1,0 +1,20 @@
+name: Chess Games & Stats Action
+
+# GitHub Actions documentation: https://docs.github.com/en/actions
+# GitHub Marketplace Actions: https://github.com/marketplace?type=actions
+
+on:
+  schedule:
+    - cron: '44 */6 * * *' # https://crontab.guru
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update chess stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Balastrong/chess-stats-action@main
+        with:
+          CHESS_USERNAME: ${{ vars.CHESS_USERNAME }}
+          COMMIT_MSG: 'chore(chess): [NO-REF] Update chess stats ⚡'
