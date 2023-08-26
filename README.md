@@ -79,6 +79,14 @@
   </a>
 </div>
 
+---
+
+## Chess.com
+
+<!--START_SECTION:chessStats-->
+
+<!--END_SECTION:chessStats-->
+
 <!--
 **centrumek/centrumek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
