@@ -33,7 +33,7 @@ jobs:
         run: |
           git config --global user.email "paul.potaczala@gmail.com"
           git config --global user.name "Paul Potaczała"
-          git commit -am "chore(devcard): [NO-REF] Update devcard ⚡"
+          git commit -am "chore(devcard): [NO-REF] Update devcard ⚡" || true
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:

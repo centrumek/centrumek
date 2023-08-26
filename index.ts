@@ -18,7 +18,6 @@ async function downloadDevCard(): Promise<void> {
     await fs.writeFile(outputFileName, Buffer.from(buffer));
 
     console.log('Image saved successfully as', outputFileName);
-
 }
 
 (async () => {
