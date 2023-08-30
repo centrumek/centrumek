@@ -88,11 +88,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 949 | 819 | 666 |
+| Current | 949 | 819 | 681 |
 | Best | 1132 | 836 | 821 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| ChubsMcChubs | **centrumek** | win 🥇 | 30/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4b1r/pp1k4/3q2p1/5b1p/3p1Nn1/8/PPPQ2PP/2K1RB1R w - -">Link</a> | Bullet |
+| Saaho7123 | **centrumek** | win 🥇 | 30/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2q2/3rb3/3pQ1P1/p1pPp3/1p2Pp2/5P2/PP1P4/R1BK4 w - -">Link</a> | Bullet |
 | **centrumek** | iamlava_1 | win 🥇 | 29/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1r1k1p1p/2N1b1p1/pN6/P3B3/R3P3/1K6/6q1 b - -">Link</a> | Blitz |
 | Ethlog69420 | **centrumek** | resigned ❌ | 29/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k3Q1/7R/p7/1p1N4/2p1P3/P1P2r1P/1PBn4/6K1 b - -">Link</a> | Blitz |
 | HenriqueSouza62 | **centrumek** | win 🥇 | 29/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/p1kBb1p1/8/5p1p/Q1P3n1/P5P1/3R1PKP/q7 b - -">Link</a> | Blitz |
@@ -101,8 +103,6 @@
 | **centrumek** | Orocha01 | resigned ❌ | 29/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/1p3p1p/p2qp1p1/4R3/1P3P2/4PN2/P1b3PP/1K5R w - -">Link</a> | Bullet |
 | valarmorghlis | **centrumek** | checkmated ❌ | 29/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R1k1/p4p1p/8/2n3p1/2B5/5P1P/PB1n2P1/6K1 b - -">Link</a> | Bullet |
 | JorgeCl1983 | **centrumek** | timeout ❌ | 29/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/pp3kp1/8/8/1b1PN3/7N/PP4B1/1RB3K1 b - -">Link</a> | Bullet |
-| jareditebarge | **centrumek** | win 🥇 | 29/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2kbn1/p7/5p2/3Pp1p1/8/3P1PP1/P1q5/K7 w - -">Link</a> | Bullet |
-| **centrumek** | kevinonyejekwe | checkmated ❌ | 29/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b1r/1p1k2pp/2p2p2/3p4/8/8/7q/K1r5 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
