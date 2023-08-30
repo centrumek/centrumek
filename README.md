@@ -83,6 +83,7 @@
 
 ## Chess.com
 
+<div align="center">
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
 
@@ -105,7 +106,7 @@
 | **centrumek** | stepawayking | win 🥇 | 30/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p6r/2p1Nk2/1pPp4/nP1K2p1/P5Pp/7P/8 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
-
+</div>
 <!--
 **centrumek/centrumek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
