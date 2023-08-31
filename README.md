@@ -89,21 +89,21 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 949 | 867 | 733 |
+| Current | 949 | 867 | 705 |
 | Best | 1132 | 867 | 821 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| PhatChessussy | **centrumek** | win 🥇 | 31/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/7p/Q4nk1/3Pp1p1/1b2Pp2/8/5PPP/3b2K1 w - -">Link</a> | Bullet |
+| Yalameer | **centrumek** | timeout ❌ | 31/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k7/P6p/1b1n1R2/8/R6P/1PP5/3P4/4K3 b - -">Link</a> | Bullet |
+| AC9393 | **centrumek** | timeout ❌ | 31/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/7p/8/1R4p1/8/2P3P1/PPr2PBP/R5K1 b - -">Link</a> | Bullet |
+| **centrumek** | mrhkx | checkmated ❌ | 31/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1r4pp/n1p1pp2/p2p4/2n1PB2/P1N3P1/1q5P/1K1R3R w - -">Link</a> | Bullet |
+| Gonzezz | **centrumek** | checkmated ❌ | 31/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1r3/1k5p/R2p2pb/1Q1N4/3P4/1P3N2/5PPP/5RK1 b - -">Link</a> | Bullet |
 | Pankary | **centrumek** | win 🥇 | 30/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4k3/5p2/5P2/8/5Kr1/8 w - -">Link</a> | Blitz |
 | **centrumek** | Wassim1993 | win 🥇 | 30/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/1pp1pppp/p4n2/2Pp1b2/1Q1P4/N3P3/PP3PPP/R1B1KBNR b KQkq -">Link</a> | Blitz |
 | **centrumek** | vladimirv10 | win 🥇 | 30/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2bqk2r/5pbp/2p1p1p1/2NpP3/3N1P2/1P6/3B2PP/R1Q1KB1R b KQk -">Link</a> | Blitz |
 | **centrumek** | sir_valmet | win 🥇 | 30/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2N5/8/kQ1B4/2P5/5K2/8 b - -">Link</a> | Blitz |
 | XKILERI | **centrumek** | win 🥇 | 30/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/pppR4/5n1N/2b5/5p2/2N2b2/PPr4P/7K w - -">Link</a> | Blitz |
-| **centrumek** | XadrezSacrifice | checkmated ❌ | 30/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6pp/3k4/8/5PP1/7P/r7/1q3K2 w - -">Link</a> | Blitz |
-| kxc_chess | **centrumek** | win 🥇 | 30/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp5/2nq1p2/6p1/3PB2p/2P1P2P/PP1N1PPK/R4R2 w kq -">Link</a> | Blitz |
-| JohnTKuss | **centrumek** | checkmated ❌ | 30/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5n1/ppQk3p/6p1/1Nb2b2/2P5/3q4/PPnP1PPP/R1B1R1K1 b - -">Link</a> | Blitz |
-| shayanace | **centrumek** | win 🥇 | 30/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/ppp1bppp/2n2n2/6B1/2Bqp3/2N5/PPP2PPP/R2QR1K1 w kq -">Link</a> | Blitz |
-| **centrumek** | Eloi82 | win 🥇 | 30/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/8/4r1p1/p2p1p1p/2p2P1P/P2p1K2/1P6/3R1R2 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
