@@ -89,21 +89,21 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 958 | 847 | 758 |
+| Current | 958 | 839 | 742 |
 | Best | 1132 | 910 | 821 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| dave0494 | **centrumek** | checkmated ❌ | 5/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k2R3/5RK1/8/P1b2p2/1p4pP/8/6P1/8 b - -">Link</a> | Blitz |
+| Buhaiets | **centrumek** | resigned ❌ | 5/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/pppk4/3pB1p1/5P2/3p4/3P2P1/PPP5/RN1QK3 b Q -">Link</a> | Blitz |
+| **centrumek** | wellyesnono | stalemate ⏸️ | 5/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/5P2/5K2/5R2/8/8/8/8 b - -">Link</a> | Blitz |
+| **centrumek** | mq9x | win 🥇 | 5/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k3b1r/5ppp/1Q2p3/1p1r4/1q1P4/4PN2/5PPP/R1R3K1 b - -">Link</a> | Blitz |
+| AlfieHall | **centrumek** | timeout ❌ | 5/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R6p/1pB1k2b/2p5/5p2/2P2P1P/PPK5/8 b - -">Link</a> | Bullet |
+| **centrumek** | 62496Jimue | checkmated ❌ | 5/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k2/p5pp/5p2/3B4/4n3/1R1nP3/P4PPP/2q3K1 w - -">Link</a> | Bullet |
 | Arjan2291 | **centrumek** | win 🥇 | 5/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1r3k1p/3R4/5bp1/1b6/4n1P1/1B1P1P1P/6K1 w - -">Link</a> | Bullet |
 | Crooswodo | **centrumek** | win 🥇 | 5/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/3k2pp/8/4rPPP/8/5K2 w - -">Link</a> | Bullet |
 | **centrumek** | 23shaxov | win 🥇 | 5/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1b1r/p7/n1p2p1q/2Ppp3/1p1P1P2/P5P1/2KN1Q2/2B1R3 b - -">Link</a> | Bullet |
 | Dimakatso2 | **centrumek** | timeout ❌ | 5/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4q2/1b6/6p1/6Kp/4k3/P7/8 b - -">Link</a> | Bullet |
-| **centrumek** | A4USH | stalemate ⏸️ | 5/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/1R6/4B2p/P1B1Pp1P/5P2/2N5/8/6K1 b - -">Link</a> | Bullet |
-| dorukkonuk1 | **centrumek** | timeout ❌ | 5/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/p1p5/1Pn5/8/1P1pP2k/5R1N/5K1P/8 b - -">Link</a> | Bullet |
-| **centrumek** | Elbadway | win 🥇 | 5/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp6/2p1p2p/1PPp2k1/3K4/1P6/8/8 b - -">Link</a> | Bullet |
-| **centrumek** | 2knightchess | timeout ❌ | 5/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/2b3p1/pp5p/5P2/4b1K1/6P1/P6P/8 w - -">Link</a> | Bullet |
-| **centrumek** | Mace48 | timeout ❌ | 5/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=B7/6N1/p6k/1p1R4/4R2p/N7/PP3p1p/5K2 w - -">Link</a> | Bullet |
-| luthen2p | **centrumek** | win 🥇 | 5/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp6/1k3N2/4p3/3pP3/2r5/PP2KP2/R1R5 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
