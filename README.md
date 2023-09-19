@@ -107,6 +107,14 @@
 
 <!--END_SECTION:chessStats-->
 </div>
+
+## Duolingo.com
+
+<div align="center">
+<!--START_SECTION:duolingoStats-->
+
+<!--END_SECTION:duolingoStats-->
+</div>
 <!--
 **centrumek/centrumek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
