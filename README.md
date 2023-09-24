@@ -4,7 +4,7 @@
     width="30"
     alt="centrumek"
   />
-  Hey! Nice to see you.
+  Welcome to my world!
 </h1>
 
 <table>
@@ -56,15 +56,15 @@
 ---
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=centrumek&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api?username=centrumek&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000"
     alt="centrumek"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=centrumek&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&exclude_repo=air-statistic-app"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=centrumek&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&exclude_repo=air-statistic-app"
     alt="centrumek"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=centrumek&theme=darcula&hide_border=true&background=FFFFFF00"
+    src="https://github-readme-streak-stats.herokuapp.com?user=centrumek&theme=dark&hide_border=true&background=FFFFFF00"
     alt="centrumek"
   />
   <br/>
@@ -81,7 +81,7 @@
 
 ---
 
-## Chess.com
+## Play with me on [Chess.com](https://www.chess.com/member/centrumek)
 
 <div align="center">
 <!--START_SECTION:chessStats-->
@@ -108,7 +108,7 @@
 <!--END_SECTION:chessStats-->
 </div>
 
-## Duolingo.com
+## Learn languages with me on [Duolingo.com](https://www.duolingo.com/profile/Centrumek)
 
 <div align="center">
 <!--START_SECTION:duolingoStats-->
