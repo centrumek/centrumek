@@ -89,11 +89,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 943 | 821 | 804 |
+| Current | 943 | 813 | 819 |
 | Best | 1132 | 910 | 821 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| lepetiting | **centrumek** | win 🥇 | 24/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4k3/p3p2p/3r3p/8/6PK/1R6 w - -">Link</a> | Bullet |
+| neutronbob14 | **centrumek** | resigned ❌ | 24/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/4k3/8/5P2/6K1/6P1/8/8 b - -">Link</a> | Blitz |
+| **centrumek** | FARAH-3 | win 🥇 | 24/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2B5/N6p/3R1k2/2p1p1b1/4P1p1/PP4P1/2P5/5K2 b - -">Link</a> | Bullet |
 | Marcy0245 | **centrumek** | timeout ❌ | 23/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2P2p2/4p3/5k1p/5Pr1/PP5K/5R2 b - -">Link</a> | Bullet |
 | **centrumek** | SamLaw47 | timeout ❌ | 23/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/6p1/8/5K1k/8/8 w - -">Link</a> | Blitz |
 | **centrumek** | winsuiii | win 🥇 | 23/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/R7/5k1p/8/8/8/2B3K1 b - -">Link</a> | Blitz |
@@ -101,9 +104,6 @@
 | hectorsm2000 | **centrumek** | win 🥇 | 23/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/pp1n3r/2p4p/6p1/3P2P1/b2qr1B1/3K2BP/3R2N1 w - -">Link</a> | Blitz |
 | **centrumek** | ayushsukale | win 🥇 | 23/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/1p5p/1b3qp1/pP1Q4/8/4P3/2P2PPP/R4RK1 b - -">Link</a> | Bullet |
 | Amagollllllllllll | **centrumek** | win 🥇 | 23/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/8/k5pR/5p2/P7/4P3/5PPP/3q2K1 w - -">Link</a> | Blitz |
-| stefanos212 | **centrumek** | resigned ❌ | 23/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/8/2Q1K3/4N3/8/1k3P2/8/8 b - -">Link</a> | Blitz |
-| **centrumek** | Daraokoh | checkmated ❌ | 23/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/3k4/8/3K3q w - -">Link</a> | Rapid |
-| Paras_6xteen | **centrumek** | resigned ❌ | 23/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R5/8/P7/3k3p/8/7P/6PK/8 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 </div>
