@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 962 | 801 | 823 |
+| Current | 962 | 809 | 823 |
 | Best | 1132 | 910 | 830 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Lockie95 | win 🥇 | 2/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6R1/5Q1k/5P1p/pp1p4/2p4P/P7/1PP5/2K5 b - -">Link</a> | Blitz |
 | **centrumek** | devdutt97 | resigned ❌ | 1/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/bb3p1p/pp1p1qp1/3p4/3P2nN/4P3/PN4KP/1RB3R1 w - -">Link</a> | Rapid |
 | **centrumek** | EliasMaciel01 | checkmated ❌ | 1/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/p4p2/6p1/q1Pp3p/4p2P/4P1P1/4BP2/KR6 w - -">Link</a> | Rapid |
 | Iggo333 | **centrumek** | checkmated ❌ | 1/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R3/k1R3p1/pp3b2/P2r1p2/1P1p3p/6P1/5P1P/6K1 b - -">Link</a> | Rapid |
@@ -103,7 +104,6 @@
 | **centrumek** | Angelo121097 | resigned ❌ | 1/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p3qppp/8/3n4/1P1b4/P3P3/2P2PPP/R3K2R w KQ -">Link</a> | Rapid |
 | DJ_2003 | **centrumek** | win 🥇 | 1/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5P2/1R6/2p5/3r4/7K/2k4r/6q1 w - -">Link</a> | Rapid |
 | mahdi_shaghaghi | **centrumek** | win 🥇 | 1/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/p3p2p/2pq4/1p3p1n/8/8/PP3PPP/n1B2KNR w kq -">Link</a> | Rapid |
-| Rolci | **centrumek** | win 🥇 | 1/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k3/pp2q1pp/2p5/3np3/8/2N2r2/PPPP1PPP/R1B2RK1 w q -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 </div>
