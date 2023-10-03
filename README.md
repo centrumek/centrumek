@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 962 | 802 | 824 |
-| Best | 1132 | 910 | 831 |
+| Current | 962 | 802 | 833 |
+| Best | 1132 | 910 | 833 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Symmis | **centrumek** | win 🥇 | 3/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4p3/1k2N3/2RpP3/1P1P4/r1K2PPP/7r w - -">Link</a> | Bullet |
 | Sai-Chaitanya | **centrumek** | timeout ❌ | 2/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R3Rp1r/k7/2pp4/8/2P1Q3/PP3PPP/6K1 b - -">Link</a> | Bullet |
 | **centrumek** | Smygoliukas | timeout ❌ | 2/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/4Q1p1/p6p/1pP5/2p5/8/PKP5/8 w - -">Link</a> | Blitz |
 | **centrumek** | Daniel1Fanta | checkmated ❌ | 2/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p6R/2p1k1p1/1p1p1bQ1/5P2/PP6/6P1/Kq6 w - -">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | viking67 | **centrumek** | resigned ❌ | 2/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2r5/3Qkp1p/4p3/4P3/2P5/1P1R1PPP/3R2K1 b - -">Link</a> | Blitz |
 | donyAugustine | **centrumek** | win 🥇 | 2/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pp4p1/2pb3p/3Pn1pP/1P6/P1P5/3N1qB1/R2Q1K1R w - -">Link</a> | Bullet |
 | **centrumek** | dakila6 | win 🥇 | 2/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R1k1/6pp/8/2p2Q2/8/1P2P2P/r4P2/2KR4 b - -">Link</a> | Blitz |
-| **centrumek** | MichaelBohland | checkmated ❌ | 2/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk3/6p1/1R1P3p/4p3/8/8/1P4PP/3r3K w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
