@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 978 | 840 | 826 |
+| Current | 978 | 840 | 832 |
 | Best | 1132 | 910 | 835 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | BlueJay1225 | win 🥇 | 4/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q2k/ppN4p/3p1p2/8/3P4/2P1Rn1K/PP3Pr1/5R2 b - -">Link</a> | Bullet |
 | **centrumek** | mongthurn | win 🥇 | 3/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R1Qk1/p1p5/2p1p2K/4P3/8/r2n4/8/8 b - -">Link</a> | Blitz |
 | **centrumek** | Zenas777 | win 🥇 | 3/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/4k1K1/8/6P1/7P/8 b - -">Link</a> | Blitz |
 | BiagioAC | **centrumek** | win 🥇 | 3/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kbnr/p1p1pp1p/6p1/1p6/4P3/3q1P2/PP3P1P/RNB2RK1 w kq -">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | **centrumek** | Denryuoh | win 🥇 | 3/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pp3R1p/8/8/6P1/1Q6/P1k4P/3RK3 b - -">Link</a> | Bullet |
 | oshraf | **centrumek** | win 🥇 | 3/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rr2/pp4pp/3p4/7k/2PP4/2Pn1R1P/P5PK/8 w - -">Link</a> | Bullet |
 | sarthak5252 | **centrumek** | win 🥇 | 3/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/pp1k1ppp/3p1n2/4p1b1/3PP3/8/PP3P2/3K1q2 w - -">Link</a> | Bullet |
-| aladinz01 | **centrumek** | timeout ❌ | 3/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/ppk5/2p5/3p4/4p2P/2P1q3/PP6/2RKR3 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
