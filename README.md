@@ -89,11 +89,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 994 | 783 | 866 |
-| Best | 1132 | 910 | 872 |
+| Current | 994 | 791 | 883 |
+| Best | 1132 | 910 | 883 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| jsmdesign33 | **centrumek** | win 🥇 | 8/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/2k5/1p3R2/1P6/2KP3n/P4r2/8 w - -">Link</a> | Bullet |
+| **centrumek** | santiplim | win 🥇 | 8/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/8/2k5/3p4/5QP1/2p2PKP/8 b - -">Link</a> | Bullet |
+| ChessPlaysAndy | **centrumek** | win 🥇 | 8/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3n3p/5p2/8/6K1/kr5p/2r5/8 w - -">Link</a> | Blitz |
 | **centrumek** | Nivla100 | win 🥇 | 8/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R5/5kpp/p4p2/3K4/3B1P2/8/r7/8 b - -">Link</a> | Blitz |
 | **centrumek** | IrojNepal | checkmated ❌ | 8/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k1r/ppp2ppp/4pn2/8/3Pq2N/5KR1/P2Q1P1P/8 w - -">Link</a> | Blitz |
 | Maximaloutre | **centrumek** | checkmated ❌ | 8/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/1k1Q4/p3p3/Pp3p2/1P1ppP2/2P1P3/8/2K5 b - -">Link</a> | Blitz |
@@ -101,9 +104,6 @@
 | **centrumek** | Josine969 | timeout ❌ | 8/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/7K/4k3/8/5rq1 w - -">Link</a> | Blitz |
 | benjaminw0014 | **centrumek** | win 🥇 | 8/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4bp2/b5p1/6k1/p5n1/8/K7/8 w - -">Link</a> | Blitz |
 | **centrumek** | Accu93 | win 🥇 | 8/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kqQ1/ppp4p/1b6/5bp1/8/2P5/PP2P1PP/RN2KB1R w KQq -">Link</a> | Blitz |
-| JPchessgame | **centrumek** | win 🥇 | 8/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1K6/3p4/3k4/8/4b3/2r5/8 w - -">Link</a> | Blitz |
-| **centrumek** | L-e-o-n-a-r-d-o | win 🥇 | 8/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k3R1/7R/8/8/2B1p3/1P2P3/PKP5/8 b - -">Link</a> | Blitz |
-| Adass79 | **centrumek** | checkmated ❌ | 8/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/pp3Qb1/3p3p/2p3p1/2P1P1n1/2N3B1/PPP3PP/R4RK1 b kq -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
