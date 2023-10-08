@@ -17,4 +17,6 @@ jobs:
       - uses: Balastrong/chess-stats-action@main
         with:
           CHESS_USERNAME: ${{ vars.CHESS_USERNAME }}
+          COMMIT_EMAIL: $ {{ vars.COMMIT_EMAIL }}
           COMMIT_MSG: 'chore(chess): [NO-REF] Update chess stats ⚡'
+          COMMIT_USERNAME: $ {{ vars.COMMIT_USERNAME }}
