@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 994 | 790 | 892 |
+| Current | 994 | 798 | 892 |
 | Best | 1132 | 910 | 892 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Neorejjj | win 🥇 | 8/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1k4r/pRQ5/2p2Ppb/2P4p/q4P2/7R/3BKP2/8 b - -">Link</a> | Blitz |
 | fifomatic | **centrumek** | timeout ❌ | 8/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R5R/3r4/pkp5/1p6/1P2K3/P2r4/8/8 b - -">Link</a> | Blitz |
 | **centrumek** | DavidKH26 | win 🥇 | 8/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/1pp1r2p/p7/1b3PB1/1P4P1/3p1P2/P2Q1R1P/6K1 b - -">Link</a> | Blitz |
 | Michaelorian | **centrumek** | win 🥇 | 8/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2p5/p4b1p/1p4p1/1P3p2/P6P/2P2P2/4r1K1 w - -">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | **centrumek** | odgfsd | resigned ❌ | 8/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2q2pbp/p3p1p1/2p5/5P2/1rP1PK2/6PP/2R5 w - -">Link</a> | Blitz |
 | benitocamelas15 | **centrumek** | win 🥇 | 8/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/2k5/Q2p3p/2p5/K3Pb2/3P1P2/q7/8 w - -">Link</a> | Blitz |
 | wazakikii | **centrumek** | repetition ⏸️ | 8/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Bn2k2r/p1p5/3p1p1p/4p3/8/1PPP3P/q1KQ1Pp1/3R2R1 w k -">Link</a> | Blitz |
-| elizabethsaith | **centrumek** | checkmated ❌ | 8/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k1R2/7Q/3p4/4p1p1/8/2P5/PP1q2PP/R6K b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
