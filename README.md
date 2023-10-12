@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 994 | 782 | 899 |
+| Current | 994 | 774 | 899 |
 | Best | 1132 | 910 | 907 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Rojanlhang | **centrumek** | checkmated ❌ | 11/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2b2/2Q5/2np1p2/3Np3/8/8/PrP2PPP/R4RK1 b - -">Link</a> | Blitz |
 | KingNabil12 | **centrumek** | checkmated ❌ | 11/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/p3bppp/3p3k/3Np2Q/6P1/8/PP3PP1/R4NK1 b - -">Link</a> | Blitz |
 | **centrumek** | klau2020 | win 🥇 | 11/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/2p2R1k/6pp/8/1p1p2B1/3r2qP/8/7K b - -">Link</a> | Blitz |
 | WeuigkiesjobxaHk14783 | **centrumek** | resigned ❌ | 11/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bk1b1r/ppp2Npp/2n2n2/8/4P3/8/PPP2PPP/RNB1KB1R b KQ -">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | **centrumek** | Dewarucicatur | win 🥇 | 11/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/ppN2k1p/4Q2b/5pp1/3P4/4P3/PPPB2PP/2R1K1R1 b - -">Link</a> | Blitz |
 | Borasinio | **centrumek** | checkmated ❌ | 11/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkbnr/ppp2Qpp/3p4/4p3/2BnP3/2N4P/PPPP1PP1/R1B1K2R b KQkq -">Link</a> | Blitz |
 | ankittitarmare | **centrumek** | resigned ❌ | 11/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/p2b2p1/1p6/3p4/6P1/PP3P2/2R2K1Q b - -">Link</a> | Blitz |
-| **centrumek** | GuiSouza9 | resigned ❌ | 10/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2pk4/p1pB4/2Pp4/3P3b/P4pp1/3K4/5r2 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
