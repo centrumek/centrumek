@@ -89,21 +89,21 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1002 | 780 | 899 |
+| Current | 1002 | 764 | 899 |
 | Best | 1132 | 910 | 907 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| luckymeiwin | **centrumek** | checkmated ❌ | 16/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3kR3/2p4p/2B3p1/1P2P3/3P2p1/4n2P/8/6K1 b - -">Link</a> | Blitz |
+| **centrumek** | midget_lover | resigned ❌ | 16/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/5K2/8/6k1/5q2 w - -">Link</a> | Blitz |
+| CalebtheMcCabe | **centrumek** | timeout ❌ | 16/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/PP3k2/1K4n1/3q4/8/8/8 b - -">Link</a> | Blitz |
+| 2023ZABA02 | **centrumek** | win 🥇 | 16/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b2rk1/3q2pp/4pp2/Np6/1npP4/4P3/1P1NBPPP/Q3K2R w - -">Link</a> | Blitz |
+| **centrumek** | grandlosa | win 🥇 | 16/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R2k1/r4p1p/2B1bB2/7p/p1p5/1p6/P1P2KPP/2R5 b - -">Link</a> | Blitz |
+| DyZiO7i7 | **centrumek** | resigned ❌ | 16/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/3K4/8/3k4/p7/8/P7/8 b - -">Link</a> | Blitz |
 | **centrumek** | martinduchon | win 🥇 | 16/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5pk/3R3p/2B5/4q3/5QPP/3p3K/8 b - -">Link</a> | Blitz |
 | **centrumek** | albertocamaron | win 🥇 | 16/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R2k2/8/5K2/8/p4P2/7r/8/8 b - -">Link</a> | Blitz |
 | raghukudur1981 | **centrumek** | checkmated ❌ | 16/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/5R1P/1p2kR2/3p2r1/1P1P2p1/P5K1/8 b - -">Link</a> | Blitz |
 | **centrumek** | ERINGARRETT3 | checkmated ❌ | 15/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/6pp/b1p1pp2/p1BP4/P2P2n1/4P3/3N1PPq/2RQR1K1 w kq -">Link</a> | Blitz |
-| hadithepadi | **centrumek** | checkmated ❌ | 15/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/pp3pbQ/7p/2pPB1p1/6n1/2N5/PPB3PP/R4RK1 b - -">Link</a> | Blitz |
-| **centrumek** | bangjoel17 | resigned ❌ | 15/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/2p2k1p/p2q1p2/3b4/P1PK2P1/7P/1P6/R1B1b3 w - -">Link</a> | Blitz |
-| LATINO007 | **centrumek** | resigned ❌ | 15/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/P1n2k1R/3p4/3Pp3/2P1P1K1/8/R7 b - -">Link</a> | Blitz |
-| **centrumek** | sdachen | checkmated ❌ | 15/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/p1p3pn/2pq4/2Kp3Q/3P1r2/2N5/PPP5/R6R w - -">Link</a> | Blitz |
-| Cincy2 | **centrumek** | win 🥇 | 15/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/8/4p3/P2qPb2/5P2/1r6/4K3 w - -">Link</a> | Blitz |
-| **centrumek** | ahmedatayev | resigned ❌ | 15/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pkp/4p1p1/4b3/6K1/8/8/8 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
