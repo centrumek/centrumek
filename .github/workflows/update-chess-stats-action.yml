@@ -1,4 +1,4 @@
-name: Chess Games & Stats Action
+name: Chess README Games & Stats Action
 
 # GitHub Actions documentation: https://docs.github.com/en/actions
 # GitHub Marketplace Actions: https://github.com/marketplace?type=actions
@@ -10,8 +10,10 @@ on:
 
 jobs:
   update-readme:
-    name: Update chess stats
+    name: Update README with chess games & stats
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
       - uses: Balastrong/chess-stats-action@main

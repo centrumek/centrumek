@@ -28,7 +28,7 @@
       <td width="30%" rowspan="2">
         <a href="https://app.daily.dev/centrumek">
           <img
-            src="./devcard.png"
+            src="./devcard.svg"
             alt="centrumek"
           />
         </a>
