@@ -1,4 +1,4 @@
-name: Update DevCard
+name: DevCard Update Action
 
 # GitHub Actions documentation: https://docs.github.com/en/actions
 # GitHub Marketplace Actions: https://github.com/marketplace?type=actions
@@ -12,29 +12,15 @@ on:
     - cron: '21 */6 * * *' # https://crontab.guru
 
 jobs:
-  devcard:
+  update-devcard:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Setup node
-        uses: actions/setup-node@v3
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.3.0
         with:
-          node-version: 20
-      - name: Install dependencies
-        run: npm install
-      - name: Run script
-        run: npm start
-        env:
           DEVCARD_ID: ${{ vars.DEVCARD_ID }}
-      - name: Commit files
-        run: |
-          git config --global user.email "paul.potaczala@gmail.com"
-          git config --global user.name "Paul Potaczała"
-          git commit -am "chore(devcard): [NO-REF] Update devcard ⚡" || true
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MESSAGE: 'chore(devcard): [NO-REF] Update devcard ⚡'
+          COMMITTER_EMAIL: ${{ vars.COMMIT_EMAIL }}
+          COMMITTER_NAME: ${{ vars.COMMIT_USERNAME }}
