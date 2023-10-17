@@ -4,23 +4,20 @@ name: DevCard Update Action
 # GitHub Marketplace Actions: https://github.com/marketplace?type=actions
 
 on:
-  workflow_dispatch:
-  push:
-    branches:
-      - main
   schedule:
-    - cron: '21 */6 * * *' # https://crontab.guru
+    - cron: '31 */6 * * *' # https://crontab.guru
+  workflow_dispatch:
 
 jobs:
   update-devcard:
+    name: Update devcard file
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: devcard
-        uses: dailydotdev/action-devcard@2.3.0
+      - uses: dailydotdev/action-devcard@2.3.0
         with:
-          DEVCARD_ID: ${{ vars.DEVCARD_ID }}
           COMMIT_MESSAGE: 'chore(devcard): [NO-REF] Update devcard ⚡'
           COMMITTER_EMAIL: ${{ vars.COMMIT_EMAIL }}
           COMMITTER_NAME: ${{ vars.COMMIT_USERNAME }}
+          DEVCARD_ID: ${{ vars.DEVCARD_ID }}
