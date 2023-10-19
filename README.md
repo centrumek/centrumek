@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1002 | 792 | 913 |
+| Current | 1002 | 801 | 913 |
 | Best | 1132 | 910 | 913 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | istoria1988 | win 🥇 | 19/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5kpp/5r2/3R2P1/8/7K/P7/1r6 b - -">Link</a> | Blitz |
 | **centrumek** | sahil30000 | win 🥇 | 18/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/2PK1k1p/p3p1p1/5pP1/3P3P/P7/2P4R/8 b - -">Link</a> | Blitz |
 | **centrumek** | MoPickles | checkmated ❌ | 18/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2p2p1p/1p2p1p1/p3P1PP/P3pP2/1P2Pb2/1rr5/2K1RR2 w - -">Link</a> | Blitz |
 | **centrumek** | AlexanderAguirreA | resigned ❌ | 18/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pk1/4p1p1/4P3/PR3PK1/r7/8/4q3 w - -">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | **centrumek** | drkeyur | checkmated ❌ | 18/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/2p1B2p/7b/p7/b5P1/1p6/K7/2q5 w - -">Link</a> | Blitz |
 | GoldenAixe | **centrumek** | stalemate ⏸️ | 18/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/8/7p/7P/1k5K/5r2/8/8 w - -">Link</a> | Blitz |
 | Grimrock1 | **centrumek** | win 🥇 | 18/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r3/8/P6p/3k4/3p4/7P/3N1KP1/R7 w - -">Link</a> | Blitz |
-| **centrumek** | joelmgj | win 🥇 | 18/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2krr3/pp3pBp/8/3P4/4P3/5P2/Q5PP/1R3RK1 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
