@@ -1,0 +1,14 @@
+#I am writin code how to write hello world in python,java,cpp
+#python -----------------
+print("helloworld!")
+#java----------------------------
+class main{
+public static void main(String [] args){
+System.out.println("helloworld!")
+}}
+#cpp-----------------------------------
+#include<iostream>
+using namespace std;
+void main(){
+cout<<"helloworld";
+}
