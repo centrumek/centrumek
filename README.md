@@ -89,11 +89,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1002 | 836 | 913 |
+| Current | 1002 | 835 | 913 |
 | Best | 1132 | 910 | 913 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| NguyenHuyPhuong | **centrumek** | win 🥇 | 29/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2r4p/b2R4/5kp1/PB6/1P5R/1K5P/8 w - -">Link</a> | Blitz |
+| Elsacapunta133 | **centrumek** | checkmated ❌ | 29/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k2R3/pp5R/2p5/8/2p4P/2P3rr/PPK5/8 b - -">Link</a> | Blitz |
 | **centrumek** | DeepakJuneja | checkmated ❌ | 29/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R5/p1p2kpp/2p5/3p4/3P4/2PP2P1/P2q1r1P/3K4 w - -">Link</a> | Blitz |
 | **centrumek** | JoseAlbertooo | checkmated ❌ | 29/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R4pk1/1p4p1/4p3/1P2b3/8/7r/2K2r2 w - -">Link</a> | Blitz |
 | **centrumek** | Elite-Altair | timeout ❌ | 29/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p1p/6pk/3R4/8/2B5/1r3r1P/7K w - -">Link</a> | Blitz |
@@ -102,8 +104,6 @@
 | AShelby12 | **centrumek** | win 🥇 | 29/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/pp4b1/3p3p/3q2p1/P7/BP5P/3prPP1/3R2K1 w - -">Link</a> | Blitz |
 | ptiniuha | **centrumek** | timeout ❌ | 28/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k2r3/p1p1PP2/P7/1P1n3p/3p4/1K1P4/4r2P/2R5 b - -">Link</a> | Blitz |
 | Nicola67 | **centrumek** | resigned ❌ | 28/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/P7/8/8/2P2k2/2K5/8/8 b - -">Link</a> | Blitz |
-| **centrumek** | godatchess5 | win 🥇 | 28/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/p1pk4/2p5/8/4pP2/P3P3/1PP5/4K3 b - -">Link</a> | Blitz |
-| **centrumek** | BuckleOx | win 🥇 | 27/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/5kp1/pb2N3/3B1PP1/b3P3/K3R3/4R3 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
