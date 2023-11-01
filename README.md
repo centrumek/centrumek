@@ -89,11 +89,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1002 | 806 | 913 |
+| Current | 1002 | 814 | 913 |
 | Best | 1132 | 910 | 913 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| IljaKillestein | **centrumek** | win 🥇 | 1/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3K3q/6q1/4p3/3kP3/8/8 w - -">Link</a> | Blitz |
+| **centrumek** | Wesley001Ajax | win 🥇 | 1/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/p1p3p1/P2p1pPp/2nPr3/2P2K2/8/R7 b - -">Link</a> | Blitz |
+| nahtgoood | **centrumek** | checkmated ❌ | 1/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/8/p7/2Q5/k3Pq1p/1B5b/PPP2PP1/5RK1 b - -">Link</a> | Blitz |
 | **centrumek** | ramamoorthy093 | win 🥇 | 1/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/ppp2ppp/3b4/6B1/1P2Q3/P1q2P2/6PP/5RK1 b - -">Link</a> | Blitz |
 | bvmanz | **centrumek** | win 🥇 | 1/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/K7/2kb4/8/8/q7 w - -">Link</a> | Blitz |
 | **centrumek** | Learnandbeat | win 🥇 | 1/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/6pp/4Q3/1p6/1B6/8/PPK3pP/6r1 b - -">Link</a> | Blitz |
@@ -101,9 +104,6 @@
 | **centrumek** | DaGuy12345 | checkmated ❌ | 1/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4K2k/ppr1q3/8/8/P1p5/2P5/8/8 w - -">Link</a> | Blitz |
 | **centrumek** | martinurreta | resigned ❌ | 1/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1r6/K1k5/8/8/8 w - -">Link</a> | Blitz |
 | AnAncientAtlantis | **centrumek** | resigned ❌ | 1/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/Bp5p/4k1p1/8/8/P3b3/KP2Q2P/6NR b - -">Link</a> | Blitz |
-| **centrumek** | Links_Star | checkmated ❌ | 1/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/pp3ppp/4p3/1N2Q3/1P2p3/P5P1/2r4q/3R3K w - -">Link</a> | Blitz |
-| reddyalnusa5 | **centrumek** | insufficient ⏸️ | 1/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/8/8/8/8/8/8/2K5 b - -">Link</a> | Blitz |
-| **centrumek** | imdaystar | win 🥇 | 1/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r3r/ppqnbN1p/2p1p1p1/3p2P1/3P1P1B/2NQPR1P/PPP5/R5K1 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
