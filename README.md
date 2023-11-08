@@ -89,11 +89,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1009 | 829 | 913 |
+| Current | 1009 | 828 | 913 |
 | Best | 1132 | 910 | 913 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| kamzolovalex | **centrumek** | checkmated ❌ | 8/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q3r/p2Pk1Q1/4p2p/4Pp1P/5P2/8/1P4P1/3R2K1 b - -">Link</a> | Blitz |
+| matcat5000 | **centrumek** | win 🥇 | 8/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3r1K2/2q5/8/8/7k/8/7r w - -">Link</a> | Blitz |
 | **centrumek** | Mason2806 | win 🥇 | 7/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/8/1K1Q4/8/8/8/8 b - -">Link</a> | Blitz |
 | **centrumek** | mrjroos | checkmated ❌ | 7/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7K/8/8/4k3/8/7q/6q1 w - -">Link</a> | Blitz |
 | iMeepy | **centrumek** | resigned ❌ | 7/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4r/pp3pbp/8/2p1Pp2/5B2/2P4P/PPn2PP1/2R2RK1 b - -">Link</a> | Blitz |
@@ -102,8 +104,6 @@
 | **centrumek** | 06EMRE23 | win 🥇 | 7/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k3N1/2r2p1p/1R6/6P1/4KP2/8/8/8 b - -">Link</a> | Blitz |
 | **centrumek** | redbelugawhale | checkmated ❌ | 7/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7R/4bk2/5p1P/6PK/5P2/7q/8 w - -">Link</a> | Blitz |
 | **centrumek** | eric_gunnarsson | win 🥇 | 7/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4B2/1kp3p1/1p5p/1P1PKP2/P5P1/8/1r6 b - -">Link</a> | Blitz |
-| Yogimao | **centrumek** | win 🥇 | 7/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp6/6Q1/2kp1P1P/3p4/PPq5/KR6/4r3 w - -">Link</a> | Blitz |
-| Mikailglr | **centrumek** | checkmated ❌ | 7/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/8/k1Q5/pN1p3p/2p5/1P6/PKP2PqP/7R b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
