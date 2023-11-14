@@ -89,11 +89,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1025 | 957 | 936 |
+| Current | 1016 | 957 | 936 |
 | Best | 1132 | 957 | 936 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| smarcik85 | **centrumek** | win 🥇 | 14/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1p3pb1/4p1p1/P3P3/2pPKP2/3q1P2/8/8 w - -">Link</a> | Blitz |
+| **centrumek** | Lloydymole | stalemate ⏸️ | 14/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/1P6/PK6/8/8/8/8/8 b - -">Link</a> | Rapid |
+| **centrumek** | jebfodbrxisbdo | checkmated ❌ | 14/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k6/p3p3/Kp2P3/r7/2R3B1/8/3b4 w - -">Link</a> | Rapid |
 | Doggyroyalchezz | **centrumek** | win 🥇 | 14/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/1r6/8/4K3/8/8/kq3Q2 w - -">Link</a> | Blitz |
 | **centrumek** | AnonymousC22 | win 🥇 | 13/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q1R5/8/1K3kp1/8/2R4P/8/8/8 b - -">Link</a> | Blitz |
 | Ahmedsweed5 | **centrumek** | win 🥇 | 13/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/ppQ4p/3P1bp1/6n1/4r1qK/8/P1P4P/3R4 w - -">Link</a> | Rapid |
@@ -101,9 +104,6 @@
 | **centrumek** | tallicr | win 🥇 | 13/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/ppp2ppp/4p3/3pB3/4b3/1P2P3/P1P2PPP/RN1QK1R1 b Qkq -">Link</a> | Blitz |
 | **centrumek** | Afzalkhan94 | win 🥇 | 13/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4p1kp/3p1pp1/8/8/1PQ1P1P1/q4P1P/5RK1 b - -">Link</a> | Blitz |
 | cam3l3onul | **centrumek** | win 🥇 | 13/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3kp3/p7/2Pr4/1p1Bp1p1/1B6/PPP1K1P1/R7 w - -">Link</a> | Bullet |
-| Riccoh | **centrumek** | win 🥇 | 13/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/3RP3/3p4/4kP2/8/1K6 w - -">Link</a> | Bullet |
-| fkwit | **centrumek** | win 🥇 | 13/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/p1p5/1p2P3/6R1/2B1K1bk/1P6/P7/8 w - -">Link</a> | Blitz |
-| **centrumek** | pongski025 | win 🥇 | 13/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p1p/8/4kp2/8/2K2P1P/6P1/8 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
