@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1016 | 944 | 936 |
+| Current | 1016 | 951 | 936 |
 | Best | 1132 | 973 | 936 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | hi_love | win 🥇 | 17/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k1R3/1pP5/p3P3/P1PK4/r7/8/8 b - -">Link</a> | Blitz |
 | **centrumek** | rb00us | resigned ❌ | 16/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/2pr2pp/4p1k1/1p1bP3/1B6/2P3P1/1KP2R1P/3n4 w - -">Link</a> | Blitz |
 | **centrumek** | yystein | checkmated ❌ | 16/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/ppp3pp/4p3/1P4r1/1PPP4/3pP2r/1B6/R6K w - -">Link</a> | Blitz |
 | asanchezva | **centrumek** | win 🥇 | 16/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3r2pk/7p/5R2/7P/6bK/8/8 w - -">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | vanb0t | **centrumek** | resigned ❌ | 16/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/pp4k1/2p5/2Pp4/4r3/1P1KP2P/P5P1/3R4 b - -">Link</a> | Blitz |
 | **centrumek** | Magistr009 | win 🥇 | 16/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/1p2R3/p1p4p/6pP/1Q1P2r1/5K2/P1P5/R7 b - -">Link</a> | Blitz |
 | **centrumek** | nicolasglauser | win 🥇 | 16/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/R7/4pk1R/5p2/2p2P2/6PK/p2r3P/8 b - -">Link</a> | Blitz |
-| Hambosha | **centrumek** | resigned ❌ | 15/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6KP/1pB5/1P6/P3R1Pr/3k4/8/8 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
