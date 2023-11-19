@@ -89,21 +89,21 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1016 | 983 | 936 |
-| Best | 1132 | 983 | 936 |
+| Current | 1016 | 982 | 936 |
+| Best | 1132 | 997 | 936 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | apumpkinfarm | resigned ❌ | 18/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p3rq1/2n1K3/p1k1pB2/3p2P1/1P6/2P4P/8 w - -">Link</a> | Blitz |
+| max100520 | **centrumek** | checkmated ❌ | 18/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkbnr/ppp2Qpp/2np4/4p3/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq -">Link</a> | Blitz |
+| **centrumek** | deabeyta | win 🥇 | 18/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/1R6/5k2/8/4K3 b - -">Link</a> | Blitz |
+| ValemeDeus | **centrumek** | win 🥇 | 18/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1p1k3/2pp4/4p3/2P1P3/1P2K3/P7/5r2 w - -">Link</a> | Blitz |
 | masisArm | **centrumek** | win 🥇 | 18/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/1krK4/8/8 w - -">Link</a> | Blitz |
 | **centrumek** | Lowk3ys | win 🥇 | 18/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/3Q4/8/2k1p3/8/4K3 b - -">Link</a> | Blitz |
 | Erhandogu | **centrumek** | win 🥇 | 18/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/N5pk/7p/r7/8/6KP/6P1/7r w - -">Link</a> | Blitz |
 | **centrumek** | lev_69 | win 🥇 | 18/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/p2b4/2p5/1pkp4/8/P1KB4/2P4r/4R3 w - -">Link</a> | Blitz |
 | **centrumek** | AS120210 | repetition ⏸️ | 18/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q3rk1/p5pB/2p5/3p4/3P4/2q5/P4P1P/3K3R b - -">Link</a> | Blitz |
 | habibdalhat | **centrumek** | stalemate ⏸️ | 18/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/7P/6K1/5N2/6P1/8/8/8 b - -">Link</a> | Blitz |
-| **centrumek** | Elgirhath | win 🥇 | 18/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/5k1p/4p1p1/3p4/4P3/2P2PPK/1p5P/8 b - -">Link</a> | Bullet |
-| Elgirhath | **centrumek** | timeout ❌ | 18/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/p7/k4B2/P4R1P/6PK/6r1 b - -">Link</a> | Bullet |
-| Elgirhath | **centrumek** | checkmated ❌ | 18/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pR6/R3p3/6p1/3bP3/k4P2/6PP/2K5 b - -">Link</a> | Bullet |
-| **centrumek** | Elgirhath | checkmated ❌ | 18/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/3p1ppp/b1p1p3/8/8/R4N2/1r3PPP/1qKQR3 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
