@@ -116,12 +116,12 @@
 
 | Username | Day Streak | Total XP |
 |:---:|:---:|:---:|
-| 👤 Centrumek | 🔥 321 | ⚡ 26046 |
+| 👤 Centrumek | 🔥 322 | ⚡ 26058 |
 
 | Language | Level | XP |
 |:---:|:---:|:---:|
+| 🇺🇦 Ukrainian | 👑 40 | ⚡ 10252 |
 | 🇪🇸 Spanish | 👑 79 | ⚡ 10550 |
-| 🇺🇦 Ukrainian | 👑 40 | ⚡ 10240 |
 | 🇯🇵 Japanese | 👑 9 | ⚡ 5256 |
 
 <!--END_SECTION:duolingoStats-->
