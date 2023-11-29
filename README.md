@@ -89,11 +89,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 1039 | 1019 |
-| Best | 1132 | 1047 | 1061 |
+| Current | 1007 | 1058 | 1019 |
+| Best | 1132 | 1058 | 1061 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Berlian181 | **centrumek** | win 🥇 | 29/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1kp5/p1n5/1p2b3/4Q3/PN4q1/NPP3P1/1K6 w - -">Link</a> | Blitz |
+| **centrumek** | cch24 | win 🥇 | 29/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=N2b2nr/pp2k2p/2n1b3/5p2/1P2P2N/2P5/P3P1PP/2KR1B1R b - -">Link</a> | Blitz |
 | husegz | **centrumek** | win 🥇 | 28/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1p1bR3/p2P2rk/P6P/1P4P1/6K1 w - -">Link</a> | Blitz |
 | bleskolumbien | **centrumek** | checkmated ❌ | 28/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/2Q5/k7/2p5/p1Pp4/1P1N4/2K5/8 b - -">Link</a> | Blitz |
 | gutek9102 | **centrumek** | checkmated ❌ | 28/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b5/ppp5/4pRQp/3pP1k1/6p1/2P3P1/P1P1P1B1/6K1 b - -">Link</a> | Blitz |
@@ -102,8 +104,6 @@
 | **centrumek** | Kopiertiks | timeout ❌ | 26/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1p5/P5k1/1KP4p/7p/3q4/8/2Q5 w - -">Link</a> | Bullet |
 | lars100102 | **centrumek** | win 🥇 | 26/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k1b1r/ppp2p2/4bn1p/4p1p1/4P3/2N2PB1/PPP3PP/R3KB1R w KQ -">Link</a> | Bullet |
 | **centrumek** | loganbenson | timeout ❌ | 25/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pkp/6p1/3K1p2/4rP2/8/P7/8 w - -">Link</a> | Bullet |
-| longjump1978 | **centrumek** | timeout ❌ | 25/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2r5/8/p3P1R1/P2PKP2/8/5k2/8 b - -">Link</a> | Bullet |
-| **centrumek** | amanzuberi85 | timeout ❌ | 25/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p4pp/1p6/8/3pk3/3N4/8/4K3 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
