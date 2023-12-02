@@ -94,6 +94,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | smarcik85 | win 🥇 | 1/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2b/8/8/2n2B2/4P3/1PP2NP1/2K2P1P/7R b - - 4 31">Link</a> | Daily |
 | AizikC | **centrumek** | win 🥇 | 30/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/q4p1k/3p2p1/2pPP2p/1pP5/1P1P3P/1K1Q2P1/4R3 w - -">Link</a> | Bullet |
 | **centrumek** | Neongoby03 | win 🥇 | 30/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/ppp2ppp/3p4/4P2b/6P1/5N1P/PPP1PP2/RNBQKB1R b KQkq g3">Link</a> | Bullet |
 | **centrumek** | Billehbrawl | win 🥇 | 30/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5q1/2p5/2k1p3/p1PpQp2/P4P2/1PB1P3/2P1K3/1R6 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | candeniz17 | timeout ❌ | 30/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/pp1b4/2pkp1Qp/3p4/2P4b/NP3q2/PB4RP/7K w - -">Link</a> | Bullet |
 | Reizy35onT | **centrumek** | timeout ❌ | 30/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/p2P4/1kp1Q3/P1N5/1PP4P/1K6 b - -">Link</a> | Bullet |
 | **centrumek** | RouriChile | timeout ❌ | 30/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1p3k1p/pPpp1p2/P2PpK2/2P5/8/8 w - -">Link</a> | Bullet |
-| walteh | **centrumek** | resigned ❌ | 30/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/1R4pp/p4p2/k1BBp3/1p6/5P2/P4P1P/2R3K1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
