@@ -89,11 +89,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 1058 | 1028 |
-| Best | 1132 | 1058 | 1061 |
+| Current | 1007 | 1050 | 1028 |
+| Best | 1132 | 1065 | 1061 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| christianjames123 | **centrumek** | resigned ❌ | 2/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4p3/p3P3/P1Q2P2/1Pk3K1/8/3R4 b - -">Link</a> | Blitz |
+| **centrumek** | oscarduran1403 | checkmated ❌ | 2/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6p1/1p2p2p/2b5/5PqK/3P1q2/7P/8 w - -">Link</a> | Blitz |
+| ClarabelGuyRuby | **centrumek** | win 🥇 | 2/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b3kr/pp1p2pp/8/4P3/3R4/4B3/P1PN2PP/q5K1 w - -">Link</a> | Blitz |
 | **centrumek** | smarcik85 | win 🥇 | 1/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2b/8/8/2n2B2/4P3/1PP2NP1/2K2P1P/7R b - - 4 31">Link</a> | Daily |
 | AizikC | **centrumek** | win 🥇 | 30/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/q4p1k/3p2p1/2pPP2p/1pP5/1P1P3P/1K1Q2P1/4R3 w - -">Link</a> | Bullet |
 | **centrumek** | Neongoby03 | win 🥇 | 30/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/ppp2ppp/3p4/4P2b/6P1/5N1P/PPP1PP2/RNBQKB1R b KQkq g3">Link</a> | Bullet |
@@ -101,9 +104,6 @@
 | Mathathias | **centrumek** | win 🥇 | 30/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/pb3pbp/6p1/2p5/N1Q5/3B4/PPP2PqP/3R2K1 w - -">Link</a> | Bullet |
 | SpiritGuardian717 | **centrumek** | win 🥇 | 30/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/ppp5/2n1p3/3pPn2/3P2p1/2N2Pq1/PP1NQ3/R3RK1r w q -">Link</a> | Bullet |
 | **centrumek** | Bortnyansky | win 🥇 | 30/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2krr3/Q1b1qppp/p4nb1/1p6/2B3P1/4P2P/PPP2P2/R1B1K2R b KQ -">Link</a> | Bullet |
-| **centrumek** | candeniz17 | timeout ❌ | 30/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/pp1b4/2pkp1Qp/3p4/2P4b/NP3q2/PB4RP/7K w - -">Link</a> | Bullet |
-| Reizy35onT | **centrumek** | timeout ❌ | 30/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/p2P4/1kp1Q3/P1N5/1PP4P/1K6 b - -">Link</a> | Bullet |
-| **centrumek** | RouriChile | timeout ❌ | 30/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1p3k1p/pPpp1p2/P2PpK2/2P5/8/8 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
