@@ -89,21 +89,21 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 1043 | 1071 |
+| Current | 1007 | 1051 | 1104 |
 | Best | 1132 | 1098 | 1111 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | radicalrill | win 🥇 | 12/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/7k/5K2/8/8/7R b - -">Link</a> | Blitz |
+| **centrumek** | Wedge2 | win 🥇 | 12/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k6/b2p2pp/2pNp3/2PnP1P1/3PKB1P/8/q7 b - -">Link</a> | Bullet |
+| **centrumek** | BaBatz | win 🥇 | 12/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/5p2/6pp/1p1N1n2/6KP/2r5/P7/R7 b - -">Link</a> | Bullet |
+| TuanAnqwerty | **centrumek** | win 🥇 | 12/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k4q1/1p1p2r1/p1pPp1rp/P1P5/1P3P2/3RR1PP/4Q1K1 w - -">Link</a> | Bullet |
+| majc001 | **centrumek** | win 🥇 | 12/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p4pp1/n3p2p/1pb5/5P1P/1PP2P1B/P4qK1/7R w - -">Link</a> | Bullet |
 | **centrumek** | Takethediag | win 🥇 | 12/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pkp5/1p6/1Pb5/8/4p3/PKP1Pn1B/4R3 b - -">Link</a> | Bullet |
 | ghassandahu | **centrumek** | win 🥇 | 12/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p5p1/1p6/2b4r/4pRp1/2N3Pk/PPP4P/R5K1 w - -">Link</a> | Bullet |
 | **centrumek** | AlphaBlackCone | checkmated ❌ | 12/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p2/p1pq2p1/2p4p/2P1K3/NP4P1/PB2q2P/8 w - -">Link</a> | Bullet |
 | ooderfude5 | **centrumek** | checkmated ❌ | 12/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q1k/pp4R1/2p5/8/4P1p1/2P3P1/PP6/2K5 b - -">Link</a> | Bullet |
 | **centrumek** | patricksbarryy | win 🥇 | 12/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2R5/2p1p3/5p2/P2Bpk2/1P6/1KP1r3/8 b - -">Link</a> | Bullet |
-| MicrowavedBeans | **centrumek** | win 🥇 | 12/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k2/pppb2b1/2n1pr2/7q/3P2P1/2NB1N2/PPP4P/2KR3R b - g3">Link</a> | Bullet |
-| **centrumek** | akiraelli | timeout ❌ | 12/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k1ppp/4p3/8/2np1PP1/4P1K1/8/8 w - -">Link</a> | Bullet |
-| **centrumek** | Link123qwert | win 🥇 | 12/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb2rk1/ppp2ppp/5n2/3qp3/8/2NP1NP1/PP1QPP1P/R3KB1R b KQ -">Link</a> | Bullet |
-| caspergraffiti | **centrumek** | timeout ❌ | 12/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/4QP2/p6k/1p6/6Bp/3P3K/PP3R1P/8 b - -">Link</a> | Bullet |
-| BobyA | **centrumek** | checkmated ❌ | 12/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R1k2bnr/1p6/1P1pp2p/1QpPp3/2P1P1p1/8/1P3PPP/6K1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
