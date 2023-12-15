@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 1040 | 1083 |
+| Current | 1007 | 1040 | 1074 |
 | Best | 1132 | 1098 | 1128 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| bogdankozitskiy | **centrumek** | checkmated ❌ | 15/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/2Q5/p3N1P1/3P4/8/1P3p1K/P7/R7 b - -">Link</a> | Bullet |
 | **centrumek** | Daniel_Abrahamsen | win 🥇 | 14/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/3k1ppp/3b4/1B1K4/1P1p2P1/2r5/8/7R b - -">Link</a> | Bullet |
 | **centrumek** | fangste | win 🥇 | 14/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6kp/8/6B1/7P/pK6/8/r7 b - -">Link</a> | Bullet |
 | Megacryometeor7 | **centrumek** | timeout ❌ | 14/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/ppp5/4R1B1/5R2/7k/1P5P/P2n2K1/8 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | victorsantos123 | win 🥇 | 14/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/pppnbpp1/4pnp1/3p4/3P1PP1/2NBP3/PPP4P/R1BQK2R b KQkq g3">Link</a> | Bullet |
 | **centrumek** | gianlucca_santoro | checkmated ❌ | 14/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pppb2bp/4p1p1/2Pp4/3P4/4P3/PP1N1qPP/R1BQK2R w KQ -">Link</a> | Bullet |
 | almimasa | **centrumek** | timevsinsufficient ⏸️ | 14/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp6/2p5/k4n2/q2pK3/8/8/8 b - -">Link</a> | Bullet |
-| **centrumek** | Kiary_Carts | timeout ❌ | 14/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6kp/8/7q/8/8/6K1 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
