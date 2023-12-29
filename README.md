@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 839 | 1074 |
+| Current | 1007 | 830 | 1074 |
 | Best | 1132 | 1098 | 1128 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Crisscross7 | timeout ❌ | 29/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3k2p/1p4p1/2pp2P1/2P4P/1P6/PK6/4q3 w - -">Link</a> | Blitz |
 | dnk-4 | **centrumek** | win 🥇 | 27/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/8/3pk2p/2p5/Bp1p1nP1/4b2K/P5R1/8 w - -">Link</a> | Blitz |
 | **centrumek** | bakhriddin1 | resigned ❌ | 27/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pb1p1B2/1pk2bp1/2p1r2p/4N3/4K3/PP5P/8 w - -">Link</a> | Blitz |
 | **centrumek** | LittleCroco | timeout ❌ | 27/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/P7/2b2pk1/5p1p/3R4/6K1/8 w - -">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | Wonder153 | **centrumek** | resigned ❌ | 27/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1qk2r/6Qp/2p1p1p1/p3Pp2/3Pp3/2P1P3/PPB3PP/R1B2RK1 b k -">Link</a> | Blitz |
 | **centrumek** | manwithhammer43 | resigned ❌ | 26/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/6k1/8/pB3p1p/P3rP1P/4K3/8/8 w - -">Link</a> | Blitz |
 | ShadowShade02 | **centrumek** | timeout ❌ | 26/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3K4/4Pk2/8/8/8/8/8 b - -">Link</a> | Blitz |
-| Deadlox0 | **centrumek** | win 🥇 | 26/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/p2b3p/7p/6K1/6P1/5P2/5r1q/8 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
