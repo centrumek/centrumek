@@ -89,11 +89,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 818 | 1074 |
+| Current | 1007 | 841 | 1074 |
 | Best | 1132 | 1098 | 1128 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| MannyRibera1 | **centrumek** | win 🥇 | 3/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/1pp2p2/p2p3p/5P2/4b3/2N2N2/PPP2PPP/R3K2R w KQkq -">Link</a> | Blitz |
+| WinR4Gs | **centrumek** | win 🥇 | 3/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkr2/p2b3p/2pp1p2/1pb1p3/4P2B/3P1Q2/PPP2PPP/R3K2R w KQq -">Link</a> | Blitz |
+| **centrumek** | Frknege | win 🥇 | 3/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b1r/4k1pp/1B2Q3/4ppN1/8/3q1P2/P5PP/R4RK1 b - -">Link</a> | Blitz |
 | ArchZee | **centrumek** | resigned ❌ | 2/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppp3k1/8/4n3/3R2P1/6K1/PPP5/R1B4B b - -">Link</a> | Blitz |
 | **centrumek** | MellowXL2 | resigned ❌ | 2/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/p4ppp/5n2/3p1b2/q7/2P1QP2/P5PP/R1B1K2R w KQ -">Link</a> | Blitz |
 | collinpankratz | **centrumek** | resigned ❌ | 2/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/2K3k1/8/1R6/8/8/8/8 b - -">Link</a> | Blitz |
@@ -101,9 +104,6 @@
 | kamarajpandianv | **centrumek** | resigned ❌ | 2/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R3/6k1/6p1/3Bp2p/P3P3/6P1/5PKP/5R2 b - -">Link</a> | Blitz |
 | **centrumek** | joaohenrique182 | resigned ❌ | 2/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/r2nb3/3p4/2pP4/1P6/2BP2p1/5q2/q6K w - -">Link</a> | Blitz |
 | **centrumek** | DOGHROV | win 🥇 | 2/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4Q3/2pk1K2/8/8/8/6B1 b - -">Link</a> | Blitz |
-| masoudgwrs | **centrumek** | win 🥇 | 2/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2n5/2b3k1/2Bp2Pp/3P3P/5P2/8/6K1 w - -">Link</a> | Blitz |
-| **centrumek** | alfacelu | resigned ❌ | 1/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q2k1/pp3p1p/2n3p1/3pr3/P6P/3K4/1P1P1P2/R1B1R3 b - -">Link</a> | Blitz |
-| ottohall | **centrumek** | checkmated ❌ | 1/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4p2r/6p1/pQ1p1p1p/k4P1P/1Rp1P3/P1P3P1/1K5R b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
