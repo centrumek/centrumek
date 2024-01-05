@@ -89,11 +89,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 839 | 1074 |
+| Current | 1007 | 833 | 1074 |
 | Best | 1132 | 1098 | 1128 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Nanhplayer1996 | **centrumek** | resigned ❌ | 5/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/4P2p/6p1/p1p5/1pk1P3/1N6/PPP4P/2K5 b - -">Link</a> | Blitz |
+| rkbgm | **centrumek** | win 🥇 | 5/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/8/3kB3/2RP4/8/2P5/3K4/8 w - -">Link</a> | Blitz |
+| **centrumek** | ZAMYPA | timeout ❌ | 5/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3k4/3PR3/r3K3/8/8/8 w - -">Link</a> | Blitz |
 | **centrumek** | GJ1278 | timeout ❌ | 4/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/p5pk/R6p/P7/8/1RK3P1/8/1r6 w - -">Link</a> | Blitz |
 | GusTheChessKing | **centrumek** | win 🥇 | 4/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pk1/2R2p2/2p5/4P2p/5PbP/3r2K1/r7 w - -">Link</a> | Blitz |
 | **centrumek** | JamesRoss26 | timeout ❌ | 4/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k7/2p5/p7/1p5p/6p1/P1P2p2/KP1r1P1P/3q4 w - -">Link</a> | Blitz |
@@ -101,9 +104,6 @@
 | Pedroo71 | **centrumek** | checkmated ❌ | 4/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6Q1/8/5N2/8/1K2P3/5P2/8 b - -">Link</a> | Blitz |
 | **centrumek** | Fussbus89 | timevsinsufficient ⏸️ | 4/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/Q2Pk3/1R6/1P6/8/K7/8 w - -">Link</a> | Blitz |
 | Cabbage0205 | **centrumek** | resigned ❌ | 4/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=B1br2k1/2p3pp/p3p3/4p3/1p1pP3/3P4/PPP1NPPP/3R1RK1 b - -">Link</a> | Blitz |
-| **centrumek** | andreuoros | win 🥇 | 4/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1k1b/pp1p1p2/5Np1/2pQP1P1/5P2/8/PPB5/R1B1K3 b Q -">Link</a> | Blitz |
-| bakamomo | **centrumek** | win 🥇 | 4/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/p7/8/P4r2/4kp1P/2P2R2/4KR2 b - -">Link</a> | Blitz |
-| **centrumek** | GuntherIIV | checkmated ❌ | 4/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2ppp/2p2n2/2b3B1/4P1b1/2NP1P2/PPP2qPP/R2QK2R w KQ -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
