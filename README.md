@@ -89,21 +89,21 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 833 | 1074 |
+| Current | 1007 | 854 | 1074 |
 | Best | 1132 | 1098 | 1128 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| cebong_kampret | **centrumek** | win 🥇 | 6/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5pk1/p2rn3/3N2pp/R7/6P1/6K1 w - -">Link</a> | Blitz |
+| TeddiKao | **centrumek** | win 🥇 | 6/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/6k1/6p1/8/5QK1/8 w - -">Link</a> | Blitz |
+| **centrumek** | MasterChief1122 | stalemate ⏸️ | 6/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/6k1/5p1p/7K w - -">Link</a> | Blitz |
+| **centrumek** | 13243546576879hi | win 🥇 | 6/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R6p/pk1p2p1/1p6/1P2B1p1/4B3/b6P/6K1 b - -">Link</a> | Blitz |
+| jpelysee | **centrumek** | win 🥇 | 6/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/4bp2/3p4/1p2p2p/1P1nPP1P/2BPK3/4r1r1/1R6 w - -">Link</a> | Blitz |
+| **centrumek** | marvinevil | win 🥇 | 6/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p4p1/2knR3/1r5p/K1p5/P1P5/8/3R4 b - -">Link</a> | Blitz |
+| **centrumek** | ChessKingMasterChampion | checkmated ❌ | 5/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/ppp5/4p1p1/8/1P6/P1P3Q1/5R1K/3r3q w - -">Link</a> | Blitz |
+| IDmitry777 | **centrumek** | resigned ❌ | 5/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5kPK/8/8/8/8/8/8 b - -">Link</a> | Blitz |
 | Nanhplayer1996 | **centrumek** | resigned ❌ | 5/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/4P2p/6p1/p1p5/1pk1P3/1N6/PPP4P/2K5 b - -">Link</a> | Blitz |
 | rkbgm | **centrumek** | win 🥇 | 5/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/8/3kB3/2RP4/8/2P5/3K4/8 w - -">Link</a> | Blitz |
-| **centrumek** | ZAMYPA | timeout ❌ | 5/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3k4/3PR3/r3K3/8/8/8 w - -">Link</a> | Blitz |
-| **centrumek** | GJ1278 | timeout ❌ | 4/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/p5pk/R6p/P7/8/1RK3P1/8/1r6 w - -">Link</a> | Blitz |
-| GusTheChessKing | **centrumek** | win 🥇 | 4/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pk1/2R2p2/2p5/4P2p/5PbP/3r2K1/r7 w - -">Link</a> | Blitz |
-| **centrumek** | JamesRoss26 | timeout ❌ | 4/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k7/2p5/p7/1p5p/6p1/P1P2p2/KP1r1P1P/3q4 w - -">Link</a> | Blitz |
-| lynxtitan02 | **centrumek** | win 🥇 | 4/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/4K1k1/8/5q1r w - -">Link</a> | Blitz |
-| Pedroo71 | **centrumek** | checkmated ❌ | 4/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6Q1/8/5N2/8/1K2P3/5P2/8 b - -">Link</a> | Blitz |
-| **centrumek** | Fussbus89 | timevsinsufficient ⏸️ | 4/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/Q2Pk3/1R6/1P6/8/K7/8 w - -">Link</a> | Blitz |
-| Cabbage0205 | **centrumek** | resigned ❌ | 4/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=B1br2k1/2p3pp/p3p3/4p3/1p1pP3/3P4/PPP1NPPP/3R1RK1 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
