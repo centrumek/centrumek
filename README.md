@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 905 | 1074 |
+| Current | 1007 | 913 | 1074 |
 | Best | 1132 | 1098 | 1128 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| EmperadorCD | **centrumek** | win 🥇 | 8/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/5Q1p/1k3p1B/2q1p3/P3P3/2P5/6PP/3R3K w - -">Link</a> | Blitz |
 | machito1010 | **centrumek** | win 🥇 | 7/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/8/4r3/1p1r2p1/7p/p3KP1P/Pb3P2/8 w - -">Link</a> | Blitz |
 | **centrumek** | atdhev | resigned ❌ | 7/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/p5pp/6p1/6b1/2q5/5K2/8/8 w - -">Link</a> | Blitz |
 | **centrumek** | memek20Rb | win 🥇 | 7/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/1p6/b3K3/7r/8/2pR3k/8 b - -">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | **centrumek** | Sn0wdon | win 🥇 | 7/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/2P2pp1/1p1Q3p/pB6/P3R3/2P3P1/5PKP/R7 b - -">Link</a> | Blitz |
 | **centrumek** | Scriptso | timeout ❌ | 7/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4b3/8/3K3p/7k/8/8 w - -">Link</a> | Blitz |
 | fetoser92 | **centrumek** | win 🥇 | 7/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/k7/1p6/7P/6P1/5P1K/4Q3 w - -">Link</a> | Blitz |
-| **centrumek** | ajfrjf3 | win 🥇 | 6/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7R/pp1P2p1/2pB1p2/2K2B1k/P1P5/7P/6R1 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
