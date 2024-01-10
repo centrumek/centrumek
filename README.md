@@ -121,7 +121,7 @@
 | Language | Level | XP |
 |:---:|:---:|:---:|
 | 🇺🇦 Ukrainian | 👑 43 | ⚡ 11056 |
-| 🇪🇸 Spanish | 👑 80 | ⚡ 10654 |
+| 🇪🇸 Spanish | 👑 81 | ⚡ 10654 |
 | 🇯🇵 Japanese | 👑 9 | ⚡ 5354 |
 
 <!--END_SECTION:duolingoStats-->
