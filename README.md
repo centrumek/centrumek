@@ -89,11 +89,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 905 | 1074 |
+| Current | 1007 | 920 | 1074 |
 | Best | 1132 | 1098 | 1128 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| LimitlessTest | **centrumek** | win 🥇 | 13/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k4/3p4/1r5p/r7/3KP3/8/8 w - -">Link</a> | Blitz |
+| Frankie159 | **centrumek** | win 🥇 | 13/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p2k2/p2p1p2/8/8/2p4r/1P6/5K2 w - -">Link</a> | Blitz |
 | **centrumek** | 2rupee | resigned ❌ | 13/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pb5p/1p1b1kp1/1P1p4/8/2P2P2/P4KPP/8 w - -">Link</a> | Blitz |
 | **centrumek** | Mokas_Mokasov | win 🥇 | 11/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q2k/pp4p1/2p3K1/8/7q/7P/8/8 b - -">Link</a> | Blitz |
 | Mollock1962 | **centrumek** | resigned ❌ | 10/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1R6/p7/P4p2/1Qp3p1/2P3P1/k4P1P/6K1 b - -">Link</a> | Blitz |
@@ -102,8 +104,6 @@
 | EmperadorCD | **centrumek** | win 🥇 | 8/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/5Q1p/1k3p1B/2q1p3/P3P3/2P5/6PP/3R3K w - -">Link</a> | Blitz |
 | machito1010 | **centrumek** | win 🥇 | 7/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/8/4r3/1p1r2p1/7p/p3KP1P/Pb3P2/8 w - -">Link</a> | Blitz |
 | **centrumek** | atdhev | resigned ❌ | 7/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/p5pp/6p1/6b1/2q5/5K2/8/8 w - -">Link</a> | Blitz |
-| **centrumek** | memek20Rb | win 🥇 | 7/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/1p6/b3K3/7r/8/2pR3k/8 b - -">Link</a> | Blitz |
-| mo7006 | **centrumek** | win 🥇 | 7/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/5p2/8/p3b1Bp/P1b1P1pP/2P5/1r2pKP1/R3R3 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
