@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 908 | 1074 |
+| Current | 1007 | 915 | 1074 |
 | Best | 1132 | 1098 | 1128 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | m4rius1337 | win 🥇 | 18/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/ppp1pppp/8/3p4/8/2N2N2/PPPPPPPP/R1BQKB1R b KQkq -">Link</a> | Blitz |
 | bbesito | **centrumek** | timeout ❌ | 18/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/1p5p/pP6/6p1/P7/7P/4KQPq/8 b - -">Link</a> | Blitz |
 | beatadine | **centrumek** | win 🥇 | 18/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/4R1p1/1p4B1/r5K1/8/5PPP/8 w - -">Link</a> | Blitz |
 | **centrumek** | JoshWa01 | win 🥇 | 17/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R7/6p1/4Bp2/2Q1kP1p/5r2/3K4/8 b - -">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | **centrumek** | JustusMoff | win 🥇 | 14/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/pp3ppQ/2p1p3/8/P7/2qB4/2P1KPPP/R6R b - -">Link</a> | Blitz |
 | Toast6106 | **centrumek** | timeout ❌ | 14/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1PK3kp/3p4/3Pb3/2P5/8 b - -">Link</a> | Blitz |
 | **centrumek** | Kavya_lakra | win 🥇 | 14/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppp2p1p/2p1b1p1/6k1/P7/K3B3/1P4q1/8 b - -">Link</a> | Blitz |
-| **centrumek** | marcusgarv | timeout ❌ | 14/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/pp4p1/3r3p/2p5/q1K2B2/5p2/1R3P2/8 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
