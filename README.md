@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 907 | 1083 |
+| Current | 1007 | 899 | 1083 |
 | Best | 1132 | 1098 | 1128 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | halzyen | resigned ❌ | 20/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1q6/1P6/1K6/8/5kp1/8/8 w - -">Link</a> | Blitz |
 | zsmall | **centrumek** | resigned ❌ | 20/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1b2/8/6p1/p1pNp1P1/1p2P3/P2P1P1Q/1P1B4/3K4 b - -">Link</a> | Blitz |
 | DonSzah | **centrumek** | win 🥇 | 20/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/3q2KR/1k3P2/6P1/5n2/8 w - -">Link</a> | Blitz |
 | **centrumek** | DonSzah | win 🥇 | 20/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R1Q5/8/8/5kp1/7P/5K2/8/8 b - -">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | Kampfkanone | **centrumek** | win 🥇 | 19/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2q5/4bpk1/3p3p/p2P2p1/4P3/1R2P3/P1p1K1PP/8 w - -">Link</a> | Bullet |
 | **centrumek** | m4rius1337 | win 🥇 | 18/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/ppp1pppp/8/3p4/8/2N2N2/PPPPPPPP/R1BQKB1R b KQkq -">Link</a> | Blitz |
 | bbesito | **centrumek** | timeout ❌ | 18/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/1p5p/pP6/6p1/P7/7P/4KQPq/8 b - -">Link</a> | Blitz |
-| beatadine | **centrumek** | win 🥇 | 18/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/4R1p1/1p4B1/r5K1/8/5PPP/8 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
