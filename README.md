@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 961 | 1083 |
+| Current | 1007 | 953 | 1083 |
 | Best | 1132 | 1098 | 1128 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | laertiss | checkmated ❌ | 23/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=K7/8/5p2/8/8/q5k1/1q6/8 w - -">Link</a> | Blitz |
 | **centrumek** | eriquit_0 | win 🥇 | 22/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p3k1R/pPrbbp2/P1p1p3/2PpP1PN/1N1P2K1/8/8 b - -">Link</a> | Blitz |
 | D-Supra | **centrumek** | win 🥇 | 22/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/k1p5/P5p1/1PR3Pp/4p2P/5PK1/3r4 w - -">Link</a> | Blitz |
 | indrov | **centrumek** | checkmated ❌ | 22/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq2r1/ppp2n2/3pkp2/3N1Qp1/4P3/8/PPP2PPP/R1B2RK1 b - -">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | 1SLETA | **centrumek** | win 🥇 | 21/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=B4b1r/p4k2/bp2p1q1/3pPp1p/4n3/PP2PN2/1BP3PP/R4RK1 w - -">Link</a> | Blitz |
 | **centrumek** | Kyami318 | win 🥇 | 21/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/p1q2k2/4Q1R1/1p2P2P/2p5/1P3P2/P1P2K2/8 b - -">Link</a> | Blitz |
 | jeanmichelneff | **centrumek** | win 🥇 | 21/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4R3/2k5/5K2/1p6/3p2r1/8/8 w - -">Link</a> | Blitz |
-| **centrumek** | joaovictoroliver | checkmated ❌ | 21/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/R7/1r6/8/8/KqP1P3/8/8 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
