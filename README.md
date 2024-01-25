@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 962 | 1102 |
+| Current | 1007 | 962 | 1109 |
 | Best | 1132 | 1098 | 1128 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Allyg1988 | win 🥇 | 25/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/5p2/2p1p3/2P1b1P1/7P/2BK4/qr6 b - -">Link</a> | Bullet |
 | **centrumek** | Mikluho-Mclay | win 🥇 | 24/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/P5p1/5pk1/7p/4K3/6P1/7P/8 b - -">Link</a> | Blitz |
 | polish_fighter14yo | **centrumek** | win 🥇 | 24/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2pb4/3k4/8/7R/PPP4P/2K2q2 w - -">Link</a> | Bullet |
 | **centrumek** | dnlKaizer | win 🥇 | 24/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6pp/7P/1p1p4/1BbP4/P1P5/4qk2/K7 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | CheckmateMatt03 | **centrumek** | win 🥇 | 24/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4b2/pbp2Q2/1p1kp3/5p2/7p/2B5/PP3PqP/1R2R1K1 w - -">Link</a> | Bullet |
 | **centrumek** | Fredoonie | timeout ❌ | 24/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b5/1k1r2r1/ppp2R2/8/1P1P1K2/2P5/P7/8 w - -">Link</a> | Bullet |
 | **centrumek** | redajo | win 🥇 | 24/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p4ppp/3Rb3/2p5/2P1P3/1PPN1PP1/1K5P/7R b - -">Link</a> | Bullet |
-| **centrumek** | josiahand | timeout ❌ | 24/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/7p/4pkpP/8/5K2/8 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
