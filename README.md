@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 962 | 1143 |
+| Current | 1007 | 962 | 1152 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| NewChessPlayer00123456 | **centrumek** | win 🥇 | 31/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R7/2p1k3/P6p/6p1/4P1P1/2r5/1r2K3 w - -">Link</a> | Bullet |
 | **centrumek** | Flekka2 | timeout ❌ | 29/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5ppp/2p1p3/3pP3/3q1PP1/7P/6K1/8 w - -">Link</a> | Bullet |
 | amenschen | **centrumek** | resigned ❌ | 29/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Rr2k/R6p/1r4p1/8/4B3/4PP1P/PPP3P1/2K5 w - -">Link</a> | Bullet |
 | ImDaiver | **centrumek** | win 🥇 | 29/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/2b5/5r2/8/6K1/5P2/8/8 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | TheUnknownGirl03 | **centrumek** | win 🥇 | 29/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/6pp/N3p3/6q1/1P1pQ3/P6r/2P2P2/R4R1K w - -">Link</a> | Bullet |
 | Sonic037 | **centrumek** | checkmated ❌ | 29/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/7p/p1p2B2/1p6/6R1/1P2P3/P4P1P/5RK1 b - -">Link</a> | Bullet |
 | **centrumek** | cots | win 🥇 | 29/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/pppB2pp/8/2b3P1/5Rn1/1K6/PP2r2P/R1B5 b - -">Link</a> | Bullet |
-| **centrumek** | benharef | win 🥇 | 29/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3kQ2/2r1B3/8/7P/1P6/PK5P/3R3R b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
