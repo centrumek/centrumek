@@ -89,11 +89,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 948 | 1144 |
+| Current | 1007 | 948 | 1135 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| wojciacho30 | **centrumek** | timeout ❌ | 3/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/pp6/1kp5/8/3P4/6q1/PPPR2P1/2K1R3 b - -">Link</a> | Bullet |
+| FC231997 | **centrumek** | timeout ❌ | 2/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6N/pR6/2k4p/6p1/4Q3/8/P4PPP/5RK1 b - -">Link</a> | Bullet |
+| skv_11 | **centrumek** | win 🥇 | 2/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/2kp4/p7/2K1N1p1/2P2r2/8/8 w - -">Link</a> | Bullet |
 | **centrumek** | apsbrasil | stalemate ⏸️ | 2/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2Q4R/6k1/6P1/4P2P/6KP/5P2/8 b - -">Link</a> | Bullet |
 | **centrumek** | imanuelaldo | win 🥇 | 2/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r3r/pp5p/2b1B2Q/4P3/3p1P2/4q1P1/5N1P/2R2RK1 b - -">Link</a> | Bullet |
 | muhammadmunga | **centrumek** | checkmated ❌ | 2/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/2r2rbk/5p1p/p3pQp1/4P3/4B3/q4PPP/5NK1 b - -">Link</a> | Blitz |
@@ -101,9 +104,6 @@
 | dondany1234 | **centrumek** | resigned ❌ | 2/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7k/1R6/8/6PP/8/6K1 b - -">Link</a> | Bullet |
 | felipezanotto | **centrumek** | win 🥇 | 2/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pk4q1/2pr4/8/2B5/1P1P4/P1P2PPP/R4RK1 w - -">Link</a> | Bullet |
 | **centrumek** | Ancylus | win 🥇 | 2/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/5ppp/pQ2p3/1b2P3/1P3P2/4P1K1/1P4PP/8 b - -">Link</a> | Bullet |
-| **centrumek** | KGZboy | win 🥇 | 2/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/1p3p1p/8/7P/6P1/5r2/K7/8 b - -">Link</a> | Bullet |
-| **centrumek** | chair03 | timeout ❌ | 2/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/p1P3pp/1P6/8/1r3k1P/8/3R1K2/8 w - -">Link</a> | Bullet |
-| SnakeMDP | **centrumek** | checkmated ❌ | 2/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/pbpp4/kp3R2/3p4/Q7/2N3P1/PPPN3P/R5K1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
