@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 948 | 1131 |
+| Current | 1007 | 940 | 1131 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| CiceroLira | **centrumek** | abandoned  | 3/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/p5p1/1bp1q3/4B2p/2P2Pn1/8/P3Q1P1/3R1R1K b - -">Link</a> | Blitz |
 | **centrumek** | Mackn_Sauce | win 🥇 | 3/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4Q3/5k2/4p3/4P3/5PP1/3RK3 b - -">Link</a> | Bullet |
 | Kei_R | **centrumek** | win 🥇 | 3/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/6p1/8/R6K/2P5/P4rP1/8 w - -">Link</a> | Bullet |
 | goele7 | **centrumek** | timeout ❌ | 3/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6rk/7R/7p/P3P1P1/5PK1/8 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | 3ly4nki000 | win 🥇 | 3/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/5p2/8/4Pbpp/8/4P2P/r7/6K1 b - -">Link</a> | Bullet |
 | **centrumek** | prapporay | timeout ❌ | 3/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1b2P2k/5R2/2B4p/2B5/5K1P/8 w - -">Link</a> | Bullet |
 | wojciacho30 | **centrumek** | timeout ❌ | 3/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/pp6/1kp5/8/3P4/6q1/PPPR2P1/2K1R3 b - -">Link</a> | Bullet |
-| FC231997 | **centrumek** | timeout ❌ | 2/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6N/pR6/2k4p/6p1/4Q3/8/P4PPP/5RK1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
