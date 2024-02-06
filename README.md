@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 940 | 1155 |
+| Current | 1007 | 940 | 1162 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| LordNicolas91 | **centrumek** | win 🥇 | 6/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp6/4n3/3Nk3/1PP4p/7P/5KP1/8 w - -">Link</a> | Bullet |
 | **centrumek** | DcBruce619 | win 🥇 | 6/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/Q1k5/2p1R1p1/1p4pp/1P6/7P/P5P1/6K1 b - -">Link</a> | Bullet |
 | EnP1ssaant | **centrumek** | win 🥇 | 6/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k6r/p6p/3Q4/qp1P4/4B3/6P1/2r1KP2/8 w - -">Link</a> | Bullet |
 | MUATH_WAEL | **centrumek** | resigned ❌ | 6/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2bR4/1p3k1p/p3p3/4B3/2B5/8/PPP2PPP/2K3NR b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | ZianiTheKiller | win 🥇 | 5/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4R3/6kp/6p1/4PPp1/6KP/8 b - -">Link</a> | Bullet |
 | CiceroLira | **centrumek** | abandoned  | 3/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/p5p1/1bp1q3/4B2p/2P2Pn1/8/P3Q1P1/3R1R1K b - -">Link</a> | Blitz |
 | **centrumek** | Mackn_Sauce | win 🥇 | 3/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4Q3/5k2/4p3/4P3/5PP1/3RK3 b - -">Link</a> | Bullet |
-| Kei_R | **centrumek** | win 🥇 | 3/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/6p1/8/R6K/2P5/P4rP1/8 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
