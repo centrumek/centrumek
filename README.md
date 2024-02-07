@@ -89,11 +89,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 940 | 1159 |
+| Current | 1007 | 940 | 1141 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| makegoodfood | **centrumek** | timeout ❌ | 7/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/K7/1P2p2p/5np1/2P2P2/7P/8 b - -">Link</a> | Bullet |
+| Lava_2105 | **centrumek** | checkmated ❌ | 7/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k1bn1/p1pQ4/1p2p2r/4P1qp/4B3/8/PPP2PPP/R2R2K1 b - -">Link</a> | Bullet |
 | **centrumek** | Good331 | checkmated ❌ | 7/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/K1p1Bppp/4p3/2n5/P7/2b5/7P/8 w - -">Link</a> | Bullet |
 | **centrumek** | YanBaeAja | checkmated ❌ | 6/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/pp4p1/4Q2p/R2pPP2/n2Kq1p1/P1P1P3/7P/2B5 w - -">Link</a> | Bullet |
 | **centrumek** | MrPotuso | checkmated ❌ | 6/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/ppp2ppp/4b3/1P6/4PPq1/7K/6BP/7R w - -">Link</a> | Bullet |
@@ -102,8 +104,6 @@
 | chessmcvay | **centrumek** | timevsinsufficient ⏸️ | 6/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/8/8/7k/8/2P5/PP4P1/1K6 w - -">Link</a> | Bullet |
 | **centrumek** | AhmedEinstein3 | win 🥇 | 6/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4r/pbp3bp/1p3Bp1/8/4p3/2P3N1/P1Q3PP/2KR4 b - -">Link</a> | Bullet |
 | **centrumek** | Seiyilarra | win 🥇 | 6/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1b1p1p2/1P3kpp/1pBp4/rP6/1K3P2/6PP/8 b - -">Link</a> | Bullet |
-| The_Last_Legatus | **centrumek** | timeout ❌ | 6/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/pp6/2k5/4p3/P1P1K1Pb/5r2/8/8 b - -">Link</a> | Bullet |
-| deathsettler | **centrumek** | win 🥇 | 6/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/2p5/p1n2k1p/1p2p3/4P3/N1PP1P2/P1K4P/6n1 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
