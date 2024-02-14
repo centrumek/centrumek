@@ -89,11 +89,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 940 | 1131 |
+| Current | 1007 | 940 | 1146 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | OluJagzy | win 🥇 | 14/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/p4b2/1pP3p1/6K1/8/8/8 b - -">Link</a> | Bullet |
+| johnro76 | **centrumek** | win 🥇 | 14/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -">Link</a> | Bullet |
 | **centrumek** | gnep | win 🥇 | 13/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp3pkb/2p5/3p4/3P4/1K3p2/PP2rB2/8 b - -">Link</a> | Bullet |
 | **centrumek** | arekwendland | win 🥇 | 13/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pk1/8/6r1/7p/7R/6p1/6K1 b - -">Link</a> | Bullet |
 | Hansiva | **centrumek** | win 🥇 | 13/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/k4q2/8/p4r2/1pPKP2p/P2P4/1P6/8 w - -">Link</a> | Bullet |
@@ -102,8 +104,6 @@
 | TheARKing9000 | **centrumek** | win 🥇 | 13/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5r1/4k3/p1pp1p1p/2p5/P3Pp2/RP1P1b2/2P2P1P/5RK1 w - -">Link</a> | Bullet |
 | **centrumek** | guayoah | resigned ❌ | 13/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rb1r1k1/pp3ppp/8/8/2q5/5PK1/6PP/7R w - -">Link</a> | Bullet |
 | NASER1109 | **centrumek** | checkmated ❌ | 13/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1br1/8/3pR2p/p2Q1kp1/B1P2p2/2B4P/5PP1/R5K1 b - -">Link</a> | Bullet |
-| **centrumek** | IlonaBartok | checkmated ❌ | 13/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/R4p1p/3bpp2/2pn4/2K5/2r1PNP1/1r3P1P/R7 w - -">Link</a> | Bullet |
-| Slaphed2 | **centrumek** | timeout ❌ | 13/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/p7/5R2/1k6/8/P3p3/P1R1K1PP/8 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
