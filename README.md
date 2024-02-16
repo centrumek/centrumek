@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 940 | 1176 |
+| Current | 1007 | 940 | 1169 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | TonegawaYukio | timeout ❌ | 16/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7r/1k2pPpp/1P2P1P1/1K6/8/7P/8 w - -">Link</a> | Bullet |
 | **centrumek** | AdjunctTact | win 🥇 | 15/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/p1p2pp1/2q1p1p1/Bp1pP3/5P2/1P2P1Q1/P1P4P/1NKR3R b kq -">Link</a> | Bullet |
 | **centrumek** | hasslerjaas | repetition ⏸️ | 15/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p4p1p/1pp1p1p1/4P3/P1P3P1/2P1P2n/1B1r1r1P/2R1K3 b - -">Link</a> | Bullet |
 | oneworldd | **centrumek** | win 🥇 | 15/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/1k5p/1p6/3b2P1/1P1P3P/5PK1/4r3 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | OluJagzy | win 🥇 | 14/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/p4b2/1pP3p1/6K1/8/8/8 b - -">Link</a> | Bullet |
 | johnro76 | **centrumek** | win 🥇 | 14/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -">Link</a> | Bullet |
 | **centrumek** | gnep | win 🥇 | 13/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp3pkb/2p5/3p4/3P4/1K3p2/PP2rB2/8 b - -">Link</a> | Bullet |
-| **centrumek** | arekwendland | win 🥇 | 13/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pk1/8/6r1/7p/7R/6p1/6K1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
