@@ -89,11 +89,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 940 | 1127 |
+| Current | 1007 | 940 | 1141 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | 888mas888 | win 🥇 | 18/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2p1k2p/1p2n2n/NK1QP3/1P3r2/P1P2r2/R7 b - -">Link</a> | Bullet |
+| **centrumek** | flismen | win 🥇 | 18/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3Nk1pp/5p2/2Q2PP1/6P1/PK6/8 b - -">Link</a> | Bullet |
 | Imkindofsloppy | **centrumek** | timeout ❌ | 18/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp6/2n5/2P1k3/1P6/8/P2K4/4r3 b - -">Link</a> | Bullet |
 | **centrumek** | ElTinidores | timeout ❌ | 18/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/pp6/2B1p3/KPq5/P1k5/8/8 w - -">Link</a> | Bullet |
 | smitsolanki1 | **centrumek** | win 🥇 | 18/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6bp/p7/6pk/8/4rP2/PP4KP/8 w - -">Link</a> | Bullet |
@@ -102,8 +104,6 @@
 | **centrumek** | LyvinM | resigned ❌ | 18/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/8/2r5/p5k1/6p1/6K1/8/8 w - a6">Link</a> | Bullet |
 | Ivo232 | **centrumek** | checkmated ❌ | 18/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/6Rp/5p1n/4p1kP/1P4P1/4qPK1/8/R7 b - -">Link</a> | Bullet |
 | **centrumek** | Lakshya_197 | timeout ❌ | 18/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/2K1n1b1/8/5bp1/8/4r3/7p/8 w - -">Link</a> | Bullet |
-| **centrumek** | rht_gswmi | win 🥇 | 18/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/3P2k1/8/6p1/NKP5/PB5Q/8 b - -">Link</a> | Bullet |
-| VictorMigue1 | **centrumek** | win 🥇 | 18/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b5/p3k2p/n1p1p3/1p2N3/3P4/8/PPP2PPP/R4RK1 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
