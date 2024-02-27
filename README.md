@@ -94,6 +94,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| ESL15 | **centrumek** | win 🥇 | 27/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/pbpQ1Pp1/1p6/8/8/N1P3P1/PP2Bq1P/R3K3 w - -">Link</a> | Bullet |
+| eddy20991 | **centrumek** | checkmated ❌ | 27/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k3R1/7Q/8/8/8/5P2/5KP1/8 b - -">Link</a> | Bullet |
 | **centrumek** | SayItwithyaChess28 | timeout ❌ | 26/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/8/2pq4/3p3p/6p1/8/7P/2N3K1 w - -">Link</a> | Bullet |
 | **centrumek** | Kath_baho | win 🥇 | 26/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1R3/pr3R2/2pp4/6B1/PP4P1/2P5/8/6K1 b - -">Link</a> | Bullet |
 | **centrumek** | falkzerd | timeout ❌ | 26/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/p5pp/1bp5/3pP3/2q2B2/6PP/3Q4/5R1K w - -">Link</a> | Bullet |
@@ -102,8 +104,6 @@
 | **centrumek** | partizanius | win 🥇 | 26/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pp1/4p2p/1b2P3/2k2P2/p4KP1/7P/1q6 b - -">Link</a> | Bullet |
 | 0regret0 | **centrumek** | checkmated ❌ | 26/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R3k2/Q7/8/8/3P4/4P1p1/5P2/6K1 b - -">Link</a> | Bullet |
 | **centrumek** | igoRhack | win 🥇 | 26/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3r2/3p2k1/8/p5p1/P2KPb2/8/6b1/8 b - -">Link</a> | Bullet |
-| Michelded | **centrumek** | timeout ❌ | 26/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3R4/P7/3k4/8/3n4/1P1K1PPP/8 b - -">Link</a> | Bullet |
-| **centrumek** | YanBaeAja | win 🥇 | 26/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/8/2PK1P2/7p/7P/8/8/8 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
