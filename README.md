@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 959 | 1117 |
+| Current | 1007 | 959 | 1110 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Mrstealy0girl | **centrumek** | timeout ❌ | 1/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/3P1P1k/6RP/5PK1/8 b - -">Link</a> | Bullet |
 | **centrumek** | Danielcarvalho1981 | resigned ❌ | 1/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pbpp3p/1p1kp3/8/2P3q1/8/P6K/8 w - -">Link</a> | Bullet |
 | **centrumek** | RicoWhiskey | checkmated ❌ | 1/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp3p1k/5Pp1/4PbK1/6rP/8/PP6/2R5 w - -">Link</a> | Bullet |
 | Wanda2000000000 | **centrumek** | win 🥇 | 1/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rr3/p1q3pp/1pk5/2n5/6Q1/P5P1/1P3P1P/2R2RK1 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | Ibragimys | **centrumek** | checkmated ❌ | 29/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6r/5Q1R/p2p1bk1/3Pp1p1/1P2Pp1p/P4P1P/6P1/5RK1 b - -">Link</a> | Bullet |
 | **centrumek** | Pradhumn123 | resigned ❌ | 28/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1nr/pppp1ppp/2n5/1B6/8/2N1PN2/P1PB1PPP/q3K2R w Kkq -">Link</a> | Bullet |
 | Krizeusz | **centrumek** | checkmated ❌ | 28/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7B/8/5RQ1/p6R/2p5/P1p3Pk/2P4P/6K1 b - -">Link</a> | Bullet |
-| Madwooman | **centrumek** | checkmated ❌ | 28/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/6Qk/1pqpp2P/p2p4/P2Pp3/2P5/1P1B2P1/5R1K b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
