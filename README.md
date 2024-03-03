@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 952 | 1101 |
+| Current | 1007 | 952 | 1094 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | halilyilar | checkmated ❌ | 3/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/1p3pp1/p3p3/P4P1p/1Q5P/6P1/2r3q1/R4RK1 w - -">Link</a> | Bullet |
 | **centrumek** | rodrigoec11 | timeout ❌ | 3/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/2PB1npk/1P6/R3p1K1/2r1P3/8/8 w - -">Link</a> | Bullet |
 | TRSun | **centrumek** | checkmated ❌ | 1/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/8/6pk/1PR5/1r6/6K1/5PP1/8 b - -">Link</a> | Blitz |
 | shivamkarwa | **centrumek** | win 🥇 | 1/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pRpk4/4pp2/8/2P5/2P3P1/P1rq4/KR6 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | memexpyrot21 | **centrumek** | checkmated ❌ | 1/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5Q2/k3Q3/1p6/1Pp5/2K5/8 b - -">Link</a> | Bullet |
 | **centrumek** | futureraj | win 🥇 | 1/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/5ppp/8/p3pP2/Pb1Qb1K1/6P1/3p3P/3B1R2 b - -">Link</a> | Bullet |
 | Mrstealy0girl | **centrumek** | timeout ❌ | 1/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/3P1P1k/6RP/5PK1/8 b - -">Link</a> | Bullet |
-| **centrumek** | Danielcarvalho1981 | resigned ❌ | 1/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pbpp3p/1p1kp3/8/2P3q1/8/P6K/8 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
