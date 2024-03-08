@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 985 | 1067 |
+| Current | 1007 | 977 | 1067 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Kawsar1308 | resigned ❌ | 8/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/5Bp1/1b6/7P/1p2P3/2r2PP1/4K3 w - -">Link</a> | Blitz |
 | justruchit | **centrumek** | win 🥇 | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/8/7P/8/1p2k3/1P1n4/P7/K2q4 w - -">Link</a> | Blitz |
 | TrinityDF | **centrumek** | resigned ❌ | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5r1/1p2k3/2pQp3/2Pb1p2/1P1Pp3/P3P2P/5P1K/R1B1R3 b - -">Link</a> | Blitz |
 | **centrumek** | Ameer_27 | win 🥇 | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1rk1/ppp2ppp/2n5/2b1p1NP/4P3/3P1Q2/PPP2nPR/RNB1KB2 b Q -">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | jbressand | **centrumek** | checkmated ❌ | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=QR6/2R5/8/k7/8/8/2P2PP1/6K1 b - -">Link</a> | Blitz |
 | **centrumek** | DiscoDinni | checkmated ❌ | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/8/3q2K1/4r3/8/8/7n/8 w - -">Link</a> | Blitz |
 | **centrumek** | Feri6011 | timevsinsufficient ⏸️ | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2k2q2/8/2Kp4/8/5n2/8 b - -">Link</a> | Blitz |
-| gbMaurice | **centrumek** | win 🥇 | 7/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2n2k2/2Q2p2/p5p1/1p1pPbP1/2p2P2/P1P2B2/KP1N2P1/7q w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
