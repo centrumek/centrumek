@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 977 | 1066 |
+| Current | 1007 | 977 | 1057 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| brbtr | **centrumek** | resigned ❌ | 11/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p1Rp1k1p/1p6/5p2/1B1P3P/PPP2P1K/8 b - -">Link</a> | Bullet |
 | **centrumek** | Bobbymunoz35 | timeout ❌ | 10/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2PR2Bk/8/2nP1P1p/4p3/2r1K1PP/4R3 w - -">Link</a> | Bullet |
 | Cheerios_Lover | **centrumek** | timeout ❌ | 10/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4K2/8/6Q1/3P4/8/PP3P1p/6k1 b - -">Link</a> | Bullet |
 | **centrumek** | N0t_JokeR | win 🥇 | 10/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/p1p5/P1P5/1P6/4K1Nk/3p3p/8 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | Mike44Mike44 | **centrumek** | timeout ❌ | 10/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6k1/6p1/6bp/R7/5K2/8 b - -">Link</a> | Bullet |
 | **centrumek** | CainJFrancis | resigned ❌ | 10/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/p2q1k1p/2bpppp1/2p1P3/2P3P1/2BP1P2/P4KP1/2r5 w - -">Link</a> | Bullet |
 | **centrumek** | marora005 | win 🥇 | 10/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/ppp1R3/1q1b2Q1/6pp/1P3p2/P1P3P1/1B3R1P/6K1 b - -">Link</a> | Bullet |
-| chessmentch1 | **centrumek** | win 🥇 | 10/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/P1p3rp/4pp2/1b2p3/1q2P3/3BQ2P/2P2PP1/R2R3K w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
