@@ -89,11 +89,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 977 | 1090 |
+| Current | 1007 | 977 | 1097 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | slawogo | win 🥇 | 15/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1p5/2B1k1R1/1PK5/2P2p2/3Pn3/7r/8 b - -">Link</a> | Bullet |
+| damiantorres4 | **centrumek** | checkmated ❌ | 15/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R6R/5p2/4n1pk/4B3/5P2/5PKP/3r4 b - -">Link</a> | Bullet |
+| **centrumek** | Andrew_Camp | win 🥇 | 15/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R3/5rpk/7p/3P1p2/K6P/3b1B2/6P1/8 b - -">Link</a> | Bullet |
 | MatiLuka | **centrumek** | timeout ❌ | 15/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/ppp2ppp/4p3/3p4/4P3/2N2P2/PPPP2PP/R1BQKBNR b KQkq - 0 3">Link</a> | Daily |
 | **centrumek** | ilovewine1 | timeout ❌ | 14/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2b1r/3r3p/p1p3p1/1p3nP1/1Pq2P2/P1N2KQ1/1BP4P/R3R3 w - - 8 26">Link</a> | Daily |
 | chandur1 | **centrumek** | win 🥇 | 12/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3r1p1p/5kp1/8/6P1/PP2RP1P/1K1q4 w - -">Link</a> | Bullet |
@@ -101,9 +104,6 @@
 | **centrumek** | Tippusultan343 | win 🥇 | 12/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/R1B3p1/1P3p1p/1K1b1n2/3r4/2N5/1P5P/6R1 b - -">Link</a> | Bullet |
 | **centrumek** | MTJR1 | timeout ❌ | 12/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1pk5/p1p4K/3r4/6B1/7P/6P1/8 w - -">Link</a> | Bullet |
 | **centrumek** | LuckyLuke7147 | win 🥇 | 12/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3b2k1/pp4Rp/6p1/3p4/1P4P1/PK1P4/1BP1rr2/7R b - -">Link</a> | Bullet |
-| mplunge | **centrumek** | resigned ❌ | 12/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kn2/7p/5Q2/p1p1p3/8/P1P2P2/5P1P/R3K1R1 b Qq -">Link</a> | Bullet |
-| **centrumek** | mplunge | win 🥇 | 12/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/7p/4b3/3R2BP/2qk2PK/8 b - -">Link</a> | Bullet |
-| csbass11 | **centrumek** | checkmated ❌ | 11/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/p4N2/1p6/3Q4/3kP3/PP3P1P/3K4 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
