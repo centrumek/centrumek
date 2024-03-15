@@ -94,6 +94,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| MatiLuka | **centrumek** | timeout ❌ | 15/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/ppp2ppp/4p3/3p4/4P3/2N2P2/PPPP2PP/R1BQKBNR b KQkq - 0 3">Link</a> | Daily |
 | **centrumek** | ilovewine1 | timeout ❌ | 14/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2b1r/3r3p/p1p3p1/1p3nP1/1Pq2P2/P1N2KQ1/1BP4P/R3R3 w - - 8 26">Link</a> | Daily |
 | chandur1 | **centrumek** | win 🥇 | 12/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3r1p1p/5kp1/8/6P1/PP2RP1P/1K1q4 w - -">Link</a> | Bullet |
 | ElmerHfz | **centrumek** | timeout ❌ | 12/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R5Bk/1p4p1/2n2b1p/8/1B3N2/P4PPP/4R1K1 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | mplunge | **centrumek** | resigned ❌ | 12/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kn2/7p/5Q2/p1p1p3/8/P1P2P2/5P1P/R3K1R1 b Qq -">Link</a> | Bullet |
 | **centrumek** | mplunge | win 🥇 | 12/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/7p/4b3/3R2BP/2qk2PK/8 b - -">Link</a> | Bullet |
 | csbass11 | **centrumek** | checkmated ❌ | 11/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/p4N2/1p6/3Q4/3kP3/PP3P1P/3K4 b - -">Link</a> | Bullet |
-| **centrumek** | Trequartista-10 | win 🥇 | 11/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/r5pp/2p1p3/2P4B/2K1P3/3P4/p2q4/R7 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
