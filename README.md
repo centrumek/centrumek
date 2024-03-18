@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 977 | 1092 |
+| Current | 1007 | 977 | 1083 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | KeineNameDiese | checkmated ❌ | 18/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/ppp4p/5Bk1/2P3P1/4p3/P7/3r1q1P/4K3 w - -">Link</a> | Bullet |
 | Freeguy97 | **centrumek** | win 🥇 | 18/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pkp5/1p1n4/3P4/8/8/PPP5/1K2r3 w - -">Link</a> | Bullet |
 | **centrumek** | RenatinhoSexsi | win 🥇 | 18/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4n2p/4qk1b/p3pB2/2p1P3/3P2PP/1P4K1/8 b - -">Link</a> | Bullet |
 | mbal5c | **centrumek** | win 🥇 | 18/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6rr/ppp1R3/3p2kp/8/3P4/1P5B/P1Pn1PPP/4R1K1 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | darkwinter23 | **centrumek** | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pR3Q1p/8/kN5B/1p2P3/P7/1KP2PPP/8 w - -">Link</a> | Bullet |
 | harrybleakley | **centrumek** | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p1k5/R7/5b2/8/1P4PP/3q4/5q1K w - -">Link</a> | Bullet |
 | **centrumek** | cpasko91 | resigned ❌ | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/8/8/1kp5/pp6/8/1K6/8 w - -">Link</a> | Bullet |
-| SimpleDane | **centrumek** | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k2/p7/1p6/2p2b2/2P3pN/2P1B1P1/P3B1P1/R5K1 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
