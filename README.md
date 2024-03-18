@@ -89,11 +89,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 977 | 1067 |
+| Current | 1007 | 977 | 1092 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Freeguy97 | **centrumek** | win 🥇 | 18/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pkp5/1p1n4/3P4/8/8/PPP5/1K2r3 w - -">Link</a> | Bullet |
+| **centrumek** | RenatinhoSexsi | win 🥇 | 18/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4n2p/4qk1b/p3pB2/2p1P3/3P2PP/1P4K1/8 b - -">Link</a> | Bullet |
+| mbal5c | **centrumek** | win 🥇 | 18/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6rr/ppp1R3/3p2kp/8/3P4/1P5B/P1Pn1PPP/4R1K1 w - -">Link</a> | Bullet |
 | **centrumek** | MasterORT | timeout ❌ | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/2p3Kp/Pb4bP/1k6/8/8 w - -">Link</a> | Bullet |
 | Quite_Black | **centrumek** | resigned ❌ | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7B/p1k5/4Q3/5p1p/8/7P/PPP2P2/R3K3 b Q -">Link</a> | Bullet |
 | **centrumek** | ne4to21 | resigned ❌ | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2r2k1/pp3ppp/1q1p1n2/4pb2/5n2/2P2N2/PP1NP1PP/2KR1B1R w - -">Link</a> | Bullet |
@@ -101,9 +104,6 @@
 | harrybleakley | **centrumek** | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p1k5/R7/5b2/8/1P4PP/3q4/5q1K w - -">Link</a> | Bullet |
 | **centrumek** | cpasko91 | resigned ❌ | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/8/8/1kp5/pp6/8/1K6/8 w - -">Link</a> | Bullet |
 | SimpleDane | **centrumek** | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k2/p7/1p6/2p2b2/2P3pN/2P1B1P1/P3B1P1/R5K1 w - -">Link</a> | Bullet |
-| BegenchS | **centrumek** | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r3Q/p1kn1Q2/8/1p6/8/3PKP2/PPP5/R1B1N3 w - -">Link</a> | Bullet |
-| **centrumek** | dheerajkesaraju | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/p2r1p2/Ppn2q1b/3p1p1p/1N4p1/3K2P1/7P/7R b - -">Link</a> | Bullet |
-| **centrumek** | Walteriosky | timeout ❌ | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp1b2pp/3p4/3p1P2/P2P2P1/1P2r3/2R4P/3q2K1 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
