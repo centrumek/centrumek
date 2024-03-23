@@ -94,6 +94,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| smarcik85 | **centrumek** | timeout ❌ | 23/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/ppp2p2/2np1n1p/3Np1p1/4P3/3PBP2/PPP3PP/R2QKBNR b KQkq - 1 7">Link</a> | Daily |
+| ilovewine1 | **centrumek** | timeout ❌ | 23/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppp1ppp/8/4p3/8/2N1P3/PPPP1PPP/R1BQKBNR b KQkq - 1 2">Link</a> | Daily |
 | **centrumek** | KingSqualo | win 🥇 | 22/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1k4/2pp1R2/7P/P1KP3r/2P3r1/1R6/8 b - -">Link</a> | Bullet |
 | **centrumek** | LAXMANCHESS2 | timeout ❌ | 22/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k4p1/p6p/3P4/4pP1P/4B3/5r2/3K4 w - -">Link</a> | Bullet |
 | **centrumek** | RAS0L1361 | resigned ❌ | 22/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/1ppb1ppp/p3pn2/8/1PP1Pb2/2N2P1P/P5P1/R4K2 w kq -">Link</a> | Bullet |
@@ -102,8 +104,6 @@
 | BelleChessPH | **centrumek** | timeout ❌ | 22/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rkRr4/p6q/1p6/3BP3/3P1p1P/Q5P1/PP6/4R2K b - -">Link</a> | Bullet |
 | CuongHoangTan | **centrumek** | win 🥇 | 22/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/6kp/5qb1/K3q3/8/8/8 w - -">Link</a> | Bullet |
 | **centrumek** | RegdonPeter | timeout ❌ | 22/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7p/8/5K2/7k/8/8 w - -">Link</a> | Bullet |
-| Shadowmoon99 | **centrumek** | win 🥇 | 22/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p4p2/3p3p/4b1p1/8/5K1r/8/8 w - -">Link</a> | Bullet |
-| **centrumek** | MattNez2011 | checkmated ❌ | 22/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb2rk1/pp4pp/8/2P5/8/3B4/PPPB1qPP/RN1QK2R w KQ -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
