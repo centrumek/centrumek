@@ -89,11 +89,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 977 | 1087 |
+| Current | 1007 | 977 | 1079 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| AA2997 | **centrumek** | checkmated ❌ | 23/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2bQ1k2/6b1/p3p2p/1P3p1B/3P1P2/2P1P3/6PP/R1B2RK1 b - -">Link</a> | Bullet |
+| **centrumek** | MatiLuka | timeout ❌ | 23/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2P5/PP2PPPP/RNBQKBNR w KQkq - 1 3">Link</a> | Daily |
 | smarcik85 | **centrumek** | timeout ❌ | 23/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/ppp2p2/2np1n1p/3Np1p1/4P3/3PBP2/PPP3PP/R2QKBNR b KQkq - 1 7">Link</a> | Daily |
 | ilovewine1 | **centrumek** | timeout ❌ | 23/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppp1ppp/8/4p3/8/2N1P3/PPPP1PPP/R1BQKBNR b KQkq - 1 2">Link</a> | Daily |
 | **centrumek** | KingSqualo | win 🥇 | 22/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1k4/2pp1R2/7P/P1KP3r/2P3r1/1R6/8 b - -">Link</a> | Bullet |
@@ -102,8 +104,6 @@
 | snnajaj118 | **centrumek** | checkmated ❌ | 22/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/2R3Q1/3p1n1p/4p1p1/4P3/2NP2P1/1P3PKP/q7 b - -">Link</a> | Bullet |
 | **centrumek** | knightinamour66 | win 🥇 | 22/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr2nr/ppp1n2p/5p1b/1PNp4/P2P1PQ1/2P1P3/7P/1RB1KB1R b K -">Link</a> | Bullet |
 | BelleChessPH | **centrumek** | timeout ❌ | 22/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rkRr4/p6q/1p6/3BP3/3P1p1P/Q5P1/PP6/4R2K b - -">Link</a> | Bullet |
-| CuongHoangTan | **centrumek** | win 🥇 | 22/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/6kp/5qb1/K3q3/8/8/8 w - -">Link</a> | Bullet |
-| **centrumek** | RegdonPeter | timeout ❌ | 22/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7p/8/5K2/7k/8/8 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
