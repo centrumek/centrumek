@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 977 | 1066 |
+| Current | 1007 | 977 | 1057 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| HowDoIGetPast700 | **centrumek** | timeout ❌ | 25/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/KP6/8/8/8/p7/P7/7q b - -">Link</a> | Bullet |
 | klarityRuben | **centrumek** | timeout ❌ | 24/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/8/7p/4pK2/2PpP3/2p2P2/3rQ3/4R3 b - -">Link</a> | Bullet |
 | **centrumek** | mrawanta | timeout ❌ | 24/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/4k2p/1p5p/1Bb5/5pK1/8/7P/3R3R w - -">Link</a> | Bullet |
 | **centrumek** | TIMMMEEEHH | timeout ❌ | 24/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7p/P2B4/2P5/6pk/3Q4/4K3 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | C_mongee | **centrumek** | win 🥇 | 24/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1n4/p6p/1p4R1/1P2p1p1/8/5BPk/7q/5RK1 w - -">Link</a> | Bullet |
 | **centrumek** | mohamedoualyne | win 🥇 | 24/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/pb1p1ppp/1p2p3/3nP3/2B5/2P5/P1Q2PPP/qN3RK1 b kq -">Link</a> | Bullet |
 | **centrumek** | AndreDeLaTorre | win 🥇 | 24/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/5pQ1/5Pp1/2p1p1P1/P1Pp4/3P4/3N4/6K1 b - -">Link</a> | Bullet |
-| tapout341 | **centrumek** | checkmated ❌ | 24/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/5Q1k/5Q2/P5p1/5p2/6PP/5RK1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
