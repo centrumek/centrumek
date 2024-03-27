@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 977 | 1073 |
+| Current | 1007 | 977 | 1064 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | ironhide777472 | timeout ❌ | 27/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1r1/p1Kq1p1p/8/3p4/5P2/8/P7/8 w - -">Link</a> | Bullet |
 | saashhhii | **centrumek** | win 🥇 | 26/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k3/1p6/p1p1p3/8/1PP2b2/N4r2/P3K3/1Q2R3 w q -">Link</a> | Bullet |
 | **centrumek** | montassar8 | timeout ❌ | 25/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3R1pp1/4Rbkp/p7/8/P1r3PK/8/8 w - -">Link</a> | Bullet |
 | Yuu-27 | **centrumek** | win 🥇 | 25/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r3r/3qb3/3p1n2/B1pPp3/1nP1Pp1p/PQ3P1P/1P2N3/1K3BRR w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | trainposa | **centrumek** | timeout ❌ | 25/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp6/nnk4R/2p5/P5bP/1P6/1KPr2P1/8 b - -">Link</a> | Bullet |
 | **centrumek** | thegost-ilyass | win 🥇 | 25/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4N3/7p/1p4p1/2p2p2/2R1k3/R5P1/1Q5P/6K1 b - -">Link</a> | Bullet |
 | **centrumek** | vk_kashyap | timeout ❌ | 25/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/p4ppp/p2N4/8/P2P4/B3r3/2P2q2/R1KQ4 w - -">Link</a> | Bullet |
-| **centrumek** | jamerz1155 | win 🥇 | 25/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1K3Bpp/2N2n2/8/4p3/4P3/6PP/1R6 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
