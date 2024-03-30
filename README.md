@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 977 | 1103 |
+| Current | 1007 | 977 | 1111 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| AztecaMexico | **centrumek** | win 🥇 | 30/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/pp5p/2p5/4P3/1Q2p3/P1P3BP/1PK2PP1/3q4 w - -">Link</a> | Bullet |
 | milev650 | **centrumek** | resigned ❌ | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4kr1/p2R3p/1p1Q2pn/2p5/8/P3PN2/1P3PPP/4K2R b K -">Link</a> | Bullet |
 | **centrumek** | romibulan | checkmated ❌ | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R1bk1/pBp4p/1p2N1p1/8/8/6P1/P1q4P/5r1K w - -">Link</a> | Bullet |
 | Sebas_r79 | **centrumek** | win 🥇 | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/3r3p/6pb/1p1P4/4p3/1P2P1P1/7P/5K2 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | Marat1234567891011 | win 🥇 | 29/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p4p/P1np3k/p2Rp1p1/2P3K1/5r2/5r2/8 b - -">Link</a> | Bullet |
 | CptLevi19 | **centrumek** | checkmated ❌ | 28/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/4Q3/p4n2/p6p/6p1/P1B3P1/qPP4P/2KRR3 b - -">Link</a> | Bullet |
 | GerardVzq | **centrumek** | win 🥇 | 28/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r2/p6k/1p2Q1pp/1B2q1p1/4p3/1P2P3/P4PP1/2RR2K1 w - -">Link</a> | Bullet |
-| chaowan111 | **centrumek** | win 🥇 | 28/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp5R/6P1/8/7P/1k6/2p1n3/2K5 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
