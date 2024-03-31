@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 977 | 1170 |
+| Current | 1007 | 977 | 1179 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| GGNC123 | **centrumek** | win 🥇 | 31/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/8/3kp3/1p1p1p2/pP1P2p1/2P1P3/5K2/6R1 w - -">Link</a> | Bullet |
 | Ducrocetienne | **centrumek** | win 🥇 | 31/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/p3R1p1/4R3/1p1P1pkp/6p1/8/PPPK2q1/8 w - -">Link</a> | Bullet |
 | **centrumek** | ruizdecota | win 🥇 | 31/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/1pp2p1K/3p4/6r1/1P6/6Pb/P1P4P/4R3 b - -">Link</a> | Bullet |
 | Kutlik | **centrumek** | win 🥇 | 31/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/4b2p/2k5/3p4/3P4/PpP1r2P/6K1/8 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | rhysh2 | **centrumek** | win 🥇 | 31/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/2k1r2p/P7/1P3RP1/3K3P/8 w - -">Link</a> | Bullet |
 | **centrumek** | BenGodzilla | win 🥇 | 31/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/3r4/1K2p1p1/5b2/P7/3n4/7n/8 b - -">Link</a> | Bullet |
 | **centrumek** | nakil84 | timeout ❌ | 31/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6bp/6p1/1P3pP1/P4P1P/3pr1K1/3R4/8 w - -">Link</a> | Bullet |
-| Pens_89 | **centrumek** | timeout ❌ | 31/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/b4k2/p7/P1p4Q/4RPnP/6P1/6K1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
