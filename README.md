@@ -89,11 +89,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 977 | 1145 |
+| Current | 1007 | 977 | 1147 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | noobDutch | win 🥇 | 4/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/1p3p2/2p3Q1/3p2Pp/2nP1P1P/5P1q/5K2/8 b - -">Link</a> | Bullet |
+| Mbukuta1895 | **centrumek** | checkmated ❌ | 4/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1k1r3/2Q2ppp/2p2n2/1p1b4/p4B2/5P2/2P3PK/3RR3 b - -">Link</a> | Bullet |
 | **centrumek** | Cacique_RJ | resigned ❌ | 3/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/pp3ppp/1bp2n2/3p4/1P1P4/P1NP2Pq/1B1K1P1P/7R w - -">Link</a> | Bullet |
 | **centrumek** | kaushal79 | resigned ❌ | 3/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p3pp/p4p2/7P/kp6/8/2K5/8 w - -">Link</a> | Bullet |
 | Elegsit | **centrumek** | win 🥇 | 3/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/3nb2p/1B1p4/3Pp1p1/1P3p2/3P4/RPr2PPP/5NK1 w - -">Link</a> | Bullet |
@@ -102,8 +104,6 @@
 | **centrumek** | Anuj_singhall | timeout ❌ | 2/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k3r2/npp5/p2b4/3p1pQ1/1P1P3P/P1P3PK/1B6/5q2 w - -">Link</a> | Bullet |
 | Kz03W | **centrumek** | resigned ❌ | 2/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/2R4P/1k1P1BP1/4PP2/6K1 b - -">Link</a> | Bullet |
 | seryvolk | **centrumek** | timeout ❌ | 2/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/p1p1PR2/2b5/2p2K1k/2P5/1P6/P7/8 b - -">Link</a> | Bullet |
-| **centrumek** | verzekering | win 🥇 | 2/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1pp1p1bp/p5p1/2Pp4/1P1P4/P3q3/1B4RK/R2Q4 b - -">Link</a> | Bullet |
-| **centrumek** | daqweengambit | win 🥇 | 2/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b1q3/2k5/p5N1/Pp1p4/1PpP4/2P5/1BK5/4r3 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
