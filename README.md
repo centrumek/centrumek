@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 977 | 1188 |
+| Current | 1007 | 977 | 1180 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Poncipuri | **centrumek** | checkmated ❌ | 11/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1k3R/pp4Q1/2p5/3p1p2/3Pn1p1/1BP5/PP6/2K5 b - -">Link</a> | Bullet |
 | **centrumek** | So_Star | win 🥇 | 10/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/N2K4/3P4/P7/7R/5k2 b - -">Link</a> | Bullet |
 | Aanjaneya21 | **centrumek** | checkmated ❌ | 10/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1r4p/2p3p1/1p3pQk/2P2P1P/8/PP4PK/3R4 b - -">Link</a> | Bullet |
 | **centrumek** | Fabinhosantos | checkmated ❌ | 10/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pp4pp/8/5p2/4qP2/bPP5/2KB3P/3R3R w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | doby8888 | **centrumek** | win 🥇 | 9/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/ppp4p/2b1p1pQ/6P1/3n4/3B4/P1P3qP/5R1K w - -">Link</a> | Bullet |
 | dthev09 | **centrumek** | resigned ❌ | 9/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pp2kp1p/2p5/3pQ3/4b3/2N5/PPP1P1PP/2KR1BNR b - -">Link</a> | Bullet |
 | jdesz | **centrumek** | win 🥇 | 9/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=n1rb4/8/kp1p2p1/p2P3p/1pP1P3/3p4/P6P/K5R1 w - -">Link</a> | Bullet |
-| **centrumek** | pokerWho | resigned ❌ | 9/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5K2/8/8/5k2/1n1qp3/8/8 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
