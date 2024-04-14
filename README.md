@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 977 | 1139 |
+| Current | 1007 | 977 | 1132 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Snaggletooth05 | checkmated ❌ | 14/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/1p6/p4kp1/4pb1r/P1R3KP/1P2q1PR/8/5B2 w - -">Link</a> | Bullet |
 | **centrumek** | TeteuT | win 🥇 | 13/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p5pp/8/3K2N1/3P1P2/4r3/n3r2P/3R3R b - -">Link</a> | Bullet |
 | DenisShevelev | **centrumek** | resigned ❌ | 13/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1pk2Qp/2p1p3/4B3/2PP4/P7/2P3PP/5RK1 b - -">Link</a> | Bullet |
 | **centrumek** | PrawnPaste | resigned ❌ | 13/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/5ppp/8/q7/P7/1K1r3P/1P3PP1/8 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | DoAnime | win 🥇 | 13/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p1pbQ2k/1p2p3/2r1P2p/P7/1P6/1K3P2/8 b - -">Link</a> | Bullet |
 | PeaceDivine | **centrumek** | timeout ❌ | 13/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pp6/4B3/8/1k4pR/8/P5PP/1K6 b - -">Link</a> | Bullet |
 | komancero89898 | **centrumek** | win 🥇 | 13/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p1k4/1P6/p7/P2Pp1P1/4Pr2/5q2/1RKR4 w - -">Link</a> | Bullet |
-| **centrumek** | Kame_Master | checkmated ❌ | 12/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/p4pp1/4pn1p/3p4/3R4/q2NP3/5PPP/K6R w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
