@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 977 | 1171 |
+| Current | 1007 | 977 | 1163 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| MateMachinece4a | **centrumek** | checkmated ❌ | 26/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk3/2pb1Qpp/p3p3/4P3/P2P4/b3P3/2P3PP/5RK1 b - -">Link</a> | Bullet |
 | **centrumek** | HuegNathan | timeout ❌ | 26/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/7k/PR4p1/1P4B1/2K5/8 w - -">Link</a> | Bullet |
 | orelmen | **centrumek** | win 🥇 | 26/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/p6p/p4k2/6r1/4R3/1P4n1/P1PP1P1P/R6K w - -">Link</a> | Bullet |
 | **centrumek** | Sanpirlo | resigned ❌ | 23/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p4ppp/2R1b3/qP2P3/3p1PP1/3B3P/3K4/7R w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | mr_swez | win 🥇 | 19/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/4R1p1/3r4/1K6/5p1P/8/2P5/8 b - -">Link</a> | Bullet |
 | user1234562192 | **centrumek** | checkmated ❌ | 18/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Qk1r/6pp/1p3q2/pBpPb3/3pP3/8/PP3PPP/R1B1K1NR b KQ -">Link</a> | Bullet |
 | **centrumek** | EAE28 | timeout ❌ | 18/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2r/2p2p2/4p1pp/4N3/3P1P1P/3KP2R/6P1/1q6 w k -">Link</a> | Bullet |
-| UnknownClover | **centrumek** | timeout ❌ | 18/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/p7/1p3Q2/4p1p1/3pP1Pk/8/P2K3P/7R b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
