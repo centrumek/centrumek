@@ -94,6 +94,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| kilou99 | **centrumek** | timeout ❌ | 29/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/p4k2/8/2nP3B/2P2P2/P2q1PKP/8 b - -">Link</a> | Bullet |
+| DrLevchenko | **centrumek** | win 🥇 | 29/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/pp6/2p1k2p/5N1P/8/1P6/PKP3P1/4q3 w - -">Link</a> | Bullet |
 | **centrumek** | orimor | win 🥇 | 28/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/pp6/7p/2k2p2/3BpP1P/1P2Pb2/P1PR3K/8 b - -">Link</a> | Bullet |
 | **centrumek** | krimzone | win 🥇 | 28/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2b5/1p4p1/2kP4/P3BpK1/1P3P2/2R5 b - -">Link</a> | Bullet |
 | **centrumek** | YusufT420 | resigned ❌ | 27/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/1pp5/8/3p1p1p/4nP2/4P3/2q2PKP/2B5 w - -">Link</a> | Bullet |
@@ -102,8 +104,6 @@
 | Gazexpload | **centrumek** | resigned ❌ | 26/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2P1k3/4P3/3K4/p5B1/P1P4P/8/8 b - -">Link</a> | Bullet |
 | **centrumek** | KilianE5 | resigned ❌ | 26/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5kpp/8/4qp2/8/6P1/2p4P/5K2 w - -">Link</a> | Bullet |
 | MateMachinece4a | **centrumek** | checkmated ❌ | 26/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk3/2pb1Qpp/p3p3/4P3/P2P4/b3P3/2P3PP/5RK1 b - -">Link</a> | Bullet |
-| **centrumek** | HuegNathan | timeout ❌ | 26/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/7k/PR4p1/1P4B1/2K5/8 w - -">Link</a> | Bullet |
-| orelmen | **centrumek** | win 🥇 | 26/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/p6p/p4k2/6r1/4R3/1P4n1/P1PP1P1P/R6K w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
