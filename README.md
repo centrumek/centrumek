@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 977 | 1122 |
+| Current | 1007 | 977 | 1131 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Aliosmntfn | win 🥇 | 1/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5N2/6p1/6Qk/7p/3P4/3KP3/8/8 b - -">Link</a> | Bullet |
 | Skillz9313 | **centrumek** | timeout ❌ | 29/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/2p3k1/1p1p1p2/1P1P1P2/P1n2P2/2K5/8 b - -">Link</a> | Bullet |
 | **centrumek** | Karekovisky | checkmated ❌ | 29/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/6p1/p7/1pb1p1p1/4P1Q1/3P2R1/PP3r1q/R5K1 w - -">Link</a> | Bullet |
 | kilou99 | **centrumek** | timeout ❌ | 29/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/p4k2/8/2nP3B/2P2P2/P2q1PKP/8 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | YusufT420 | resigned ❌ | 27/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/1pp5/8/3p1p1p/4nP2/4P3/2q2PKP/2B5 w - -">Link</a> | Bullet |
 | tea-wrekt | **centrumek** | resigned ❌ | 27/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p6p/p4k2/N7/3Q4/1P5P/P4PP1/2K5 b - -">Link</a> | Bullet |
 | **centrumek** | PedroMiguel25 | checkmated ❌ | 26/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p4ppp/5n2/3p4/3P2b1/P1r2P2/1Kq3PP/R6R w - -">Link</a> | Bullet |
-| Gazexpload | **centrumek** | resigned ❌ | 26/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2P1k3/4P3/3K4/p5B1/P1P4P/8/8 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
