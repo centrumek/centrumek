@@ -89,21 +89,21 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 977 | 1147 |
+| Current | 1007 | 977 | 1164 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | NOSPAN | win 🥇 | 4/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/R7/5Kp1/1P6/5p2/8/6R1/8 b - -">Link</a> | Bullet |
+| Pakom_3 | **centrumek** | timeout ❌ | 4/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5K2/6P1/8/1k6/8 b - -">Link</a> | Bullet |
+| AbramIII | **centrumek** | win 🥇 | 4/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/kp4Q1/pR6/8/2P5/1P6/P5K1/8 w - -">Link</a> | Bullet |
+| **centrumek** | Jungle976 | win 🥇 | 4/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5qk1/7p/1p6/pP1p1rp1/3Pp2r/2P1P1K1/R2Q4/8 b - -">Link</a> | Bullet |
 | Benji474 | **centrumek** | win 🥇 | 4/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/p4R2/bpp1B3/6p1/3Pp3/8/PPP1N2k/3K4 w - -">Link</a> | Bullet |
 | **centrumek** | FlamesOfJustice | win 🥇 | 4/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1bnr/ppQb1qpp/1B3p2/4p3/P2P4/3BPN2/5PPP/RN2K2R b KQ -">Link</a> | Bullet |
 | **centrumek** | avijeet96 | checkmated ❌ | 4/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/1p2rp1p/p5p1/P1pPbP2/4P1P1/2p2Q2/2Pq2B1/1R1K1R2 w - -">Link</a> | Bullet |
 | **centrumek** | Senaid77 | stalemate ⏸️ | 4/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/3P2R1/1pK5/pP5p/P6P/8/8/8 b - -">Link</a> | Bullet |
 | FOXARABIAN1 | **centrumek** | win 🥇 | 4/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p2/8/8/6r1/2K2q2/8/8 w - -">Link</a> | Bullet |
 | kosmokratos | **centrumek** | timeout ❌ | 3/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/R4kp1/2p1p2p/3pn3/1r3P2/1P4PB/1KP4P/8 b - -">Link</a> | Bullet |
-| **centrumek** | Jbprd | resigned ❌ | 3/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/8/p6p/2K5/P7/1q5k/8 w - -">Link</a> | Bullet |
-| Franceharley | **centrumek** | win 🥇 | 3/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rr3/pp1k1p2/2p1b3/P2p2Q1/3N4/1B1P3P/1PP3PK/R4R2 w - -">Link</a> | Bullet |
-| Wrestler4Life | **centrumek** | timeout ❌ | 3/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3kR1q1/2N5/1p1P4/2p5/p4B2/5KP1/Pp5P/8 b - -">Link</a> | Bullet |
-| **centrumek** | seiyax29 | win 🥇 | 3/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/6r1/p2R2p1/5pQk/P1B4P/1P3P2/8/1K6 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
