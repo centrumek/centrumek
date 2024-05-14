@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 986 | 1132 |
+| Current | 1007 | 986 | 1140 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Dr_No_Pain | win 🥇 | 13/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4K3/4Pppp/5Pq1/1k4P1/7P/8 b - -">Link</a> | Bullet |
 | houseofkingg | **centrumek** | resigned ❌ | 13/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5R2/6p1/4q1k1/p7/P7/B5PP/R2Q3K w - -">Link</a> | Bullet |
 | dbulli | **centrumek** | win 🥇 | 13/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1n6/8/4K3/2p2P2/p1k5/4P3/4N3 w - -">Link</a> | Bullet |
 | **centrumek** | SparseOwl | win 🥇 | 13/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5pp/4ppk1/6P1/3P3K/5P2/5n1P/8 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | AntonsZale | timevsinsufficient ⏸️ | 9/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/2b5/1r6/2k5/8/3K4/8 b - -">Link</a> | Bullet |
 | ashjitdas | **centrumek** | win 🥇 | 7/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1nr/ppp2ppp/2n1p3/3q4/1b1P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq -">Link</a> | Blitz |
 | linhdaotung07 | **centrumek** | timeout ❌ | 5/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pN1b2pp/8/3n4/3B4/P7/4BKPP/8 b - -">Link</a> | Bullet |
-| Al_Art | **centrumek** | checkmated ❌ | 5/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn4nr/1b4p1/1p1Q1k1p/5p2/2B5/8/PPP2PPP/R1B2RK1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
