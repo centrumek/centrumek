@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 986 | 1115 |
+| Current | 1007 | 986 | 1122 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| t4vn | **centrumek** | win 🥇 | 17/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5ppp/4p3/4P3/8/5N1P/5rq1/4R2K w - -">Link</a> | Bullet |
 | **centrumek** | Browner99 | resigned ❌ | 17/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/p7/3q2p1/1p1K4/8/8/6PP/8 w - -">Link</a> | Bullet |
 | **centrumek** | DummyOneFive | resigned ❌ | 17/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/1kp5/3q4/p2P4/3K4/8/8 w - -">Link</a> | Bullet |
 | **centrumek** | arashsheykhlar | checkmated ❌ | 16/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2p1k3/8/8/8/1q6/2q3K1 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | barra30 | **centrumek** | timeout ❌ | 14/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/p5p1/1p1N4/2p5/2k5/5P2/PP4PP/3R2K1 b - -">Link</a> | Bullet |
 | **centrumek** | MaxK99 | timevsinsufficient ⏸️ | 14/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/5p1p/4pk1K/8/8 b - -">Link</a> | Bullet |
 | comaz997 | **centrumek** | checkmated ❌ | 14/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/3P2p1/8/P1r3kP/6P1/R3QR1K b - -">Link</a> | Bullet |
-| Samebody1326 | **centrumek** | win 🥇 | 14/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/3p2p1/1p1r3p/8/3pK3/8/PP3r1P/8 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
