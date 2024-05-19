@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 986 | 1106 |
+| Current | 1007 | 986 | 1114 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | KRO1975 | win 🥇 | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4R3/1R2p1p1/2p3kn/1b6/4r3/1KP5/8 b - -">Link</a> | Bullet |
 | **centrumek** | lucamit | resigned ❌ | 18/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7B/1pp2p1p/4k3/p7/8/8/6K1/1r5n w - a6">Link</a> | Bullet |
 | zepgajo | **centrumek** | resigned ❌ | 18/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3kbQ2/rp1p2pB/8/2PRP3/pP1n4/P4PPP/1K1R4 b - -">Link</a> | Bullet |
 | t4vn | **centrumek** | win 🥇 | 17/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5ppp/4p3/4P3/8/5N1P/5rq1/4R2K w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | Crato-CE | **centrumek** | win 🥇 | 16/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pR3pp1/1np5/3p2p1/3P4/2P5/PP3PPP/4rNK1 w - -">Link</a> | Bullet |
 | lucBaie | **centrumek** | win 🥇 | 14/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1N6/8/3kp2p/p2p3b/P1p5/2P1P3/6PP/6K1 w - -">Link</a> | Bullet |
 | **centrumek** | akbisht13 | resigned ❌ | 14/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppn2pp1/7p/5N2/4b1P1/7P/PPP2P1b/2K5 w - -">Link</a> | Bullet |
-| barra30 | **centrumek** | timeout ❌ | 14/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/p5p1/1p1N4/2p5/2k5/5P2/PP4PP/3R2K1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
