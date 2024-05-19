@@ -89,11 +89,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 986 | 1122 |
+| Current | 1007 | 986 | 1106 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | lucamit | resigned ❌ | 18/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7B/1pp2p1p/4k3/p7/8/8/6K1/1r5n w - a6">Link</a> | Bullet |
+| zepgajo | **centrumek** | resigned ❌ | 18/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3kbQ2/rp1p2pB/8/2PRP3/pP1n4/P4PPP/1K1R4 b - -">Link</a> | Bullet |
 | t4vn | **centrumek** | win 🥇 | 17/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5ppp/4p3/4P3/8/5N1P/5rq1/4R2K w - -">Link</a> | Bullet |
 | **centrumek** | Browner99 | resigned ❌ | 17/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/p7/3q2p1/1p1K4/8/8/6PP/8 w - -">Link</a> | Bullet |
 | **centrumek** | DummyOneFive | resigned ❌ | 17/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/1kp5/3q4/p2P4/3K4/8/8 w - -">Link</a> | Bullet |
@@ -102,8 +104,6 @@
 | lucBaie | **centrumek** | win 🥇 | 14/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1N6/8/3kp2p/p2p3b/P1p5/2P1P3/6PP/6K1 w - -">Link</a> | Bullet |
 | **centrumek** | akbisht13 | resigned ❌ | 14/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppn2pp1/7p/5N2/4b1P1/7P/PPP2P1b/2K5 w - -">Link</a> | Bullet |
 | barra30 | **centrumek** | timeout ❌ | 14/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/p5p1/1p1N4/2p5/2k5/5P2/PP4PP/3R2K1 b - -">Link</a> | Bullet |
-| **centrumek** | MaxK99 | timevsinsufficient ⏸️ | 14/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/5p1p/4pk1K/8/8 b - -">Link</a> | Bullet |
-| comaz997 | **centrumek** | checkmated ❌ | 14/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/3P2p1/8/P1r3kP/6P1/R3QR1K b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
