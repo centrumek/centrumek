@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 986 | 1114 |
+| Current | 1007 | 996 | 1114 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| siddharth9080 | **centrumek** | win 🥇 | 21/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/p1p2P2/1p6/3p4/8/4b1k1/PPP5/3K4 w - -">Link</a> | Blitz |
 | squareway | **centrumek** | win 🥇 | 21/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2r2/pp4k1/2n2p1p/2p2qp1/2B5/2Q2N2/PB3PPP/4R1K1 w - -">Link</a> | Bullet |
 | **centrumek** | muradmalik777 | resigned ❌ | 21/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/1p6/p2p4/3P4/7r/1K6/8/8 w - -">Link</a> | Bullet |
 | **centrumek** | KRO1975 | win 🥇 | 19/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4R3/1R2p1p1/2p3kn/1b6/4r3/1KP5/8 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | Browner99 | resigned ❌ | 17/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/p7/3q2p1/1p1K4/8/8/6PP/8 w - -">Link</a> | Bullet |
 | **centrumek** | DummyOneFive | resigned ❌ | 17/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/1kp5/3q4/p2P4/3K4/8/8 w - -">Link</a> | Bullet |
 | **centrumek** | arashsheykhlar | checkmated ❌ | 16/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2p1k3/8/8/8/1q6/2q3K1 w - -">Link</a> | Bullet |
-| Crato-CE | **centrumek** | win 🥇 | 16/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pR3pp1/1np5/3p2p1/3P4/2P5/PP3PPP/4rNK1 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
