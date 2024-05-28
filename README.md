@@ -94,6 +94,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Andrey-Zh | timevsinsufficient ⏸️ | 28/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/4Kp2/7p/5r2/8/8/8/6q1 b - -">Link</a> | Bullet |
 | **centrumek** | abdzrar | timeout ❌ | 27/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/p1p3pp/8/4Pp2/5P1P/3K1qP1/3Q4/8 w - -">Link</a> | Bullet |
 | Beretinha | **centrumek** | resigned ❌ | 27/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/5rkp/p1p2p2/1p1p1Bp1/1Pn1p3/P1P1P3/5PPP/R3R1K1 b - -">Link</a> | Bullet |
 | **centrumek** | thechessgameforme | win 🥇 | 27/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k6/8/1BKP4/7P/8/8/q7 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | CharlieWaffleS70 | **centrumek** | win 🥇 | 24/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pb2q1p1/1p2p3/2p1r2p/2P1p3/1P2N3/P1Q2PP1/R3R1K1 w - -">Link</a> | Bullet |
 | **centrumek** | anirg1994 | win 🥇 | 23/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/5k2/p1KB4/Pp5p/8/3P4/8/8 b - -">Link</a> | Bullet |
 | siddharth9080 | **centrumek** | win 🥇 | 21/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/p1p2P2/1p6/3p4/8/4b1k1/PPP5/3K4 w - -">Link</a> | Blitz |
-| squareway | **centrumek** | win 🥇 | 21/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2r2/pp4k1/2n2p1p/2p2qp1/2B5/2Q2N2/PB3PPP/4R1K1 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
