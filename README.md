@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 996 | 1089 |
+| Current | 1007 | 996 | 1097 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | JackyNoLegs | win 🥇 | 31/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/1R6/1P2P2k/4KP2/6rN/7p/8 b - -">Link</a> | Bullet |
 | npayne915 | **centrumek** | resigned ❌ | 29/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5PP1/6K1/8/4k3/8/8/8 b - -">Link</a> | Bullet |
 | matthew39 | **centrumek** | checkmated ❌ | 29/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/p3b2p/2p3p1/1p2Pb2/5B2/5BPk/PPP5/2K1R2R b - -">Link</a> | Bullet |
 | **centrumek** | martin2700 | win 🥇 | 29/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pb4p1/1p1p3p/2p3r1/3P4/P1P1K1N1/1P5P/5R2 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | zlatan32 | **centrumek** | resigned ❌ | 28/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6n1/p7/4p1p1/8/2Q1p3/8/1k2KPPP/R6R b - -">Link</a> | Bullet |
 | **centrumek** | Sakethsharma | timeout ❌ | 28/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/kp6/4R1P1/3pPK2/5r2/8/8/6q1 w - -">Link</a> | Bullet |
 | Donj93 | **centrumek** | win 🥇 | 28/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1n4/2p1k1p1/2KpPp1p/2P2P2/8/P1P1B1PP/8 w - -">Link</a> | Bullet |
-| zazaschach | **centrumek** | resigned ❌ | 28/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/Qppb2p1/3k3p/8/2P1p3/1P5P/P4PP1/R3K2R b KQ -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
