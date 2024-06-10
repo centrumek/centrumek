@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 996 | 1121 |
+| Current | 1007 | 996 | 1129 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| c0linm3d | **centrumek** | win 🥇 | 9/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/6RR/5p2/6p1/4P1k1/2P2nB1/P4PPP/6K1 w - -">Link</a> | Bullet |
 | Tu_PaPi03 | **centrumek** | win 🥇 | 6/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2P5/1Q4p1/8/6k1/1BP1n1P1/P1P2Pq1/6K1 w - -">Link</a> | Bullet |
 | **centrumek** | Otabekchessplayer | timeout ❌ | 6/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/1pp4p/p7/3p1p2/3q4/1P5P/P7/7K w - -">Link</a> | Bullet |
 | **centrumek** | Sergio-G | win 🥇 | 6/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/pkp2R1p/1p6/8/4p1Q1/N1P5/PP4P1/6K1 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | unwashedpuma | win 🥇 | 3/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/pp1k4/8/2PB4/1P1pP2p/4bR1P/4K3/5R2 b - -">Link</a> | Bullet |
 | **centrumek** | JackyNoLegs | win 🥇 | 31/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/1R6/1P2P2k/4KP2/6rN/7p/8 b - -">Link</a> | Bullet |
 | npayne915 | **centrumek** | resigned ❌ | 29/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5PP1/6K1/8/4k3/8/8/8 b - -">Link</a> | Bullet |
-| matthew39 | **centrumek** | checkmated ❌ | 29/5/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/p3b2p/2p3p1/1p2Pb2/5B2/5BPk/PPP5/2K1R2R b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
