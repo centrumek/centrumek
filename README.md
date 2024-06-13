@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 996 | 1112 |
+| Current | 1007 | 996 | 1103 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| GrinOnFace | **centrumek** | resigned ❌ | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pbp3kp/1p1p2p1/3P4/2P4P/P2Q3B/1P6/2K5 b - -">Link</a> | Bullet |
 | **centrumek** | yacinerahmani | resigned ❌ | 11/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/p4p1p/8/2p5/4p1P1/1qp5/7P/K7 w - -">Link</a> | Bullet |
 | **centrumek** | potassium_og-2 | checkmated ❌ | 11/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/7K/2k5/8/6rq w - -">Link</a> | Bullet |
 | c0linm3d | **centrumek** | win 🥇 | 9/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/6RR/5p2/6p1/4P1k1/2P2nB1/P4PPP/6K1 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | Orionis57 | **centrumek** | win 🥇 | 6/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7N/p5pp/8/7k/P6r/5K2/8/6R1 w - -">Link</a> | Bullet |
 | sandstorm12345 | **centrumek** | checkmated ❌ | 6/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pbq2ppQ/4p3/3p4/3P4/P3P3/3BKPPP/RB5R b - -">Link</a> | Bullet |
 | WisdomsMight039 | **centrumek** | win 🥇 | 3/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pp4bp/3pq1p1/8/3Pp3/2P5/PP4PP/R1BQR1K1 w - -">Link</a> | Bullet |
-| **centrumek** | unwashedpuma | win 🥇 | 3/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/pp1k4/8/2PB4/1P1pP2p/4bR1P/4K3/5R2 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
