@@ -89,11 +89,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 996 | 1102 |
+| Current | 1007 | 996 | 1103 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| kabri | **centrumek** | resigned ❌ | 18/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/1p2pB2/2b5/2p1B1kP/1P2P1P1/P4P2/R5K1 b - -">Link</a> | Bullet |
+| **centrumek** | rzutshi | win 🥇 | 18/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k2K1/b3p3/3p4/p7/P1r5/1P5P/8 b - -">Link</a> | Bullet |
 | **centrumek** | frankiehitman | timeout ❌ | 17/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4Kbk1/4p2p/3pP3/p1p3P1/1r5p/8/8 w - -">Link</a> | Bullet |
 | **centrumek** | EduChesz | checkmated ❌ | 17/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pp3ppp/1q6/8/4b3/8/PbKBN1PP/3R1B1R w - -">Link</a> | Bullet |
 | JonathanObregon | **centrumek** | win 🥇 | 17/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/4p3/1bNp2K1/3P4/2P5/8/3RR3 w - -">Link</a> | Bullet |
@@ -102,8 +104,6 @@
 | Rpapaz | **centrumek** | win 🥇 | 17/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pp2k2p/2p4n/P3npR1/1PB4P/1KP2P2/4N2q/1N6 w - -">Link</a> | Bullet |
 | **centrumek** | Alexgilroy88 | win 🥇 | 17/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3q1k1/p1p2ppp/8/3BB3/2P3Q1/8/PP1p1r2/R5KR b - -">Link</a> | Bullet |
 | **centrumek** | Adamek232 | timeout ❌ | 13/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3kp1p1/8/5p2/1Kp2P2/8/1q6 w - -">Link</a> | Bullet |
-| GrinOnFace | **centrumek** | resigned ❌ | 12/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pbp3kp/1p1p2p1/3P4/2P4P/P2Q3B/1P6/2K5 b - -">Link</a> | Bullet |
-| **centrumek** | yacinerahmani | resigned ❌ | 11/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/p4p1p/8/2p5/4p1P1/1qp5/7P/K7 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
