@@ -89,11 +89,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 996 | 1118 |
+| Current | 1007 | 996 | 1126 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | YoungDubs | checkmated ❌ | 29/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/K7/8/8/8/5b2/1q4k1/q7 w - -">Link</a> | Bullet |
+| freon163 | **centrumek** | win 🥇 | 29/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4b3/1k2B1pp/2p2p2/P3p3/1K2P3/5P2/6PP/8 w - -">Link</a> | Bullet |
+| **centrumek** | Alejandroargentina | win 🥇 | 29/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/3R1Nkp/p1p3p1/P1P5/1P4P1/5P1P/2K5 b - -">Link</a> | Bullet |
 | yawets | **centrumek** | win 🥇 | 29/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1bk2pp1/p6p/1p2p2P/1P2P3/2P2r2/P1K3P1/8 w - -">Link</a> | Bullet |
 | Gabrielfdev | **centrumek** | win 🥇 | 27/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5ppp/1p2p3/p7/3PqPK1/4P3/8/8 w - -">Link</a> | Bullet |
 | **centrumek** | anastasisi | win 🥇 | 27/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R2k4/8/3K4/8/8/8/8/8 b - -">Link</a> | Bullet |
@@ -101,9 +104,6 @@
 | nimamaghsudi | **centrumek** | checkmated ❌ | 23/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rr4/p2b2pp/k1n2p2/p3p3/8/1R1BPN2/5PPP/1R4K1 b - -">Link</a> | Bullet |
 | kabri | **centrumek** | resigned ❌ | 18/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/1p2pB2/2b5/2p1B1kP/1P2P1P1/P4P2/R5K1 b - -">Link</a> | Bullet |
 | **centrumek** | rzutshi | win 🥇 | 18/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k2K1/b3p3/3p4/p7/P1r5/1P5P/8 b - -">Link</a> | Bullet |
-| **centrumek** | frankiehitman | timeout ❌ | 17/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4Kbk1/4p2p/3pP3/p1p3P1/1r5p/8/8 w - -">Link</a> | Bullet |
-| **centrumek** | EduChesz | checkmated ❌ | 17/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pp3ppp/1q6/8/4b3/8/PbKBN1PP/3R1B1R w - -">Link</a> | Bullet |
-| JonathanObregon | **centrumek** | win 🥇 | 17/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/4p3/1bNp2K1/3P4/2P5/8/3RR3 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
