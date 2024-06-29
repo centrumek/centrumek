@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 996 | 1110 |
+| Current | 1007 | 996 | 1118 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| yawets | **centrumek** | win 🥇 | 29/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1bk2pp1/p6p/1p2p2P/1P2P3/2P2r2/P1K3P1/8 w - -">Link</a> | Bullet |
 | Gabrielfdev | **centrumek** | win 🥇 | 27/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5ppp/1p2p3/p7/3PqPK1/4P3/8/8 w - -">Link</a> | Bullet |
 | **centrumek** | anastasisi | win 🥇 | 27/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R2k4/8/3K4/8/8/8/8/8 b - -">Link</a> | Bullet |
 | **centrumek** | random438 | timevsinsufficient ⏸️ | 27/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1p6/1K6/1b6/2k5/8/8 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | frankiehitman | timeout ❌ | 17/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4Kbk1/4p2p/3pP3/p1p3P1/1r5p/8/8 w - -">Link</a> | Bullet |
 | **centrumek** | EduChesz | checkmated ❌ | 17/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pp3ppp/1q6/8/4b3/8/PbKBN1PP/3R1B1R w - -">Link</a> | Bullet |
 | JonathanObregon | **centrumek** | win 🥇 | 17/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/4p3/1bNp2K1/3P4/2P5/8/3RR3 w - -">Link</a> | Bullet |
-| **centrumek** | MamilliS | resigned ❌ | 17/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/1pb2ppp/2p5/8/1P3P2/P3P1PP/1q6/3R1R1K w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
