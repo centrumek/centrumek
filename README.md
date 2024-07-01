@@ -89,11 +89,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 996 | 1134 |
+| Current | 1007 | 996 | 1127 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| treejacket | **centrumek** | checkmated ❌ | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q1k1/5ppp/2p5/1b1p4/1B1P4/5P2/1PP4P/R5K1 b - -">Link</a> | Bullet |
+| **centrumek** | SisuHarrier | win 🥇 | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3k2/3p1Pr1/2p1pRB1/2p5/2P5/p6p/P1Q4P/6RK b - -">Link</a> | Bullet |
+| **centrumek** | jamesliuyi | timeout ❌ | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=q2r4/4kp2/2Q5/1P2p1p1/8/1K1P4/2R5/8 w - -">Link</a> | Bullet |
 | elpianista7 | **centrumek** | win 🥇 | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/p2n1ppp/2p1p3/3n4/2pP4/1P2PN2/PB2NPPP/R2QK2R w KQkq -">Link</a> | Bullet |
 | **centrumek** | YoungDubs | checkmated ❌ | 29/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/K7/8/8/8/5b2/1q4k1/q7 w - -">Link</a> | Bullet |
 | freon163 | **centrumek** | win 🥇 | 29/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4b3/1k2B1pp/2p2p2/P3p3/1K2P3/5P2/6PP/8 w - -">Link</a> | Bullet |
@@ -101,9 +104,6 @@
 | yawets | **centrumek** | win 🥇 | 29/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1bk2pp1/p6p/1p2p2P/1P2P3/2P2r2/P1K3P1/8 w - -">Link</a> | Bullet |
 | Gabrielfdev | **centrumek** | win 🥇 | 27/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5ppp/1p2p3/p7/3PqPK1/4P3/8/8 w - -">Link</a> | Bullet |
 | **centrumek** | anastasisi | win 🥇 | 27/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R2k4/8/3K4/8/8/8/8/8 b - -">Link</a> | Bullet |
-| **centrumek** | random438 | timevsinsufficient ⏸️ | 27/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1p6/1K6/1b6/2k5/8/8 b - -">Link</a> | Bullet |
-| nimamaghsudi | **centrumek** | checkmated ❌ | 23/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rr4/p2b2pp/k1n2p2/p3p3/8/1R1BPN2/5PPP/1R4K1 b - -">Link</a> | Bullet |
-| kabri | **centrumek** | resigned ❌ | 18/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/1p2pB2/2b5/2p1B1kP/1P2P1P1/P4P2/R5K1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
