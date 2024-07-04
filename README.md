@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 996 | 1103 |
+| Current | 1007 | 996 | 1096 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| GMBlui | **centrumek** | checkmated ❌ | 4/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1b2n1pQ/pB2p2p/1p2P1N1/2p5/2P5/4BPPP/3R2K1 b - -">Link</a> | Bullet |
 | **centrumek** | ponpon1919 | timeout ❌ | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1k6/2p5/5pBp/2K4P/8/8 w - -">Link</a> | Bullet |
 | Kurtiss | **centrumek** | resigned ❌ | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/p1k2K2/1p6/1Pp4p/P1P4P/8/8/8 b - -">Link</a> | Bullet |
 | **centrumek** | Kothmir | timeout ❌ | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/1b5p/2q3p1/1K2p3/2Pp2p1/P3r3/7P/2Q2R2 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | SisuHarrier | win 🥇 | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3k2/3p1Pr1/2p1pRB1/2p5/2P5/p6p/P1Q4P/6RK b - -">Link</a> | Bullet |
 | **centrumek** | jamesliuyi | timeout ❌ | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=q2r4/4kp2/2Q5/1P2p1p1/8/1K1P4/2R5/8 w - -">Link</a> | Bullet |
 | elpianista7 | **centrumek** | win 🥇 | 1/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/p2n1ppp/2p1p3/3n4/2pP4/1P2PN2/PB2NPPP/R2QK2R w KQkq -">Link</a> | Bullet |
-| **centrumek** | YoungDubs | checkmated ❌ | 29/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/K7/8/8/8/5b2/1q4k1/q7 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
