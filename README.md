@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 996 | 1045 |
+| Current | 1007 | 996 | 1037 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| GM_Appu | **centrumek** | checkmated ❌ | 10/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bkRb1r/ppq3p1/2p2N2/6Bp/P1QP4/5N2/1P3PPP/R5K1 b - -">Link</a> | Bullet |
 | **centrumek** | Lilkety | resigned ❌ | 9/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6kp/p3p3/1p6/8/K3Pr2/p5rP/8 w - -">Link</a> | Bullet |
 | loekouttv | **centrumek** | resigned ❌ | 9/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5k2/1N3p1p/p7/P2B3P/1PP2P1K/4R3 b - -">Link</a> | Bullet |
 | **centrumek** | Sasanka04 | checkmated ❌ | 6/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2k2r/pp1b1ppp/2p5/4p3/P1PpP1PP/2bPqP2/4K3/1R1Q1B1R w k -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | akashtiwari2003 | **centrumek** | win 🥇 | 6/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/8/B7/8/2P3P1/8/r3p3/4K3 w - -">Link</a> | Bullet |
 | **centrumek** | GladiatorSol | win 🥇 | 6/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n6/2q1r3/5k1p/1p2p1p1/5PP1/3P3P/4N1B1/6K1 b - -">Link</a> | Bullet |
 | moumentouabi | **centrumek** | resigned ❌ | 6/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/pb6/1npN1p1p/1p1p3p/3P4/PB6/1PPQ1PPP/R3R1K1 b - -">Link</a> | Bullet |
-| **centrumek** | bartcode | resigned ❌ | 6/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/p1p4r/1p6/1bq1p3/4P1pP/1P1P2P1/P2K2B1/5R1R w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
