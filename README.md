@@ -94,6 +94,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| dejanvitin | **centrumek** | timeout ❌ | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1b6/7k/1B1p1p2/3BrN1P/4P1P1/2P2P2/R5K1 b - -">Link</a> | Bullet |
+| **centrumek** | mefodikal | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q1k/2qp2pp/p1n5/1p2P3/8/2N2P1P/PP3P2/R3K2R b KQ -">Link</a> | Bullet |
 | GM_Appu | **centrumek** | checkmated ❌ | 10/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bkRb1r/ppq3p1/2p2N2/6Bp/P1QP4/5N2/1P3PPP/R5K1 b - -">Link</a> | Bullet |
 | **centrumek** | Lilkety | resigned ❌ | 9/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6kp/p3p3/1p6/8/K3Pr2/p5rP/8 w - -">Link</a> | Bullet |
 | loekouttv | **centrumek** | resigned ❌ | 9/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5k2/1N3p1p/p7/P2B3P/1PP2P1K/4R3 b - -">Link</a> | Bullet |
@@ -102,8 +104,6 @@
 | **centrumek** | ReadUWroteU14 | win 🥇 | 6/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/5pp1/2p4p/p3q2P/P1Q3PK/1P3P2/6B1/7R b - -">Link</a> | Bullet |
 | iudic0 | **centrumek** | resigned ❌ | 6/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/8/3K4/8/1P6/8/2k5/8 b - b3">Link</a> | Bullet |
 | akashtiwari2003 | **centrumek** | win 🥇 | 6/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/8/B7/8/2P3P1/8/r3p3/4K3 w - -">Link</a> | Bullet |
-| **centrumek** | GladiatorSol | win 🥇 | 6/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n6/2q1r3/5k1p/1p2p1p1/5PP1/3P3P/4N1B1/6K1 b - -">Link</a> | Bullet |
-| moumentouabi | **centrumek** | resigned ❌ | 6/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/pb6/1npN1p1p/1p1p3p/3P4/PB6/1PPQ1PPP/R3R1K1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
