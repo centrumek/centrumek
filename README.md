@@ -89,11 +89,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 960 | 1037 |
+| Current | 1007 | 960 | 1045 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| AkInkx | **centrumek** | checkmated ❌ | 16/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p2Q4/kp3K2/1Q6/8/8/8 b - -">Link</a> | Bullet |
+| **centrumek** | lopinta | win 🥇 | 16/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p1k/7p/p2Pp3/q2pPPP1/4b2P/2R1K1B1/8 b - -">Link</a> | Bullet |
+| kwuviie | **centrumek** | win 🥇 | 16/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/8/p7/1p1PK1Pp/P4PbP/1P6/8/8 w - -">Link</a> | Bullet |
 | **centrumek** | SyatriaAgung | checkmated ❌ | 16/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/r5p1/3p3p/p1p2p2/7P/2b1P1PK/5P2/2B4q w - -">Link</a> | Blitz |
 | sorenlolle | **centrumek** | repetition ⏸️ | 16/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/6k1/3R3p/r7/5K2/8 w - -">Link</a> | Blitz |
 | chonkers2kg | **centrumek** | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1p1R1p2/p6p/P1P4k/6p1/8/4K3 w - -">Link</a> | Blitz |
@@ -101,9 +104,6 @@
 | **centrumek** | chonkers2kg | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4B1k1/p1P2ppp/8/4P3/P3p3/4Q3/b6P/K7 b - -">Link</a> | Blitz |
 | dejanvitin | **centrumek** | timeout ❌ | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1b6/7k/1B1p1p2/3BrN1P/4P1P1/2P2P2/R5K1 b - -">Link</a> | Bullet |
 | **centrumek** | mefodikal | win 🥇 | 12/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q1k/2qp2pp/p1n5/1p2P3/8/2N2P1P/PP3P2/R3K2R b KQ -">Link</a> | Bullet |
-| GM_Appu | **centrumek** | checkmated ❌ | 10/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bkRb1r/ppq3p1/2p2N2/6Bp/P1QP4/5N2/1P3PPP/R5K1 b - -">Link</a> | Bullet |
-| **centrumek** | Lilkety | resigned ❌ | 9/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6kp/p3p3/1p6/8/K3Pr2/p5rP/8 w - -">Link</a> | Bullet |
-| loekouttv | **centrumek** | resigned ❌ | 9/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5k2/1N3p1p/p7/P2B3P/1PP2P1K/4R3 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
