@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 960 | 1064 |
+| Current | 1007 | 960 | 1056 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | pavelshirochkin | checkmated ❌ | 22/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5ppk/1p1p3p/1PpP3n/2Pp4/3PqP2/R5PP/3r1K1R w - -">Link</a> | Bullet |
 | RemiBinde | **centrumek** | win 🥇 | 22/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/4p3/p2pNp1p/3P2p1/2r1P1P1/PP3PP1/2KR3R w - -">Link</a> | Bullet |
 | **centrumek** | seurattodd | resigned ❌ | 22/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p7/3kb1p1/2p1p1P1/8/3K4/8 w - -">Link</a> | Bullet |
 | anshgelal | **centrumek** | win 🥇 | 22/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5kpp/5p2/3p4/5P2/2r1P1P1/P2K3P/8 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | Snoozie94 | win 🥇 | 22/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R1kr3r/1ppqbpp1/4pn1p/1bPp4/3P1P2/2N1P1P1/7P/2BQK1NR b K -">Link</a> | Bullet |
 | toneskoes | **centrumek** | win 🥇 | 22/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Bn3rk1/p1p2ppp/3b4/8/8/3P1Q2/PPP2PPq/R1B2RK1 w - -">Link</a> | Bullet |
 | adrienitsweire | **centrumek** | timeout ❌ | 22/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/4N3/2RP1pkB/2P5/P4rP1/3K4 b - -">Link</a> | Bullet |
-| **centrumek** | Chochouanne | win 🥇 | 22/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6pp/5pk1/4bp2/1P5P/8/R3K3/8 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
