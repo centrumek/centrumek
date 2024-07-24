@@ -94,6 +94,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Soba39 | **centrumek** | timevsinsufficient ⏸️ | 24/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/1pKp2k1/p5p1/8/8/7r/8 b - -">Link</a> | Bullet |
 | **centrumek** | McGregor1983 | timeout ❌ | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p6k/8/5r1p/3K4/P6P/8/8 w - -">Link</a> | Bullet |
 | **centrumek** | Benji474 | win 🥇 | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/1pp2ppp/p2p4/4p3/P1PbP3/1P1P1Q1P/R4P2/4KB1R b Kkq -">Link</a> | Bullet |
 | wassou7mar | **centrumek** | timeout ❌ | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2p4k/p2b4/P7/2R4P/5PPK/4r3 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | shakouri_1 | timeout ❌ | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5ppp/8/4p3/8/4K3/8/5q2 w - -">Link</a> | Bullet |
 | zso57zso | **centrumek** | resigned ❌ | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/1p2k3/1P2R3/P2B4/3bP1P1/3N3P/6K1 b - -">Link</a> | Bullet |
 | SpecializesChess | **centrumek** | timeout ❌ | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q2k2/p7/6pp/1p2Pq2/1P1P4/2P3K1/6PP/8 b - -">Link</a> | Bullet |
-| ONNPankaj | **centrumek** | timeout ❌ | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/2k4R/2p1n1p1/Pp1pPrP1/1Pn2P2/2P1PN2/8/2B1K3 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
