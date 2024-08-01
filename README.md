@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 960 | 1000 |
+| Current | 1007 | 960 | 992 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| josinaga1 | **centrumek** | timeout ❌ | 31/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6rk/1p1b3p/p1nP1Q2/3R4/5P2/4P2P/P7/4K1N1 b - -">Link</a> | Bullet |
 | **centrumek** | conny0506 | resigned ❌ | 31/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/ppp5/8/5K2/8/8/8/8 w - -">Link</a> | Bullet |
 | conny0506 | **centrumek** | win 🥇 | 31/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pp3npp/2p1b3/5n2/8/2PB1N1P/P1P2PPB/5RK1 w - -">Link</a> | Bullet |
 | **centrumek** | Asheagle818 | stalemate ⏸️ | 31/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/7k/7p/7K w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | Flausy | **centrumek** | resigned ❌ | 25/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7n/4R2p/6pk/1P6/PB3N1P/5PK1/2Q5 b - -">Link</a> | Bullet |
 | Soba39 | **centrumek** | timevsinsufficient ⏸️ | 24/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/1pKp2k1/p5p1/8/8/7r/8 b - -">Link</a> | Bullet |
 | **centrumek** | McGregor1983 | timeout ❌ | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p6k/8/5r1p/3K4/P6P/8/8 w - -">Link</a> | Bullet |
-| **centrumek** | Benji474 | win 🥇 | 23/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/1pp2ppp/p2p4/4p3/P1PbP3/1P1P1Q1P/R4P2/4KB1R b Kkq -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
