@@ -89,11 +89,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 960 | 1032 |
+| Current | 1007 | 960 | 1008 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | R_Matsunaga | abandoned  | 6/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkb1r/ppp2ppp/4p3/3n4/8/3P1P2/PPP3PP/RNBQKBNR w KQkq -">Link</a> | Bullet |
+| **centrumek** | miikaeleinstein | resigned ❌ | 6/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/1pp2q2/8/p6p/Pb1p4/1P6/K7/8 w - -">Link</a> | Bullet |
+| **centrumek** | cyberwolf2017 | checkmated ❌ | 6/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/2p2ppp/2N5/p1n5/8/P7/2P1bPPP/R1KrB2R w - -">Link</a> | Bullet |
 | HugoBouthemy | **centrumek** | abandoned  | 6/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kbnr/ppp1qppp/8/3p4/3P4/2N5/PPP1NPPP/R1BQKB1R b KQkq -">Link</a> | Bullet |
 | batotinha | **centrumek** | checkmated ❌ | 6/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b4r/ppp2Q1k/3p3p/2q1P3/6B1/2P3P1/PP1N2PP/5R1K b - -">Link</a> | Bullet |
 | gabymalunes | **centrumek** | win 🥇 | 6/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppk3q1/8/8/7K/8/8/7q w - -">Link</a> | Bullet |
@@ -101,9 +104,6 @@
 | **centrumek** | mohsen338 | win 🥇 | 6/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Qk1/3q2pn/2p1p2p/8/1P5P/6PK/8/2R5 b - -">Link</a> | Bullet |
 | **centrumek** | chonkers2kg | win 🥇 | 6/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/8/1p6/2p2p1p/2R1pP1P/8/6PK/r7 b - -">Link</a> | Blitz |
 | **centrumek** | Mysterious_143 | abandoned  | 6/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pp2pppp/8/2p5/2P5/3P4/PP3PPP/RNBQKBNR w KQkq -">Link</a> | Bullet |
-| zehwamelha | **centrumek** | win 🥇 | 5/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2kp4/4p3/3p2K1/3n4/8/8/5r2 w - -">Link</a> | Bullet |
-| **centrumek** | PokeMasterV | win 🥇 | 5/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/ppp1q1pp/2n1b3/4p3/4P2P/2PP2Q1/PP2K3/RN3r2 b - -">Link</a> | Bullet |
-| perazziMXS | **centrumek** | win 🥇 | 5/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b4r/p1P1b1k1/5p1n/8/Q7/4q3/PP2B2R/R3K1q1 w Q -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
