@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 960 | 1048 |
+| Current | 1007 | 960 | 1040 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | luyalexandre | resigned ❌ | 7/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q2k1/pp3pbp/4b1p1/8/PpN3P1/1P1P1P1N/4K2P/7R w - -">Link</a> | Bullet |
 | tinosade | **centrumek** | checkmated ❌ | 7/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/8/P1R5/1r4pk/6P1/5P1K/R7 b - -">Link</a> | Bullet |
 | **centrumek** | JcXperience | checkmated ❌ | 7/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/R4pp1/1p5p/8/4r1qK/P7/7P/8 w - -">Link</a> | Bullet |
 | Djchessto | **centrumek** | repetition ⏸️ | 7/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/pp4pp/2p5/3n4/3P4/1P1R3P/PP1R4/2K1k3 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | ShyHrk | **centrumek** | win 🥇 | 7/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/p4r2/1p6/1K5P/P1P2k2/1P3P2/5nB1 w - -">Link</a> | Bullet |
 | **centrumek** | berkay1168 | win 🥇 | 7/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/4b3/4Pk2/4B3/1r2RK2/8/8 b - -">Link</a> | Bullet |
 | **centrumek** | Shyannu | win 🥇 | 7/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp3p1/8/4p3/2P1Q1nq/P2P2R1/1BP5/2KR4 b - -">Link</a> | Bullet |
-| Astrouungarico | **centrumek** | win 🥇 | 7/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/pp6/2p5/4PP2/4n3/8/PPP5/2K3r1 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
