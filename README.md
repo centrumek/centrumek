@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 960 | 1084 |
+| Current | 1007 | 960 | 1075 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | delwyn5 | checkmated ❌ | 8/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1rk1/1pppn1pp/p7/3P4/P1P1P3/1P6/3BNbPP/R2QKB1R w KQ -">Link</a> | Bullet |
 | **centrumek** | iliketopoo69 | win 🥇 | 8/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1kr5/ppp2p1p/5p2/P7/2PRP3/8/2K4P/8 b - -">Link</a> | Bullet |
 | YisusJG | **centrumek** | win 🥇 | 8/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1r3/pp6/2b3qr/3pp3/1P4p1/3PR1P1/P1Q4P/4R1K1 w - -">Link</a> | Bullet |
 | **centrumek** | gifan95 | win 🥇 | 8/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rr4/pppkQp2/1n6/1P6/2P5/P2P1q1P/1K6/4RB1R b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | Antonio9107 | **centrumek** | win 🥇 | 8/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6pp/4p3/2b2p2/4p3/4B1P1/4KPq1/8 w - -">Link</a> | Bullet |
 | **centrumek** | FoxandFalco | checkmated ❌ | 8/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/1R4pp/p1p2p2/4pR2/2P1P2P/3r2qK/Q7/8 w - -">Link</a> | Bullet |
 | LCBchimi | **centrumek** | win 🥇 | 8/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1k4/1R5R/1pn1p3/p2pP1P1/7p/PP4pP/1B4P1/1B4K1 w - -">Link</a> | Bullet |
-| **centrumek** | alexandrmilko011 | win 🥇 | 8/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5N2/6p1/1R3p2/6kp/5Q2/5K1P/8 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
