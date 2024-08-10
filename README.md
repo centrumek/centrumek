@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 960 | 1066 |
+| Current | 1007 | 960 | 1074 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | djmatchstick | win 🥇 | 10/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q2Q4/6R1/8/5p2/5P2/1k6/7P/6KB b - -">Link</a> | Bullet |
 | cagdaszirek | **centrumek** | timeout ❌ | 9/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/6p1/1PNpPp2/5PpP/2P3P1/b2Q1K2/7R b - -">Link</a> | Bullet |
 | **centrumek** | madhurbatra | win 🥇 | 9/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p4kpp/3p3b/5P2/5PK1/r7/P6P/4R3 b - -">Link</a> | Bullet |
 | cnu3 | **centrumek** | timeout ❌ | 9/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/8/1p1P4/1P2K1p1/P5Pp/5P1P/8/8 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | nikaysraf | **centrumek** | win 🥇 | 9/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r4/6p1/2b4p/2P5/8/4P3/P3n1PP/R1B2r1K w - -">Link</a> | Bullet |
 | nikoladjo95 | **centrumek** | checkmated ❌ | 9/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p7/2b5/2R3p1/3Rk3/4P1P1/1P3PP1/4K3 b - -">Link</a> | Bullet |
 | **centrumek** | Mill1963 | win 🥇 | 9/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R4ppk/p2p1n1p/8/1P6/P4K2/7P/8 b - -">Link</a> | Bullet |
-| **centrumek** | TheSalmonRoll | checkmated ❌ | 9/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6bp/1p2R1p1/p3P3/2P2P2/6PN/3r3P/3q2K1 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
