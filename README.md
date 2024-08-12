@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 960 | 992 |
+| Current | 1007 | 960 | 1000 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| GhaZaalL98 | **centrumek** | win 🥇 | 12/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/r7/2K4p/6p1/8/5PbP/8/8 w - -">Link</a> | Bullet |
 | **centrumek** | Mihaelb991 | resigned ❌ | 11/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2r2k1/1p3ppp/p1p5/4N3/2P1q3/6P1/4K2P/8 w - -">Link</a> | Bullet |
 | **centrumek** | sofibanton | resigned ❌ | 11/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/pp1pnppp/5q2/2p1p3/2P1P3/PPNP4/2n1NPPP/4KB1R w Kkq -">Link</a> | Bullet |
 | PJMak | **centrumek** | timeout ❌ | 11/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/8/6Q1/p1pP4/2Pb4/1P5P/P5PK/4r3 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | Sticky_Fingaz121 | **centrumek** | timeout ❌ | 11/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1Rk5/K1p1b3/2P1Pp1p/p4PpP/P5P1/8/8 b - -">Link</a> | Bullet |
 | **centrumek** | GMiriya | win 🥇 | 11/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1P3b1p/R4p2/4p2P/3p4/K7/P3r3/8 b - -">Link</a> | Bullet |
 | **centrumek** | ZidzLoveChessGame | checkmated ❌ | 11/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q5bk/5p2/1p4np/1Pp1p3/2PpP3/3P3q/8/6RK w - -">Link</a> | Bullet |
-| **centrumek** | kianpely | timeout ❌ | 11/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/4K3/1q3p2/4p2n/4P3/8/8/8 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
