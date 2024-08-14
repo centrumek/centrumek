@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 960 | 973 |
+| Current | 1007 | 960 | 965 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| ccc5118 | **centrumek** | timeout ❌ | 13/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2r4/8/pk1qp3/1p2N1Q1/2pB4/2P2B1P/5PP1/R4RK1 b - -">Link</a> | Bullet |
 | IsThatRealKK | **centrumek** | timeout ❌ | 13/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1pk3K1/3p4/3Q4/8/PPP2PP1/8 b - -">Link</a> | Bullet |
 | deladavid | **centrumek** | checkmated ❌ | 13/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk1r1/p4Q2/8/6N1/6pP/1P2P1P1/P1q2PB1/4R1K1 b - -">Link</a> | Bullet |
 | **centrumek** | gbjnjbh | timeout ❌ | 13/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/2b3pp/2Pn1p2/2K5/3P2P1/3B4/8/8 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | Jacob1090 | checkmated ❌ | 12/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/ppp2ppp/1b2b3/1P2p3/2P1P3/P4P2/2Q1BqPP/R1B1K2R w KQ -">Link</a> | Bullet |
 | Frizzah | **centrumek** | win 🥇 | 12/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/1p6/p1p4p/5b2/8/P3K3/1r6/8 w - -">Link</a> | Bullet |
 | **centrumek** | wakewizz | resigned ❌ | 12/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb2rk1/pp3pp1/2p4p/8/4P3/3P1N2/P1P1K1PP/q4B1R w - -">Link</a> | Bullet |
-| Vamp1997 | **centrumek** | win 🥇 | 12/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/8/1qp5/1pNp1p1r/1P1Pp1p1/2P1P1Pp/2Q2P1P/rR4KB w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
