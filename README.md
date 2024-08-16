@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 960 | 957 |
+| Current | 1007 | 960 | 949 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | 3Tenno | resigned ❌ | 16/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rb2rk1/p4ppp/2p2n2/4p3/Pq2P3/1NNp4/1K4PP/5B1R w - -">Link</a> | Bullet |
 | Rossiclero | **centrumek** | timeout ❌ | 15/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/6p1/3p2K1/2bP1P2/2R4P/8/8 b - f3">Link</a> | Bullet |
 | Locke3656 | **centrumek** | win 🥇 | 15/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/p4p1p/1p2P1p1/2qP4/4p1b1/2Q5/PP5P/RNB2RK1 w kq -">Link</a> | Bullet |
 | **centrumek** | GabrielMoro78 | timeout ❌ | 15/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppb4k/2p3pP/2Pp4/PP4K1/4rp2/8/8 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | gbjnjbh | timeout ❌ | 13/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/2b3pp/2Pn1p2/2K5/3P2P1/3B4/8/8 w - -">Link</a> | Bullet |
 | **centrumek** | Zohny12 | resigned ❌ | 13/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1b4r1/4k3/8/3K4/8/7p/8 w - -">Link</a> | Bullet |
 | zephir1618 | **centrumek** | timeout ❌ | 12/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/2k3p1/2p3p1/2Q5/8/4R3/PP3PPP/6K1 b - -">Link</a> | Bullet |
-| **centrumek** | ryzevreal | win 🥇 | 12/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/R5R1/7p/1p6/6b1/P1KP2P1/7r/8 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
