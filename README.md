@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 960 | 940 |
+| Current | 1007 | 960 | 948 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| jeanclaudejao | **centrumek** | win 🥇 | 17/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/7p/8/5p2/1RP2K2/1n4P1/P2rb1PP/8 w - -">Link</a> | Bullet |
 | **centrumek** | dhruvbandil | timevsinsufficient ⏸️ | 17/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5K2/8/2q5/2k5/8/1p6/8 b - -">Link</a> | Bullet |
 | FredGVA | **centrumek** | win 🥇 | 16/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4k1b1/8/BbP1p2p/4B3/1R2P3/1PP3PP/5rK1 w - -">Link</a> | Bullet |
 | sergiomontalvo | **centrumek** | checkmated ❌ | 16/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3Q1R1/2pk4/3pp3/3Pp3/8/PrP3P1/5RK1 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | MaskedBirder | timeout ❌ | 16/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3K4/6pp/3B1pk1/3r4/8/8 w - -">Link</a> | Bullet |
 | gushtasp | **centrumek** | checkmated ❌ | 16/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6r/1p1Bn1bp/1P2Pkp1/5pB1/p7/5N2/5PPP/3R1RK1 b - -">Link</a> | Bullet |
 | **centrumek** | BigBoiiBilal | timevsinsufficient ⏸️ | 16/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/2PR4/3N4/2K5/8/4k3 w - -">Link</a> | Bullet |
-| **centrumek** | egoistdream | win 🥇 | 16/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/p7/5b2/5p1k/5P1p/4K3/b5Q1/8 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
