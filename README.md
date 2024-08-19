@@ -116,7 +116,7 @@
 
 | Username | Day Streak | Total XP |
 |:---:|:---:|:---:|
-| 👤 Centrumek | 🔥 526 | ⚡ 28781 |
+| 👤 Centrumek | 🔥 0 | ⚡ 28781 |
 
 | Language | Level | XP |
 |:---:|:---:|:---:|
