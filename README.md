@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 958 | 1030 |
+| Current | 1007 | 958 | 1039 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | ratpacksmokes | win 🥇 | 22/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/4B3/2pr3P/2k2p2/8/4K3/8 b - -">Link</a> | Bullet |
 | **centrumek** | rothwell802 | timevsinsufficient ⏸️ | 20/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q4/8/8/3k4/1K6/8/8/8 b - -">Link</a> | Bullet |
 | LuckyZiko | **centrumek** | win 🥇 | 20/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/pp1n4/2p3p1/3p2N1/3P1P2/1B2q2b/PPP5/2KR3R w - -">Link</a> | Blitz |
 | chonkers2kg | **centrumek** | win 🥇 | 20/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1kr5/pb6/7n/1B1Pn3/1PPqN3/8/1KQ4b/8 w - -">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | GMchesstacticatk1500 | **centrumek** | win 🥇 | 20/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2b3/p3Pk2/2p3p1/1p1p1p1p/3P1N2/3B3P/PPP2P2/1K2r3 w - -">Link</a> | Bullet |
 | hidchess33 | **centrumek** | timeout ❌ | 20/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp6/5n1p/3pkR2/1P2r1P1/8/P5K1/8 b - -">Link</a> | Bullet |
 | **centrumek** | ijrn | resigned ❌ | 20/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1K6/8/8/8/1k6/8/8/q7 w - -">Link</a> | Blitz |
-| **centrumek** | chonkers2kg | win 🥇 | 20/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R1bqkbr1/7p/2p2p2/2np2p1/8/4QP2/4N1PP/1N2KB1R b Kq -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
