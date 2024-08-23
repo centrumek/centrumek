@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 958 | 1045 |
+| Current | 1007 | 958 | 1037 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| LilleBeast | **centrumek** | checkmated ❌ | 23/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rkr3/pp6/n1pQ4/8/3P3P/6PR/PP1K1P2/R7 b - -">Link</a> | Bullet |
 | **centrumek** | AmadorDeLeon | win 🥇 | 22/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4b1k1/pp3ppp/2pNp3/2P1r3/1P3K2/Pr6/7P/3R3R b - -">Link</a> | Bullet |
 | **centrumek** | Albertolgp | win 🥇 | 22/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1K4k/1p6/1P1p1p1p/P3b2P/q7/8/8 b - -">Link</a> | Bullet |
 | ferchoug | **centrumek** | win 🥇 | 22/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4R2/p6r/4Qpk1/8/1P6/PKP5/8 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | calmhuman | **centrumek** | timeout ❌ | 22/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3k4/3p4/2PK3P/6P1/PP6/8 b - -">Link</a> | Bullet |
 | **centrumek** | TripleDiamonds | timeout ❌ | 22/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1r3/1p3K2/5p2/2P1q3/3pP2P/8/8/5n2 w - -">Link</a> | Bullet |
 | MrOGH | **centrumek** | win 🥇 | 22/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pp6/2p2k2/3p2p1/3P4/7Q/PPP2r1P/1K4R1 w - -">Link</a> | Bullet |
-| **centrumek** | ratpacksmokes | win 🥇 | 22/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/4B3/2pr3P/2k2p2/8/4K3/8 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
