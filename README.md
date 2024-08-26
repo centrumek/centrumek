@@ -89,11 +89,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 958 | 1045 |
+| Current | 1007 | 958 | 1060 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Jakaiciuka-s | **centrumek** | win 🥇 | 25/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/1P4k1/K4bp1/3p1p1p/3P1P2/3B1P2/8/7R w - -">Link</a> | Bullet |
+| **centrumek** | Eggbede | win 🥇 | 25/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4b1r/pp2k1pp/5n2/4Q3/4B2P/2N5/PPP5/R3K1NR b KQ -">Link</a> | Bullet |
 | Skalomi | **centrumek** | resigned ❌ | 25/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/3P1R2/2pQ4/kp6/p5p1/6P1/PP2P2P/2R3K1 b - -">Link</a> | Bullet |
 | Vasilis_rising | **centrumek** | win 🥇 | 25/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5k1/4b3/1pp1n2p/3pP3/1P1P3P/P3K1B1/8 w - b6">Link</a> | Bullet |
 | **centrumek** | ImmortalAthena | win 🥇 | 25/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/P4ppp/1p6/1N1P4/2P1P3/4q3/4B1PP/Q2K1R2 b - -">Link</a> | Bullet |
@@ -102,8 +104,6 @@
 | **centrumek** | Albertolgp | win 🥇 | 22/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1K4k/1p6/1P1p1p1p/P3b2P/q7/8/8 b - -">Link</a> | Bullet |
 | ferchoug | **centrumek** | win 🥇 | 22/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4R2/p6r/4Qpk1/8/1P6/PKP5/8 w - -">Link</a> | Bullet |
 | **centrumek** | kgkeklikci | checkmated ❌ | 22/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1KR5/q1r2kp1/1pp5/1n2p1p1/4P1P1/3P4/P7/7R w - -">Link</a> | Bullet |
-| **centrumek** | p-gibby | win 🥇 | 22/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p3pp1p/3p1np1/3Pn3/N3P1PK/5q1P/8/4R3 b - -">Link</a> | Bullet |
-| turikay | **centrumek** | timeout ❌ | 22/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/R7/1B3p1p/p4PbP/k5P1/8/2K5 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
