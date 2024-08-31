@@ -89,11 +89,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 958 | 1098 |
+| Current | 1007 | 958 | 1097 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Rayayaye | win 🥇 | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R6k/5ppp/1p1Np3/8/3rpP2/6P1/2P4P/2K4R b - -">Link</a> | Bullet |
+| jainsahil77 | **centrumek** | checkmated ❌ | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1bnr/pQk1p3/Bp2qp2/4p1p1/8/8/PPP3PP/2KR3R b - -">Link</a> | Bullet |
 | dynimighty | **centrumek** | resigned ❌ | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b4r/pp3Rb1/1kp3B1/3p2Bp/2PP4/1Q2n1P1/PP5P/R5K1 b - -">Link</a> | Bullet |
 | ErNoryx | **centrumek** | timeout ❌ | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/p2Q4/1k1b4/Bp2q3/8/4P1P1/2P4P/1R4K1 b - -">Link</a> | Bullet |
 | **centrumek** | benatti0 | win 🥇 | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/p1r4p/1p6/1bR1Bp2/4pP2/4P1P1/P4K1P/8 b - -">Link</a> | Bullet |
@@ -102,8 +104,6 @@
 | tintenseher | **centrumek** | timeout ❌ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/1K4P1/p1pP2P1/PpP5/8/8/8 b - -">Link</a> | Bullet |
 | **centrumek** | swag_ftbl12 | resigned ❌ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k1Kp1/2p1p3/p1P2p1p/3PpPq1/6P1/7P/8 w - -">Link</a> | Bullet |
 | Z-Inspector_Clouseau | **centrumek** | timeout ❌ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4n2/p5p1/4Q2p/2kRP3/P1p4q/7N/1P4PP/6K1 b - -">Link</a> | Bullet |
-| **centrumek** | discrepant | timeout ❌ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/p4ppp/2pb4/1p2p3/nP2P3/P2P1P1P/2P1N1B1/2KR3R w - -">Link</a> | Bullet |
-| Jdrrmusic | **centrumek** | checkmated ❌ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn5r/p4p2/1p6/2p2pBp/7P/2P2PkR/PP4P1/3R1K2 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
