@@ -89,11 +89,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 958 | 1097 |
+| Current | 1007 | 958 | 1098 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| MuhammedYerkel | **centrumek** | timeout ❌ | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6Rk/P6p/KP4r1/8/8/8 b - -">Link</a> | Bullet |
+| **centrumek** | beasthunter65 | win 🥇 | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5Q1k/1p3p1p/8/6P1/1P6/7K/R7 b - -">Link</a> | Bullet |
 | **centrumek** | Rayayaye | win 🥇 | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R6k/5ppp/1p1Np3/8/3rpP2/6P1/2P4P/2K4R b - -">Link</a> | Bullet |
 | jainsahil77 | **centrumek** | checkmated ❌ | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1bnr/pQk1p3/Bp2qp2/4p1p1/8/8/PPP3PP/2KR3R b - -">Link</a> | Bullet |
 | dynimighty | **centrumek** | resigned ❌ | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b4r/pp3Rb1/1kp3B1/3p2Bp/2PP4/1Q2n1P1/PP5P/R5K1 b - -">Link</a> | Bullet |
@@ -102,8 +104,6 @@
 | **centrumek** | davoArm6 | timevsinsufficient ⏸️ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/8/8/1P4P1/1P6/N7/8/1K6 w - -">Link</a> | Bullet |
 | peter_1006 | **centrumek** | checkmated ❌ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/1k1R4/p1p5/PpP4p/5Pp1/1Pb3P1/7P/5RK1 b - -">Link</a> | Bullet |
 | tintenseher | **centrumek** | timeout ❌ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/1K4P1/p1pP2P1/PpP5/8/8/8 b - -">Link</a> | Bullet |
-| **centrumek** | swag_ftbl12 | resigned ❌ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k1Kp1/2p1p3/p1P2p1p/3PpPq1/6P1/7P/8 w - -">Link</a> | Bullet |
-| Z-Inspector_Clouseau | **centrumek** | timeout ❌ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4n2/p5p1/4Q2p/2kRP3/P1p4q/7N/1P4PP/6K1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
