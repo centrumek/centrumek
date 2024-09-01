@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 958 | 1098 |
+| Current | 1007 | 958 | 1090 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| EoinOliathain | **centrumek** | resigned ❌ | 1/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6R1/8/1pr5/p2p4/P4p2/1PPK1P1k/8/8 b - -">Link</a> | Bullet |
 | MuhammedYerkel | **centrumek** | timeout ❌ | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6Rk/P6p/KP4r1/8/8/8 b - -">Link</a> | Bullet |
 | **centrumek** | beasthunter65 | win 🥇 | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5Q1k/1p3p1p/8/6P1/1P6/7K/R7 b - -">Link</a> | Bullet |
 | **centrumek** | Rayayaye | win 🥇 | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R6k/5ppp/1p1Np3/8/3rpP2/6P1/2P4P/2K4R b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | benatti0 | win 🥇 | 31/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/p1r4p/1p6/1bR1Bp2/4pP2/4P1P1/P4K1P/8 b - -">Link</a> | Bullet |
 | **centrumek** | davoArm6 | timevsinsufficient ⏸️ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/8/8/1P4P1/1P6/N7/8/1K6 w - -">Link</a> | Bullet |
 | peter_1006 | **centrumek** | checkmated ❌ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/1k1R4/p1p5/PpP4p/5Pp1/1Pb3P1/7P/5RK1 b - -">Link</a> | Bullet |
-| tintenseher | **centrumek** | timeout ❌ | 30/8/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/1K4P1/p1pP2P1/PpP5/8/8/8 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
