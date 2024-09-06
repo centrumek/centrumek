@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 958 | 1064 |
+| Current | 1007 | 958 | 1056 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | paquiliztli | timeout ❌ | 5/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2ppp/7B/2P1p2P/PP1pP2b/N2P4/2q5/3K4 w - -">Link</a> | Bullet |
 | Tonixek | **centrumek** | checkmated ❌ | 5/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=q4knr/1b3Q1p/3Np1p1/3pPp2/1P1P4/n2B1N2/5PPP/5RK1 b - -">Link</a> | Bullet |
 | BaconL0v3r | **centrumek** | win 🥇 | 5/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1r2k1/4R1pp/p7/5p2/N7/3p3P/PPn2PPK/8 w - -">Link</a> | Bullet |
 | **centrumek** | alejandrojuarezlopez | resigned ❌ | 5/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1r1/2ppnp2/1p2p3/p5pP/P1PPP3/1P1n1P1P/1Q1N2B1/4K1NR w Kq -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | el_ultimo | **centrumek** | resigned ❌ | 5/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb2b2/pp6/2p3Q1/2k5/4p3/8/PPP1BPPP/RNB1K2R w KQ -">Link</a> | Bullet |
 | **centrumek** | Checkmate2000Goal | checkmated ❌ | 4/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp5p/1np3p1/2np4/r7/K6P/PPPB4/RN3rNR w - -">Link</a> | Bullet |
 | brafra5000 | **centrumek** | timeout ❌ | 4/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p5p1/7p/P1p5/8/2P5/6KP/R4R2 b - -">Link</a> | Bullet |
-| **centrumek** | Smagnustony | win 🥇 | 4/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/1p3pp1/p7/Pb3q1p/5P2/3P2P1/1Q2B2P/4R1K1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
