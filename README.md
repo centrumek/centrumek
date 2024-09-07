@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 958 | 1103 |
+| Current | 1007 | 958 | 1111 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | backer42 | win 🥇 | 6/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/1p3q1p/p1b3r1/4p1B1/P1P1P2P/1Q1P3B/3NK3/R4R2 b - -">Link</a> | Bullet |
 | emam_10 | **centrumek** | win 🥇 | 6/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/8/3p3b/8/3q4/2p5/2K5/8 w - -">Link</a> | Bullet |
 | **centrumek** | kalawatihembram | win 🥇 | 6/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/8/k1p5/1pP4Q/p2BP3/P2P4/2P5/7K b - -">Link</a> | Bullet |
 | **centrumek** | husaria-na-wysokosici | resigned ❌ | 6/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p2b1pbp/3p2p1/3Pp3/P5P1/1q1P1P2/1B2B1KP/R4R2 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | Cess2 | resigned ❌ | 6/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k4p/4b3/pp6/7P/K7/P4r2/8 w - -">Link</a> | Bullet |
 | **centrumek** | natsagdorjt | checkmated ❌ | 6/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3pkpp1/ppb1p3/2p1P3/P1PnP3/1P3q2/8/R3Q1Kr w - -">Link</a> | Bullet |
 | azzyker8 | **centrumek** | timevsinsufficient ⏸️ | 6/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/2P5/kP1K4/B7/8/7b w - -">Link</a> | Bullet |
-| **centrumek** | Holod2 | win 🥇 | 6/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/ppp2kQ1/4p3/1b1p1p1N/1n1P1P2/2q1PK2/8/3R4 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
