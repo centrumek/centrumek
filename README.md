@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 958 | 1143 |
+| Current | 1007 | 958 | 1151 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| RexKwondo81 | **centrumek** | win 🥇 | 7/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p2Q4/kp6/r3p3/6R1/4K3/8/8 w - -">Link</a> | Bullet |
 | **centrumek** | girilovich | repetition ⏸️ | 7/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6pp/2R2pk1/2K1p3/4P3/5P2/6PP/8 b - -">Link</a> | Bullet |
 | **centrumek** | Tarzanos | win 🥇 | 7/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/3k4/p2Pp3/P3K3/8/8 b - -">Link</a> | Bullet |
 | mmaxout | **centrumek** | win 🥇 | 7/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/pp4bp/6p1/5p2/8/3n2P1/P1K4P/8 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | RayenKhlifii | **centrumek** | win 🥇 | 7/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk3/pp1p4/2p1p1r1/4Ppbp/3P4/2NB1pP1/PPPQ3P/2KRN2R w q -">Link</a> | Bullet |
 | **centrumek** | JOY_BOY_1990 | resigned ❌ | 7/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1kr5/5ppp/1p6/1q6/1n2P3/5P2/1P3KPP/8 w - -">Link</a> | Bullet |
 | **centrumek** | aposalbashyan | timeout ❌ | 7/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/8/1p1p4/1P1Pbpk1/2P1P1p1/p7/6K1/R7 w - -">Link</a> | Bullet |
-| **centrumek** | kattennopi | win 🥇 | 7/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/p1p2ppp/8/8/1NK5/P7/5R2/8 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
