@@ -89,11 +89,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 958 | 1133 |
+| Current | 1007 | 958 | 1141 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Genofobie | **centrumek** | win 🥇 | 10/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4rrk1/4R3/5P2/1P2PK2/PnP3P1/8 w - -">Link</a> | Bullet |
+| Darek-83 | **centrumek** | win 🥇 | 10/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n3b1r/2Nk3p/1p4p1/1b1pPn2/8/8/1PP2PPP/1rBK3R w - -">Link</a> | Blitz |
 | BlakeM75 | **centrumek** | timeout ❌ | 10/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/k7/1Q3R2/p2pP3/1p6/2P5/PPBKN1r1/R7 b - -">Link</a> | Bullet |
 | **centrumek** | dhoopwaalishakti | checkmated ❌ | 10/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/6k1/7p/6p1/2Bp4/1PbP4/P1P4P/2K1q3 w - -">Link</a> | Bullet |
 | **centrumek** | Puzzleyyy | checkmated ❌ | 9/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5pp1/3p3p/3P4/1rKp4/3P4/8/1q6 w - -">Link</a> | Bullet |
@@ -102,8 +104,6 @@
 | **centrumek** | chesssterking | timeout ❌ | 9/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/1P6/8/1Kpk4/8/8/r7 w - -">Link</a> | Bullet |
 | iwon007 | **centrumek** | timeout ❌ | 9/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp6/8/2p5/4P3/2PK1B2/P1P5/8 b - -">Link</a> | Bullet |
 | **centrumek** | Lordam1927 | win 🥇 | 9/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/k7/1P1Q4/PP6/6P1/7P/2K5 b - -">Link</a> | Bullet |
-| eltucu | **centrumek** | win 🥇 | 9/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1b4/2pPp3/7k/7P/2P1r1r1/PP6/2KR3R w - -">Link</a> | Bullet |
-| **centrumek** | Beanzo52 | checkmated ❌ | 9/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5k2/6p1/8/1r6/r4K2 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
