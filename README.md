@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 958 | 1168 |
+| Current | 1007 | 958 | 1161 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | SVPerera | timeout ❌ | 11/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/4p1p1/8/3N4/3K4/p5kP/5q2 w - -">Link</a> | Bullet |
 | soltann | **centrumek** | resigned ❌ | 10/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5k1/7p/4N3/5B2/P1P5/5PPP/4R1K1 b - -">Link</a> | Bullet |
 | **centrumek** | Vulrn | timeout ❌ | 10/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2r2ppp/3q4/3p4/p4P2/6P1/4K2P/3N4 w - -">Link</a> | Bullet |
 | **centrumek** | Abcdpgc | win 🥇 | 10/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kb1r/pp3ppp/2p1p3/1B1pP3/3P2P1/6P1/PPPN3R/R1BQK1N1 b Qkq -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | wimpynorway | **centrumek** | win 🥇 | 10/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb3k1/pp4b1/2p1p3/3p3r/8/3P1N2/PPP2qPP/R2K1B1R w - -">Link</a> | Bullet |
 | **centrumek** | batzang | resigned ❌ | 10/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1nb1k1r1/r5P1/2p1pq1p/1p1p1p2/P2P1P1P/1P2P3/3N4/R2QKBR1 w Q -">Link</a> | Bullet |
 | **centrumek** | josefjupa | timeout ❌ | 10/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/7p/7K/8/8/8/8 w - -">Link</a> | Bullet |
-| call44 | **centrumek** | checkmated ❌ | 10/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/p3R3/1k2R3/1P4p1/1KPP4/P2b1rPP/8 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
