@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 958 | 1142 |
+| Current | 1007 | 958 | 1149 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Pharaoh_Ramesses-II | win 🥇 | 15/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/2p2p1p/1p6/pP6/P3bP2/q5P1/1B2N2P/2KR4 b - -">Link</a> | Bullet |
 | **centrumek** | hopelessxD | win 🥇 | 15/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p4pp1/7p/2p4P/3p4/P2Q4/4rbR1/2K4R b - -">Link</a> | Bullet |
 | **centrumek** | waynechess1986 | resigned ❌ | 15/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/1Bp4p/1p4p1/5p2/1q3P2/p4KP1/7P/8 w - -">Link</a> | Bullet |
 | CFSYG | **centrumek** | timeout ❌ | 15/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/8/8/8/1bp5/2P5/3K4/5k2 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | insaniation | **centrumek** | timeout ❌ | 15/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6r1/3kp3/P2p4/2b1p3/2B1P1P1/4RP2/2NK2R1 b - -">Link</a> | Bullet |
 | Biacat00 | **centrumek** | timeout ❌ | 14/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/8/1p6/2kP3R/7P/PP6/2K5 b - -">Link</a> | Bullet |
 | **centrumek** | Cornoletame | win 🥇 | 14/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/k6p/Pp1p4/3Pp3/2P2p2/3P1q2/1KQ5/R7 b - -">Link</a> | Bullet |
-| **centrumek** | ovelorage | win 🥇 | 14/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/2p2ppp/2P1p3/8/4pP1P/4P1P1/r7/6K1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
