@@ -89,11 +89,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 958 | 1084 |
+| Current | 1007 | 958 | 1092 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| haris_ia | **centrumek** | win 🥇 | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/8/5b2/5r2/5pKP/3p4/5P2/8 w - -">Link</a> | Bullet |
+| Alfilesbuenos | **centrumek** | win 🥇 | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/p2bB3/8/5Pp1/1P2P1P1/1r6/3R2K1 w - -">Link</a> | Bullet |
+| **centrumek** | Antu2009 | timeout ❌ | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p4pk/p3B2p/P1p1p3/1nPp4/3P2qP/3Q1r2/1N5K w - -">Link</a> | Bullet |
 | Boyoyonggg | **centrumek** | timeout ❌ | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R1k5/2p3r1/1pKpP3/1P1P4/2P5/P7/8 b - -">Link</a> | Bullet |
 | woodsay5 | **centrumek** | win 🥇 | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/pp6/8/5q2/4b1p1/6p1/PP3PKP/4R3 w - -">Link</a> | Bullet |
 | **centrumek** | ravinha | timeout ❌ | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/7p/2p3p1/6P1/4pRK1/4r3/8/8 w - -">Link</a> | Bullet |
@@ -101,9 +104,6 @@
 | **centrumek** | TheJackBartender | win 🥇 | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k3r/1ppQR3/1b6/pB1P4/P1P4p/8/8/2KR4 b - -">Link</a> | Bullet |
 | **centrumek** | Marjone | checkmated ❌ | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5ppp/8/8/2PpP3/3P4/r2q3P/3K4 w - -">Link</a> | Bullet |
 | Veerthedare | **centrumek** | win 🥇 | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k3p/6p1/p3Pp2/6PP/6K1/P5qr/8 w - -">Link</a> | Bullet |
-| **centrumek** | V_Shawts | timeout ❌ | 17/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b2/2Q2pkp/6p1/8/8/4P2P/4K3/8 w - -">Link</a> | Bullet |
-| robot_iwnl | **centrumek** | resigned ❌ | 17/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/7k/1p6/pP4r1/P1B2p2/8/1B3P2/3R1K2 b - -">Link</a> | Bullet |
-| **centrumek** | BHtanatikos | win 🥇 | 17/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/k7/5PK1/R5PP/1R6 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
