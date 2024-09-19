@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 958 | 1092 |
+| Current | 1007 | 958 | 1100 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | MaxximusSam | win 🥇 | 19/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3bk3/3p1p1p/2pPpPpP/pr2P1P1/2N5/3K2B1/R7 b - -">Link</a> | Bullet |
 | haris_ia | **centrumek** | win 🥇 | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/8/5b2/5r2/5pKP/3p4/5P2/8 w - -">Link</a> | Bullet |
 | Alfilesbuenos | **centrumek** | win 🥇 | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/p2bB3/8/5Pp1/1P2P1P1/1r6/3R2K1 w - -">Link</a> | Bullet |
 | **centrumek** | Antu2009 | timeout ❌ | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p4pk/p3B2p/P1p1p3/1nPp4/3P2qP/3Q1r2/1N5K w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | Scawell | **centrumek** | win 🥇 | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4k1b1/6p1/3pPp1p/3P4/2PrP1KP/8/5R2 w - -">Link</a> | Bullet |
 | **centrumek** | TheJackBartender | win 🥇 | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k3r/1ppQR3/1b6/pB1P4/P1P4p/8/8/2KR4 b - -">Link</a> | Bullet |
 | **centrumek** | Marjone | checkmated ❌ | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5ppp/8/8/2PpP3/3P4/r2q3P/3K4 w - -">Link</a> | Bullet |
-| Veerthedare | **centrumek** | win 🥇 | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k3p/6p1/p3Pp2/6PP/6K1/P5qr/8 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
