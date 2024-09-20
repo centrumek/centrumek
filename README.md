@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 958 | 1100 |
+| Current | 1007 | 958 | 1092 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| assimov | **centrumek** | timeout ❌ | 19/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q1k1/pp6/2p4q/8/2PP2pp/7P/PP3PP1/6K1 b - -">Link</a> | Bullet |
 | **centrumek** | xroootx | resigned ❌ | 19/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1bk3/1p1b2p1/3p4/p2P4/P2KPpP1/1P1P4/4q3/8 w q -">Link</a> | Bullet |
 | j105a | **centrumek** | win 🥇 | 19/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1k5/2p5/3pP2p/2qP1P2/2P5/1P6/2Kb2R1 w - -">Link</a> | Bullet |
 | **centrumek** | MaxximusSam | win 🥇 | 19/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3bk3/3p1p1p/2pPpPpP/pr2P1P1/2N5/3K2B1/R7 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | Boyoyonggg | **centrumek** | timeout ❌ | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R1k5/2p3r1/1pKpP3/1P1P4/2P5/P7/8 b - -">Link</a> | Bullet |
 | woodsay5 | **centrumek** | win 🥇 | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/pp6/8/5q2/4b1p1/6p1/PP3PKP/4R3 w - -">Link</a> | Bullet |
 | **centrumek** | ravinha | timeout ❌ | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/7p/2p3p1/6P1/4pRK1/4r3/8/8 w - -">Link</a> | Bullet |
-| Scawell | **centrumek** | win 🥇 | 18/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4k1b1/6p1/3pPp1p/3P4/2PrP1KP/8/5R2 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
