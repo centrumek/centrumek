@@ -94,6 +94,9 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | flagoon | win 🥇 | 30/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7R/1r1k4/1Pp5/2K5/8/8/8 b - -">Link</a> | Blitz |
+| flagoon | **centrumek** | checkmated ❌ | 30/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbq3r/pp1k2pp/2p2n2/3pQB2/8/4P3/PPP2PPP/RNB2RK1 b - -">Link</a> | Blitz |
+| **centrumek** | flagoon | resigned ❌ | 30/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p1R2p1p/4p1p1/3pP3/Pr3qK1/8/6PP/7R w - -">Link</a> | Blitz |
 | **centrumek** | zgjxszsn | timeout ❌ | 29/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/6pp/8/bB6/8/1K3RP1/7P/r7 w - -">Link</a> | Bullet |
 | DylanRiemer | **centrumek** | checkmated ❌ | 29/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pp1n4/2p1p1Qk/3p3B/3PP2P/6P1/PPP5/6K1 b - -">Link</a> | Bullet |
 | **centrumek** | Tailon13 | resigned ❌ | 29/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/6pp/4K2k/7q/8/8 w - -">Link</a> | Bullet |
@@ -101,9 +104,6 @@
 | **centrumek** | ekmetstli | win 🥇 | 29/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4rkp/1p3p2/1Np1p3/8/2P5/PP3R2/4K3 b - -">Link</a> | Bullet |
 | CPAJ1969 | **centrumek** | win 🥇 | 29/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/ppp3pp/3p1p2/4p3/8/3P2P1/PPP1PPBP/RNBQK1NR w KQkq e6">Link</a> | Bullet |
 | praiseforthebishop123 | **centrumek** | win 🥇 | 29/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3rk3/7n/3p1r1p/3P3P/1B6/KPP2p2/5R2 w - -">Link</a> | Bullet |
-| **centrumek** | Aarav_ARV | win 🥇 | 29/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/8/2br4/8/8/4K2P/7P/8 b - -">Link</a> | Bullet |
-| **centrumek** | Yuckybear | timeout ❌ | 29/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/6Kp/6p1/6P1/8/8/7P/8 w - -">Link</a> | Bullet |
-| **centrumek** | Aegb3777 | win 🥇 | 29/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pk4pp/1p3p2/4rP2/3r2PP/2R3K1/8/8 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
