@@ -89,21 +89,21 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 958 | 1143 |
+| Current | 1007 | 958 | 1142 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | dimosev | win 🥇 | 2/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R7/1p1k1ppp/b7/P2p2P1/5P2/7P/1K6 b - -">Link</a> | Bullet |
+| **centrumek** | tresnota | checkmated ❌ | 2/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pppk4/3q4/1PK5/2Q5/2P5/P7/8 w - -">Link</a> | Bullet |
+| Fastops | **centrumek** | win 🥇 | 2/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6rr/ppkn4/2p5/3N4/8/6P1/PP3PKP/8 b - -">Link</a> | Bullet |
+| billyscemo | **centrumek** | timeout ❌ | 2/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/8/2P4p/1PB5/6PP/P2rk3/5RK1 b - -">Link</a> | Bullet |
 | **centrumek** | Georg1729 | timeout ❌ | 2/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p6p/1p1p4/2p2r2/P1Pp2P1/1P6/R5K1/4N3 w - -">Link</a> | Bullet |
 | adrianII2 | **centrumek** | win 🥇 | 2/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1r3/pp1bP2k/2p4p/3pRpq1/2P5/1Q1n4/PP3PPP/4R1K1 w - -">Link</a> | Bullet |
 | **centrumek** | Arnie_ichess | resigned ❌ | 2/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p4p/2kr2n1/p7/P1K5/8/8/8 w - -">Link</a> | Bullet |
 | Chess288 | **centrumek** | win 🥇 | 2/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp3p1k/2p4r/5q2/3P3p/1P6/P3PQ2/2K3R1 w - -">Link</a> | Bullet |
 | **centrumek** | Mhuxhekk | win 🥇 | 2/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/1bp4p/1p2p2p/3N4/1P1r4/r2n2P1/4B2P/6K1 b - -">Link</a> | Bullet |
 | Pakezels | **centrumek** | timeout ❌ | 2/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5ppp/2p5/1n6/1R5P/7K/1P2nPP1/r7 b - -">Link</a> | Bullet |
-| **centrumek** | okidik | win 🥇 | 2/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p4p1p/1p1p2p1/1PpPb1Q1/P2pP3/3P1P2/R3B1PP/1N2K2R b K -">Link</a> | Bullet |
-| Explorer33 | **centrumek** | win 🥇 | 2/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp6/n6p/1p1p4/3P4/P7/1q3r1P/K7 w - -">Link</a> | Bullet |
-| **centrumek** | Papavege | timeout ❌ | 2/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/pp3ppp/2p5/5P2/1P1p4/P2P4/2QKBq2/8 w - -">Link</a> | Bullet |
-| GM-7Z | **centrumek** | resigned ❌ | 2/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/p2Q2pp/2p5/8/8/2N5/PPP2PPP/R3R1K1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
