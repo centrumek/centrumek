@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 958 | 1145 |
+| Current | 1007 | 958 | 1138 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Amishay777 | timeout ❌ | 2/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1r2/ppp3K1/8/2P5/2P1P2n/1P3p2/1B5P/5R1R w - -">Link</a> | Bullet |
 | **centrumek** | sherkhon | win 🥇 | 1/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/R7/8/k7/8/8/6P1/6K1 b - -">Link</a> | Bullet |
 | Clarkypants | **centrumek** | timeout ❌ | 1/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k4/pb1BbP2/1p6/1N3n2/8/8/PP3PPP/R4RK1 b - -">Link</a> | Bullet |
 | StickyBullets | **centrumek** | win 🥇 | 1/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/1b3Pk1/2p4R/1p6/pP1P4/P7/6PP/R1B3K1 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | PauMiquel15 | timeout ❌ | 1/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp6/5p2/2k2N1p/5P2/4r2K/7P/8 w - -">Link</a> | Bullet |
 | divshah | **centrumek** | timeout ❌ | 30/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/8/2R4p/1n1P4/1P1kP3/P4QPP/6K1 b - -">Link</a> | Bullet |
 | **centrumek** | NateAndre | win 🥇 | 30/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/1p2b2p/pB2k3/P1p5/1n1p4/5N2/6PP/3R2K1 b - -">Link</a> | Bullet |
-| 8ateaxe | **centrumek** | resigned ❌ | 30/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b4k/pp2R3/5Q2/3p4/3P4/8/PPP2PPP/R5K1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
