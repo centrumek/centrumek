@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 886 | 1171 |
+| Current | 1007 | 886 | 1163 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| pogo214 | **centrumek** | resigned ❌ | 6/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkb1r/p4ppp/2p1pn2/8/NppPP3/4BN2/PP2BPPP/R2QK2R b KQkq -">Link</a> | Bullet |
 | **centrumek** | LEGENDyv | checkmated ❌ | 6/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r4/1p3pp1/p6p/4P3/8/3p4/PP2q3/2R1KR2 w - -">Link</a> | Blitz |
 | **centrumek** | Shubhuhere | win 🥇 | 6/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/2R5/4p3/1RPbB2p/1P1P1P1P/6r1/7K/8 b - -">Link</a> | Blitz |
 | saadfaidi | **centrumek** | insufficient ⏸️ | 6/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/5K2/8/k7 w - -">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | MPavel888 | **centrumek** | win 🥇 | 5/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5q1/p6r/3Rp2P/pk2N3/4p3/1P2b3/1B6/1K2Q2R w - -">Link</a> | Bullet |
 | **centrumek** | Nadiesh123 | checkmated ❌ | 5/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/2R2pbp/4p1p1/4P3/2p2PP1/8/1r5P/q6K w - -">Link</a> | Bullet |
 | timao77 | **centrumek** | win 🥇 | 5/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6kp/5pr1/R7/PB2n2P/2P5/7K w - -">Link</a> | Bullet |
-| Goshamn | **centrumek** | resigned ❌ | 5/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/R7/8/p3R3/4P3/3P4/PP3PPP/6K1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
