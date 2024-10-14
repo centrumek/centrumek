@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 918 | 1163 |
+| Current | 1007 | 910 | 1163 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | FellowshipoftheKing | timeout ❌ | 13/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/3pp3/5p2/q7/5P2/3NK3/8 w - -">Link</a> | Blitz |
 | Ionutfarax | **centrumek** | win 🥇 | 13/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/pp4Np/5n2/3p4/6n1/1P1P1Q2/P4PPq/RN3RK1 w - -">Link</a> | Blitz |
 | pascou68 | **centrumek** | resigned ❌ | 13/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/5k2/8/6P1/5K1P/8/1Pb5/8 b - -">Link</a> | Blitz |
 | gagucosp | **centrumek** | resigned ❌ | 11/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6n1/p2nk3/6Qb/2pPp3/8/2N2P2/PPP3PR/1K1R2N1 b - -">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | gamefreak54 | **centrumek** | stalemate ⏸️ | 11/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7K/5k2/5P2/8/8/8/8/qq6 w - -">Link</a> | Blitz |
 | **centrumek** | BIGTRUCK1981 | win 🥇 | 11/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/4K3/8/1Q2k3 b - -">Link</a> | Blitz |
 | **centrumek** | AveorChess | timeout ❌ | 11/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q4/p5p1/1p2kb1p/2p5/P1P5/8/KP6/8 w - -">Link</a> | Blitz |
-| edenwexler | **centrumek** | win 🥇 | 11/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3nk3/p1Qp4/B1pPp3/5p2/3P1Pp1/PP4Kr/2R2R1r w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
