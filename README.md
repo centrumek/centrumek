@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 952 | 1146 |
+| Current | 1007 | 952 | 1139 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| bwazry | **centrumek** | resigned ❌ | 18/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp6/6p1/8/4P3/2P5/PP4PP/5QK1 b - -">Link</a> | Bullet |
 | dkim0504 | **centrumek** | win 🥇 | 17/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/8/2p4p/3pB1p1/3P1p2/2p2P2/4BKPP/q7 w - -">Link</a> | Blitz |
 | **centrumek** | suharsh12 | resigned ❌ | 17/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/1pp2pp1/p7/4P1Kp/P4P2/q3p3/7P/2R4R b - -">Link</a> | Blitz |
 | Mendoteach | **centrumek** | timeout ❌ | 16/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/1n1b4/2p1p2b/1p1pPp2/pP3P1q/P1P1P2p/1KNR2r1/3Q1B2 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | RadiatingKnights | **centrumek** | win 🥇 | 15/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4r/pp1N2p1/2p1p3/5p2/3P2p1/2P5/PP3PPq/R2Q1RK1 w - -">Link</a> | Bullet |
 | **centrumek** | GotSlapped | win 🥇 | 15/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rR5/1P2pk1p/3rp1p1/pB2R3/6P1/1K3P2/7P/8 b - -">Link</a> | Bullet |
 | DOnlyLgnd | **centrumek** | win 🥇 | 15/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R5/6kp/1n4p1/3p1p2/7r/8/3r1PK1/8 w - -">Link</a> | Bullet |
-| chessBAMate | **centrumek** | resigned ❌ | 15/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/p2n4/Q1p1p3/3pPp2/Pp1P1Bp1/1NP5/1P6/R3K2N b Qq -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
