@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 952 | 1131 |
+| Current | 1007 | 952 | 1139 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | RaySizt | win 🥇 | 23/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/3Nq2p/6pk/2P2p2/8/1P1Q1P2/5KPP/7R b - -">Link</a> | Bullet |
 | **centrumek** | lluisdn | checkmated ❌ | 19/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p4p1p/1p4p1/4p3/P3N3/5P2/b5PP/3q3K w - -">Link</a> | Bullet |
 | Ajan1201 | **centrumek** | win 🥇 | 19/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/p2n3R/6k1/1p1p4/3P2P1/5P2/PP2B3/3NK3 w - -">Link</a> | Bullet |
 | **centrumek** | danzie1 | resigned ❌ | 19/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6rk/6pp/p7/3q4/1P6/P3p3/1K6/8 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | Mendoteach | **centrumek** | timeout ❌ | 16/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/1n1b4/2p1p2b/1p1pPp2/pP3P1q/P1P1P2p/1KNR2r1/3Q1B2 b - -">Link</a> | Bullet |
 | **centrumek** | tyronemith | resigned ❌ | 16/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1r2r/ppp2ppp/8/2P5/3n1Bn1/P2q2P1/4bKBP/7R w - -">Link</a> | Bullet |
 | **centrumek** | jet223 | timeout ❌ | 16/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5R2/2p1k3/8/4rp2/6pK/6P1/3B4 w - -">Link</a> | Bullet |
-| lucamarcus | **centrumek** | resigned ❌ | 15/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4R/B7/4p3/1p1b4/4pP2/4P3/PPP5/3K4 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
