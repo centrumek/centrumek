@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 952 | 1118 |
+| Current | 1007 | 952 | 1111 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Amrahmedax111 | timeout ❌ | 25/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/1bp1k1P1/1p4B1/pPpP3R/2Pb2P1/8/5r2/1K1R4 w - -">Link</a> | Bullet |
 | bsoglu | **centrumek** | win 🥇 | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p6P/8/8/2k3K1/8/PPp5/8 w - -">Link</a> | Bullet |
 | **centrumek** | 55fathom | win 🥇 | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp3pp1/4p3/1k1p4/3P1P2/4BKb1/1PR3Pr/8 b - -">Link</a> | Bullet |
 | **centrumek** | Amaury139 | win 🥇 | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4R3/8/5k2/P7/2K5/1P5r/8 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | Seandelaney69 | **centrumek** | timeout ❌ | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp6/8/8/2P5/1P1K2k1/P7/8 b - -">Link</a> | Bullet |
 | **centrumek** | PacifistRebel | timeout ❌ | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/8/3k4/8/3K4/5p2/8/8 w - -">Link</a> | Bullet |
 | **centrumek** | satrancheese | timeout ❌ | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/p4k2/1p1p1P2/3p1K2/P2P4/1P1N3P/8 w - -">Link</a> | Bullet |
-| pchappo | **centrumek** | timeout ❌ | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/8/6p1/p5pp/8/3QPP1P/P3K3/8 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
