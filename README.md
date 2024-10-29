@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 952 | 1070 |
+| Current | 1007 | 952 | 1078 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Bombix12 | **centrumek** | win 🥇 | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kb2/pp6/2p5/2PpPb2/1P2n3/P2KP3/5q2/3R1B2 w q -">Link</a> | Bullet |
 | foufoucrusader | **centrumek** | timeout ❌ | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/ppk1R3/2p5/3p4/3b1PQ1/2N1B1PB/PP6/2KR4 b - -">Link</a> | Bullet |
 | **centrumek** | chest-mustard | timeout ❌ | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/4kp2/4bRp1/3pB1P1/3P4/1r3K2/8 w - -">Link</a> | Bullet |
 | **centrumek** | sherpaman | win 🥇 | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R1k1/5ppp/8/p1p3r1/1p1p4/6P1/1B5P/5RK1 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | PuffyArea | **centrumek** | resigned ❌ | 26/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/p7/7p/1p3p2/8/2P4P/P1R2PP1/6K1 b - -">Link</a> | Bullet |
 | **centrumek** | Amrahmedax111 | timeout ❌ | 25/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/1bp1k1P1/1p4B1/pPpP3R/2Pb2P1/8/5r2/1K1R4 w - -">Link</a> | Bullet |
 | bsoglu | **centrumek** | win 🥇 | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p6P/8/8/2k3K1/8/PPp5/8 w - -">Link</a> | Bullet |
-| **centrumek** | 55fathom | win 🥇 | 24/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp3pp1/4p3/1k1p4/3P1P2/4BKb1/1PR3Pr/8 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
