@@ -89,21 +89,21 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 953 | 1145 |
+| Current | 1007 | 953 | 1144 |
 | Best | 1132 | 1098 | 1222 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| l1toss | **centrumek** | resigned ❌ | 5/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7R/5k2/4R3/8/5PB1/P5PP/6K1 b - -">Link</a> | Bullet |
+| jbokay | **centrumek** | win 🥇 | 5/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n5r/r3k3/1p2P2p/p1P5/5p2/2b4P/P4PB1/RN2R1K1 w - -">Link</a> | Bullet |
+| **centrumek** | chuybarba | win 🥇 | 5/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/ppp1b2Q/1nn3p1/3p2P1/1P1PpP2/P1N1P3/2P1B3/R1B1K2R b KQ -">Link</a> | Bullet |
+| **centrumek** | KaungMyat01 | timeout ❌ | 5/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/4R2p/6pk/pB3R2/P6r/7P/7P/3q2K1 w - -">Link</a> | Bullet |
 | **centrumek** | unsolved2 | win 🥇 | 4/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/5p2/1K6/7r/4b2p/7P/P5P1/1R5R b - -">Link</a> | Bullet |
 | Ciccioilcavallo | **centrumek** | timeout ❌ | 4/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4QR2/5b2/1kp3p1/8/2P5/4K3/r7/8 b - -">Link</a> | Bullet |
 | AP0O1 | **centrumek** | win 🥇 | 3/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5bkr/8/1p6/p2pp3/P3P1Pp/3P1P1P/3q4/6K1 w - -">Link</a> | Bullet |
 | **centrumek** | jaiwi | checkmated ❌ | 3/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/pp4bk/4p2r/2p4P/P2PbP2/2P1P3/1BqK3R/4Q1R1 w - -">Link</a> | Bullet |
 | lextoad22 | **centrumek** | win 🥇 | 3/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/2K5/4p3/3k4/8 w - -">Link</a> | Bullet |
 | **centrumek** | TJFAZE | win 🥇 | 3/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1R3k1p/p3bp2/1p6/1r6/5PKP/6P1/8 b - -">Link</a> | Bullet |
-| **centrumek** | louiedouie | resigned ❌ | 3/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kbnr/p2p1ppp/1p2p3/8/2P5/1P6/P1q1N1PP/R3KB1R w KQkq -">Link</a> | Bullet |
-| klllx | **centrumek** | timeout ❌ | 2/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2r/pp1k1R2/2p5/8/1B1Pp1p1/4P1q1/PP2K3/8 b - -">Link</a> | Bullet |
-| Mishanyaebat | **centrumek** | win 🥇 | 2/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k4/2p1p3/p2pP1NB/3P2n1/2P3Q1/1q3r2/1K1R4 w - -">Link</a> | Bullet |
-| OmarTeleb1521 | **centrumek** | win 🥇 | 2/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp2k3/2p1b3/3p2K1/6p1/2BBP1P1/PPP2r2/8 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
