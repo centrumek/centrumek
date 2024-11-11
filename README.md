@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 953 | 1241 |
+| Current | 1007 | 953 | 1233 |
 | Best | 1132 | 1098 | 1242 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| nieswiezeszachy | **centrumek** | checkmated ❌ | 10/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3R1Q1/7k/4rppp/8/8/PPP2PPP/6K1 b - -">Link</a> | Bullet |
 | adantont | **centrumek** | win 🥇 | 10/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6k1/4K3/4Pp1p/5r2/8/8 w - -">Link</a> | Bullet |
 | **centrumek** | suriwu | win 🥇 | 10/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/1Q6/8/8/k6K/8/8/8 b - -">Link</a> | Bullet |
 | gugugu_1100 | **centrumek** | resigned ❌ | 10/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b5/pp1kq3/n1p1pp2/3p3Q/7P/4P2N/PPPP1P2/RNB1KB1R b KQ -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | area_person | win 🥇 | 10/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R5/3P2pk/5p2/8/7p/B5P1/8/6K1 b - -">Link</a> | Bullet |
 | BSwinb01 | **centrumek** | win 🥇 | 10/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7k/7P/8/1p6/3rB1K1/1P6/5q2 w - -">Link</a> | Bullet |
 | CRMTopher | **centrumek** | win 🥇 | 10/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1bnr/pp2pk1p/2p3p1/3b1p2/3PN3/3B4/PPP2PPP/R1BQ1RK1 w - -">Link</a> | Bullet |
-| **centrumek** | gleb7722 | win 🥇 | 10/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b3k1/pp1r1ppp/4p3/1P2Q3/P1p1PP2/2N3P1/7P/R3K1NR b KQ -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
