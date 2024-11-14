@@ -89,11 +89,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 953 | 1243 |
+| Current | 1007 | 953 | 1244 |
 | Best | 1132 | 1098 | 1257 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | ekan_chess_07 | win 🥇 | 14/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/p3Npp1/7p/8/8/8/PBK5/8 b - -">Link</a> | Bullet |
+| Lillol12345 | **centrumek** | resigned ❌ | 14/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4R2p/5p2/p4k2/2P5/1P5P/P4PPK/8 b - -">Link</a> | Bullet |
 | MsTery66 | **centrumek** | checkmated ❌ | 14/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k3r/3Qn2p/p5p1/n4p2/2B5/2P2N2/5PPP/3RK2R b K -">Link</a> | Bullet |
 | **centrumek** | TheMindskipper | win 🥇 | 14/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/P7/2B2k2/3P1P2/4K3/4N3/8 b - -">Link</a> | Bullet |
 | **centrumek** | FredK199 | win 🥇 | 13/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1pp3pp/p7/P1b3P1/KP2p3/R3P2P/r7/6N1 b - -">Link</a> | Bullet |
@@ -102,8 +104,6 @@
 | bigbrotherv1f | **centrumek** | resigned ❌ | 13/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1kbQ1R2/p6p/2p5/3p4/2p5/2P5/6PP/6K1 b - -">Link</a> | Bullet |
 | **centrumek** | SPoonGambit | win 🥇 | 12/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/p7/2n1k3/7p/P6N/2K5/8 b - -">Link</a> | Bullet |
 | **centrumek** | andro12andro | checkmated ❌ | 12/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/5ppp/pp6/2p5/P1Br2Pb/1P6/R2B1q1P/6KR w - -">Link</a> | Bullet |
-| Mgcjnim | **centrumek** | checkmated ❌ | 12/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rk4nr/pQ5p/1p1Np1p1/2p3B1/3p4/3P4/PP4PP/R4RK1 b - -">Link</a> | Bullet |
-| **centrumek** | pastorjmarrongmailcom | win 🥇 | 12/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6P1/8/p4K2/Pk6/8/2pn4/8 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
