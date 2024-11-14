@@ -94,6 +94,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| MsTery66 | **centrumek** | checkmated ❌ | 14/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k3r/3Qn2p/p5p1/n4p2/2B5/2P2N2/5PPP/3RK2R b K -">Link</a> | Bullet |
+| **centrumek** | TheMindskipper | win 🥇 | 14/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/P7/2B2k2/3P1P2/4K3/4N3/8 b - -">Link</a> | Bullet |
 | **centrumek** | FredK199 | win 🥇 | 13/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1pp3pp/p7/P1b3P1/KP2p3/R3P2P/r7/6N1 b - -">Link</a> | Bullet |
 | AnneLiiese | **centrumek** | win 🥇 | 13/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1nb1k2r/8/3B1p2/1r1np2p/6p1/P2N4/5PPP/R4RK1 w k -">Link</a> | Bullet |
 | Vasile1979 | **centrumek** | win 🥇 | 13/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/4Rp2/p4P1K/8/1Pp5/2P5/6P1/8 w - -">Link</a> | Bullet |
@@ -102,8 +104,6 @@
 | **centrumek** | andro12andro | checkmated ❌ | 12/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/5ppp/pp6/2p5/P1Br2Pb/1P6/R2B1q1P/6KR w - -">Link</a> | Bullet |
 | Mgcjnim | **centrumek** | checkmated ❌ | 12/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rk4nr/pQ5p/1p1Np1p1/2p3B1/3p4/3P4/PP4PP/R4RK1 b - -">Link</a> | Bullet |
 | **centrumek** | pastorjmarrongmailcom | win 🥇 | 12/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6P1/8/p4K2/Pk6/8/2pn4/8 b - -">Link</a> | Bullet |
-| Teowve | **centrumek** | win 🥇 | 12/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp2Q3/1kp5/4P2p/8/6P1/PP3q1P/3r3K w - -">Link</a> | Bullet |
-| UCLime | **centrumek** | win 🥇 | 12/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rr3/8/pk5p/4n3/P1p2P2/6P1/1PP3KP/8 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
