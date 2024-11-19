@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 953 | 1205 |
+| Current | 1007 | 953 | 1213 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Alexgilroy88 | win 🥇 | 19/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/p1Q2ppp/8/q7/3P4/1P5P/PK6/4r3 b - -">Link</a> | Bullet |
 | Checkm8ed1 | **centrumek** | win 🥇 | 18/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/1p1n4/p1pN4/2Pp4/3P2p1/2NB2P1/PP3P2/2K5 w - -">Link</a> | Bullet |
 | jafar_ov | **centrumek** | checkmated ❌ | 16/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6nr/6Q1/p7/4N1kp/P7/4P1B1/6PP/5RK1 b - -">Link</a> | Bullet |
 | **centrumek** | deathsettler | win 🥇 | 16/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4Nkbp/4ppp1/8/3p1P2/6P1/P6P/1R1R2K1 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | Richard_Bates | resigned ❌ | 15/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/4p3/p5p1/3p4/2b5/2K5/8 w - -">Link</a> | Bullet |
 | ArdaKaanKingBabo | **centrumek** | timeout ❌ | 15/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/7p/2p1r1QB/1p3p1n/p6P/1P6/P3B1P1/4RRK1 b - -">Link</a> | Bullet |
 | tezlv | **centrumek** | resigned ❌ | 15/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5nr/p2Nq1k1/1p2p3/4Q2p/3P1Np1/6P1/PPP2P1P/R3R1K1 b - -">Link</a> | Bullet |
-| **centrumek** | KingstonC4355 | timeout ❌ | 15/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/8/8/8/8/1RK5/8/4k3 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
