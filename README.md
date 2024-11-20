@@ -94,6 +94,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | flagoon | resigned ❌ | 20/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p6p/1ppbq1p1/3p4/1P1P4/B1KP4/P7/8 w - - 0 34">Link</a> | Daily |
 | Denmar11 | **centrumek** | win 🥇 | 19/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1k4r/p2q4/1pp4n/3pR3/3PpN1p/1PN1P3/P1P5/2K1Q1R1 w - -">Link</a> | Bullet |
 | oangh03 | **centrumek** | timeout ❌ | 19/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7r/5k2/6PP/5P2/2P3K1/8/8 b - -">Link</a> | Bullet |
 | **centrumek** | Alexgilroy88 | win 🥇 | 19/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/p1Q2ppp/8/q7/3P4/1P5P/PK6/4r3 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | MirkoCzentovic94 | stalemate ⏸️ | 16/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/3Q2pk/7p/p6P/P3P3/1P1P2P1/8/2K5 b - -">Link</a> | Bullet |
 | Fatemeh_h | **centrumek** | timeout ❌ | 15/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5k1/6p1/6Qp/3P1P2/8/PPP5/1K5R b - -">Link</a> | Bullet |
 | **centrumek** | Alexsandro30 | resigned ❌ | 15/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1k2/5p1p/1pp3p1/3pP3/r2K1PP1/7P/8/8 w - -">Link</a> | Bullet |
-| **centrumek** | Richard_Bates | resigned ❌ | 15/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/4p3/p5p1/3p4/2b5/2K5/8 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
