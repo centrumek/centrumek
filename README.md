@@ -89,11 +89,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 953 | 1185 |
+| Current | 1007 | 953 | 1168 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | kvnlang | timeout ❌ | 23/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/3N3p/1p2p1p1/pqP2p2/4bP1P/4p1P1/4K3/2Q5 w - -">Link</a> | Bullet |
+| **centrumek** | Chemikerpaul | resigned ❌ | 23/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/p3bpp1/1p6/6p1/P2q4/1P1n4/6PP/2R2R1K w - -">Link</a> | Bullet |
+| **centrumek** | Noah022Chess | repetition ⏸️ | 23/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5k1p/6p1/6P1/5K1P/8/8 w - -">Link</a> | Bullet |
 | secretshott | **centrumek** | win 🥇 | 23/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2p3k1/2Pb4/3P4/Pp4KP/1R4P1/8 w - -">Link</a> | Bullet |
 | **centrumek** | J_Cinn_Shreds | timeout ❌ | 23/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6kp/1K3Np1/8/6r1/8/4R3/8 w - -">Link</a> | Bullet |
 | Putinovmedved | **centrumek** | win 🥇 | 22/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp4kp/2b5/2P5/8/8/P4K1P/4r1q1 w - -">Link</a> | Bullet |
@@ -101,9 +104,6 @@
 | SURYASUNU | **centrumek** | win 🥇 | 22/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/pp4r1/2p3P1/8/5PB1/6K1/PP6/8 w - -">Link</a> | Bullet |
 | **centrumek** | aidenxuruwen | timeout ❌ | 22/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/6Pk/pp6/2b5/3n4/8/b6K/1q6 w - -">Link</a> | Bullet |
 | elmahlawy37 | **centrumek** | win 🥇 | 22/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kq1r2/8/2n2N1B/4p2P/P2pQ3/1P1P2P1/3b1P2/5RK1 w - -">Link</a> | Bullet |
-| NoizQueiroz | **centrumek** | win 🥇 | 22/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4k3/4p3/4P2p/8/3BPK1P/4q3/8 w - -">Link</a> | Bullet |
-| flagoon | **centrumek** | checkmated ❌ | 21/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k1R2/8/2pK4/1p6/1Pr5/6P1/P7/8 b - - 3 46">Link</a> | Daily |
-| **centrumek** | josuate | timeout ❌ | 21/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2QR4/p7/5k1p/8/P1B4P/1P1K2n1/8/8 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
