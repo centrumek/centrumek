@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 953 | 1168 |
+| Current | 1007 | 953 | 1160 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Bhalu7 | **centrumek** | resigned ❌ | 23/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1k4p/1pp1p3/8/6P1/7P/PPP2B2/2KR4 b - -">Link</a> | Bullet |
 | **centrumek** | kvnlang | timeout ❌ | 23/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/3N3p/1p2p1p1/pqP2p2/4bP1P/4p1P1/4K3/2Q5 w - -">Link</a> | Bullet |
 | **centrumek** | Chemikerpaul | resigned ❌ | 23/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/p3bpp1/1p6/6p1/P2q4/1P1n4/6PP/2R2R1K w - -">Link</a> | Bullet |
 | **centrumek** | Noah022Chess | repetition ⏸️ | 23/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5k1p/6p1/6P1/5K1P/8/8 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | hugoozamoraa | win 🥇 | 22/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k5B/2p4p/p1p5/8/4P3/1P3P2/P6R/3K4 b - -">Link</a> | Bullet |
 | SURYASUNU | **centrumek** | win 🥇 | 22/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/pp4r1/2p3P1/8/5PB1/6K1/PP6/8 w - -">Link</a> | Bullet |
 | **centrumek** | aidenxuruwen | timeout ❌ | 22/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/6Pk/pp6/2b5/3n4/8/b6K/1q6 w - -">Link</a> | Bullet |
-| elmahlawy37 | **centrumek** | win 🥇 | 22/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kq1r2/8/2n2N1B/4p2P/P2pQ3/1P1P2P1/3b1P2/5RK1 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
