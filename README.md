@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 928 | 1143 |
+| Current | 1007 | 928 | 1134 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| jis27 | **centrumek** | timeout ❌ | 27/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/p1R5/7P/7P/r7/6K1/8 b - -">Link</a> | Bullet |
 | ThermoDyno | **centrumek** | resigned ❌ | 25/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3p1k2/3Pp3/4Q3/5P2/4K2P/8 b - -">Link</a> | Blitz |
 | richardpeterson1 | **centrumek** | checkmated ❌ | 25/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/8/4kQK1/1p6/5p2/1Pp1bP2/P2p4/3R4 b - -">Link</a> | Blitz |
 | **centrumek** | Mastrosauro | resigned ❌ | 25/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp3ppp/2n5/8/P3P3/5PKP/4q1B1/3r4 w - -">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | AniKan25 | **centrumek** | timeout ❌ | 24/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk2r/1Q6/2p1p2p/2P1N3/3P1R2/6qP/6P1/5R1K b k -">Link</a> | Bullet |
 | **centrumek** | benlali | resigned ❌ | 24/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/1p3p1p/4pP2/8/8/2nr1P2/1K4PP/6r1 w - -">Link</a> | Bullet |
 | **centrumek** | dreamweav36 | timeout ❌ | 24/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3p1k2/2p2p1p/2K3p1/4N3/8/8 w - -">Link</a> | Bullet |
-| Shravan12yearold | **centrumek** | win 🥇 | 24/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3K4/8/p7/r1k5/8/8/8 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
