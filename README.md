@@ -89,11 +89,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 928 | 1160 |
+| Current | 1007 | 928 | 1161 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Tekillator | **centrumek** | win 🥇 | 2/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b2/8/1p6/pPkP1pP1/P3pP2/1B6/5K2/8 w - -">Link</a> | Bullet |
+| **centrumek** | jaladungadalle | timeout ❌ | 2/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k4/3P4/6K1/p6p/B5P1/7P/8 w - -">Link</a> | Bullet |
 | okich | **centrumek** | win 🥇 | 2/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1b6/p7/1pBp4/3P2BP/2PP4/2P5/6K1 w - -">Link</a> | Bullet |
 | **centrumek** | nileshmohapatra | win 🥇 | 2/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1r3/p1Q2Rpp/1p5r/1P1p4/P2P4/8/2P4P/1R5K b - -">Link</a> | Bullet |
 | Mn3mosyn3 | **centrumek** | resigned ❌ | 2/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5R2/6kp/p7/Pp4np/1B2P3/1PP3P1/6K1 w - -">Link</a> | Bullet |
@@ -102,8 +104,6 @@
 | Arimeyau | **centrumek** | win 🥇 | 2/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/P1p1k3/4P3/2P1R3/3P2p1/5r2/4K2r w - -">Link</a> | Bullet |
 | **centrumek** | spw19 | timeout ❌ | 2/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1r3/5k1p/1q4p1/p2b1p2/1p1P1P2/1P2p2P/PBPQN1K1/3R3R w - -">Link</a> | Bullet |
 | **centrumek** | ahmad_mani | win 🥇 | 2/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2R4Q/8/4P2k/4KP2/7P/8 b - -">Link</a> | Bullet |
-| davidjkeys | **centrumek** | win 🥇 | 2/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1pk4/2pp4/2P1p3/K3P3/q7/rr6/8 w - -">Link</a> | Bullet |
-| **centrumek** | shah10640 | timeout ❌ | 30/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3RR3/5ppk/K6p/7P/2r5/1p4P1/5r2/8 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
