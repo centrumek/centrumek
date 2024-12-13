@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 928 | 1140 |
+| Current | 1007 | 928 | 1149 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Viju11 | **centrumek** | win 🥇 | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/2r5/6p1/p2nPn1p/3P4/1P6/P3Q1PP/5RK1 w - -">Link</a> | Bullet |
 | **centrumek** | PizzaMuncher32 | resigned ❌ | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1nr/pp3ppp/8/4p3/1n1pP3/3P1P2/P5PP/RNB1KBNR w KQkq -">Link</a> | Bullet |
 | **centrumek** | isonbigfoot | timeout ❌ | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p1p/2n2k2/p4p2/P4K2/8/8/8 w - -">Link</a> | Bullet |
 | mimosaci | **centrumek** | win 🥇 | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5kp/8/1p4r1/8/2KB4/PP6/8 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | TrojaneqChess | **centrumek** | repetition ⏸️ | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1k5/1pN5/2pPp3/2P1P3/5r1r/P5K1/8 b - -">Link</a> | Bullet |
 | grandalorian | **centrumek** | checkmated ❌ | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr2nr/2Q4p/1p4p1/1Np5/6q1/5bP1/PP3P1P/R4RK1 b - -">Link</a> | Bullet |
 | **centrumek** | arffaboard | checkmated ❌ | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/bpp2ppp/p2p4/P2N4/1PP1P3/1Q1n1P2/R5PP/4qKN1 w - -">Link</a> | Bullet |
-| RodrigoLopezdeSegura | **centrumek** | win 🥇 | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/pp1R3p/2p5/5pk1/8/2P2q2/PP1KR1r1/8 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
