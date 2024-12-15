@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 928 | 1150 |
+| Current | 1007 | 928 | 1143 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| lemkolemko | **centrumek** | resigned ❌ | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/pp6/4p2p/2p1p1p1/2Pp4/P4QPP/1PP3P1/6K1 b - -">Link</a> | Bullet |
 | Rockt0 | **centrumek** | checkmated ❌ | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1nr/p2n2p1/2p1p1Bp/1p1pP3/1B6/P4NP1/1PP1Q2P/2KR1R2 b kq -">Link</a> | Bullet |
 | Jurij123 | **centrumek** | win 🥇 | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr2r1/1p1b4/p3p3/P1P1P2P/1BnP2p1/2P2N2/8/R3R1K1 w - -">Link</a> | Bullet |
 | Viju11 | **centrumek** | win 🥇 | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/2r5/6p1/p2nPn1p/3P4/1P6/P3Q1PP/5RK1 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | imanpbt | resigned ❌ | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbk3r/ppp3pp/5p2/8/4n1P1/1P5P/P1PbK3/1R3B2 w - -">Link</a> | Bullet |
 | **centrumek** | kaffekoppens1 | win 🥇 | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p3pkp/6p1/p1q3P1/2P4P/1P6/P2r4/2K5 b - -">Link</a> | Bullet |
 | Morphismus | **centrumek** | win 🥇 | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/1R6/6k1/2P2p1p/4n2R/4P1P1/3PKP2/6N1 w - -">Link</a> | Bullet |
-| TrojaneqChess | **centrumek** | repetition ⏸️ | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1k5/1pN5/2pPp3/2P1P3/5r1r/P5K1/8 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
