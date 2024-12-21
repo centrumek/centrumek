@@ -89,21 +89,21 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 928 | 1104 |
+| Current | 1007 | 928 | 1098 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| guy-2001 | **centrumek** | timeout ❌ | 21/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b5/p7/8/k1p5/p4R2/2P1KP1r/8/6R1 b - -">Link</a> | Bullet |
+| Keycharles | **centrumek** | checkmated ❌ | 21/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/Q7/2p3p1/1k6/P1p5/2P5/1P1PN1qP/RNBK4 b - a3">Link</a> | Bullet |
+| **centrumek** | meetdafda | timeout ❌ | 21/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/1pK3pp/p7/2q3P1/1r5P/P7/8/8 w - -">Link</a> | Bullet |
+| inigoperezezquerro | **centrumek** | win 🥇 | 21/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/1p2Q2R/8/2P5/1P1k2P1/5PK1/8 w - -">Link</a> | Bullet |
+| **centrumek** | buinamphong | win 🥇 | 21/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pkp4p/8/2p2R2/2P5/PP2K3/7r/8 b - -">Link</a> | Bullet |
 | Adelel | **centrumek** | resigned ❌ | 21/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/7N/k7/8/1p3QPP/1R4K1 b - -">Link</a> | Bullet |
 | **centrumek** | Muraaaaaaaa | timeout ❌ | 20/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p2/5K2/p6r/8/8/8/8 w - -">Link</a> | Bullet |
 | tootilyfrootilymg | **centrumek** | win 🥇 | 20/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/7p/1p4r1/pN3p2/2P2K1P/R3nP2/5rP1/8 w - -">Link</a> | Bullet |
 | **centrumek** | gjmadhan | win 🥇 | 20/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p2R3R/2p3p1/n5P1/P5K1/8/8/8 b - -">Link</a> | Bullet |
 | edumarquess | **centrumek** | win 🥇 | 20/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/2Q4p/4brp1/8/pn1Pp3/q3P3/4BPPP/1KR1R3 w - -">Link</a> | Bullet |
-| **centrumek** | Aaronkhoinguyen | checkmated ❌ | 20/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/5B1p/p4ppk/P5q1/4PK2/2P2P2/7P/6r1 w - -">Link</a> | Bullet |
-| pangarang | **centrumek** | win 🥇 | 20/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6R1/p1kq3p/1p1p4/2nBb3/PB6/KP5P/8 w - -">Link</a> | Bullet |
-| Jmeza34 | **centrumek** | timeout ❌ | 20/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2R4r/1k3p1b/6pB/3P2P1/4nP2/2P2K1P/8 b - -">Link</a> | Bullet |
-| **centrumek** | pranavp1551 | win 🥇 | 20/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/8/7p/7k/3R1p2/2K2P2/7P/8 b - -">Link</a> | Bullet |
-| **centrumek** | Aussie134 | win 🥇 | 20/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/2p1p1k1/4P3/1p3K2/p7/8 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
