@@ -94,6 +94,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Kapsel011 | **centrumek** | win 🥇 | 25/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/pb1p1p2/1p6/2p1p3/2PbP3/3P1P1R/PP1K2r1/6q1 w - -">Link</a> | Rapid |
 | ul09 | **centrumek** | checkmated ❌ | 25/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R1kr4/6Rp/p1p1p3/3p1pn1/3P4/4P2P/PPP2P2/2K5 b - -">Link</a> | Bullet |
 | moheb_w | **centrumek** | win 🥇 | 24/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7R/1kp2R2/1p4r1/3p4/8/1PP5/1K6 w - -">Link</a> | Bullet |
 | **centrumek** | Son-Of-Mr-Darcy | win 🥇 | 24/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k3N2/p1p2K2/5Pp1/8/8/8/2n3r1 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | gemenjoy | **centrumek** | win 🥇 | 24/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/4Pq2/4K3/p4PPP/8/2P1b3/8 w - -">Link</a> | Bullet |
 | Letuysha | **centrumek** | win 🥇 | 24/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn6/pp6/1kp5/8/3P1Q2/2P1P1P1/PP3Rq1/R3K2r w - -">Link</a> | Bullet |
 | **centrumek** | peepawnpoo | resigned ❌ | 24/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/p4pp1/1pk5/3p3p/6qP/2p3P1/7K/4R3 w - -">Link</a> | Bullet |
-| MrNiceNoMore | **centrumek** | checkmated ❌ | 24/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn5N/pp6/2p2p1q/8/3P2R1/4pB2/PPP1K2k/7R b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
