@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 900 | 1080 |
+| Current | 1007 | 900 | 1072 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | mihirsiddartha | timeout ❌ | 28/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5bk1/7p/6p1/3PP3/r1K5/1p5P/8/1R6 w - -">Link</a> | Bullet |
 | **centrumek** | showmenjitu | timeout ❌ | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/pR5p/6p1/3p4/3P4/P2K1r2/1P6/6q1 w - -">Link</a> | Bullet |
 | abagassa | **centrumek** | resigned ❌ | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5k1/4p3/8/4Q1p1/8/1PP2PPP/4RRK1 b - -">Link</a> | Bullet |
 | **centrumek** | I_Solace_I | timeout ❌ | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/p3p1p1/3k2P1/rp6/6K1/4R3 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | atsicoulias | **centrumek** | win 🥇 | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/pp3n2/2n3p1/1k1N3p/8/7P/PP3PPK/8 b - -">Link</a> | Bullet |
 | Ruso1313 | **centrumek** | win 🥇 | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/8/4p3/p2pP2k/P1pP2p1/2P1B3/3K4/8 w - -">Link</a> | Bullet |
 | zaniar69 | **centrumek** | timevsinsufficient ⏸️ | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/4K3/5Q2/7k/8 w - -">Link</a> | Bullet |
-| **centrumek** | ponpon1919 | win 🥇 | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/1B6/1k6/5N2/pp5p/2B4P/PP4P1/3R2K1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
