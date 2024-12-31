@@ -89,11 +89,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 917 | 1072 |
+| Current | 1007 | 933 | 1072 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Augustozion | win 🥇 | 31/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk1nr/ppp2ppp/2n5/2b1p3/P1PpP3/3P1P2/3B2PP/RN1QKBNR b KQkq e3">Link</a> | Blitz |
+| shubhamsomo | **centrumek** | win 🥇 | 30/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p3pk/1p2b3/8/1p1P3p/5Br1/P4K2/8 w - -">Link</a> | Blitz |
 | **centrumek** | tjuliano | win 🥇 | 29/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k6r/R4nb1/3p1p2/3P2p1/P2Bb1P1/1Q2P3/5P1N/4K1R1 b - -">Link</a> | Blitz |
 | **centrumek** | darksparkler | win 🥇 | 29/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3b2k1/6P1/1p1K4/p1pPp3/2P1P3/8/6R1 b - -">Link</a> | Blitz |
 | Sujith_balaji | **centrumek** | resigned ❌ | 29/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/3n3p/8/R7/8/1P3K2/P4P1P/B7 b - -">Link</a> | Blitz |
@@ -102,8 +104,6 @@
 | **centrumek** | wibowo_10 | resigned ❌ | 29/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/4p1p1/pp2k1P1/7r/2K5/8/8 w - -">Link</a> | Blitz |
 | **centrumek** | chintanparmar007 | checkmated ❌ | 29/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/ppp2pp1/4p2b/4N3/4P3/2P5/PP2R3/1R2K1q1 w - -">Link</a> | Blitz |
 | **centrumek** | Dannekingen | insufficient ⏸️ | 29/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2K5/8/7k/8/8/8/8 b - -">Link</a> | Blitz |
-| krol175 | **centrumek** | win 🥇 | 29/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3Q1pk/1p5p/4R3/1P2b3/2P1K2r/P7/8 w - -">Link</a> | Blitz |
-| 7mnmnm7 | **centrumek** | resigned ❌ | 29/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b3r1/4NRP1/1nkp4/p1p1p1Q1/1p2P3/3P3P/PPP4K/R7 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
