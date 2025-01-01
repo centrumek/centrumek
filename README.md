@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 929 | 1089 |
+| Current | 1007 | 929 | 1097 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 22razi | **centrumek** | win 🥇 | 1/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppk5/2p5/2Pn3K/3Pb3/8/Pq6/8 w - -">Link</a> | Bullet |
 | **centrumek** | Anivia39 | timeout ❌ | 31/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5k1/2p2pp1/6rp/5Q2/7K/4P1BP/8 w - -">Link</a> | Bullet |
 | Giancarlo_Cadena | **centrumek** | win 🥇 | 31/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1r1k/p5Rp/2pN4/4PN2/P2P4/4R2P/5PPK/7q w - -">Link</a> | Bullet |
 | **centrumek** | jn633 | win 🥇 | 31/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1krq4/1Q1b1ppr/B2p1n2/3Pp1B1/P3P2P/1P6/2P5/R3K2R b KQ -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | DonSzah | **centrumek** | checkmated ❌ | 31/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r3r/p1R2Q2/4p2p/qp3p2/b2P2k1/4PN1P/P4PP1/2R3K1 b - -">Link</a> | Blitz |
 | **centrumek** | DonSzah | win 🥇 | 31/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/RP2pk2/3rbp1b/P6p/4P3/2P2P2/1BK4P/8 b - -">Link</a> | Blitz |
 | **centrumek** | DonSzah | win 🥇 | 31/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/3p2pp/2pb4/1p3r2/1P4n1/1B3N2/3B1PPP/R5K1 b - -">Link</a> | Blitz |
-| DavidJungblut98 | **centrumek** | win 🥇 | 31/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3r4/5p2/P1KP4/5k1p/1P5P/8/8 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
