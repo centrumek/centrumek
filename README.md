@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 929 | 1103 |
+| Current | 1007 | 929 | 1096 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Ahmadparh | resigned ❌ | 4/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/1pk2ppb/p1n4p/b4P2/K5P1/5P2/P1Pr1q1P/1R3BNR w - -">Link</a> | Bullet |
 | Aabebu | **centrumek** | win 🥇 | 3/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p1p5/8/2p1P3/2PpPK1r/P3nP2/6r1/R7 w - -">Link</a> | Bullet |
 | zontaque | **centrumek** | win 🥇 | 3/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5pk1/R1p1p2p/4p2P/2P1K1P1/PP6/4q3 w - -">Link</a> | Bullet |
 | Gasparovsson | **centrumek** | resigned ❌ | 3/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/7p/kb6/1p1RR3/1P6/6PP/6K1 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | Rohamwy2 | win 🥇 | 2/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/5pkp/p1R3p1/1p1p4/1q1P1PP1/1P2PK1P/8/2R5 b - -">Link</a> | Bullet |
 | KGera | **centrumek** | resigned ❌ | 2/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4k3/1R6/1P1pP1P1/3P4/8/8/6K1 b - -">Link</a> | Bullet |
 | **centrumek** | Atharv2707 | win 🥇 | 2/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/r1q3kp/P1Pp2p1/3Q4/2P5/4P3/6PP/3R2K1 b - -">Link</a> | Bullet |
-| mdomarshifat | **centrumek** | checkmated ❌ | 2/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6kr/6Qp/p1p1Np2/q7/5P2/4B3/P5PP/6K1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
