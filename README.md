@@ -89,11 +89,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 929 | 1120 |
+| Current | 1007 | 929 | 1097 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | sanjayprasad19741981 | checkmated ❌ | 14/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/1b3p1p/1p4p1/p1p5/P1P2P2/2Q1p1P1/1B4qP/1R1R2K1 w - - 4 38">Link</a> | Bullet |
+| Kewan_Gan | **centrumek** | timeout ❌ | 14/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/ppp5/8/3K4/P2P4/1P2P3/rq6/8 b - - 0 43">Link</a> | Bullet |
+| **centrumek** | Vermachtt | resigned ❌ | 14/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/p4p1p/2p4p/4P3/2pP1R2/r7/5K2/8 w - - 0 37">Link</a> | Bullet |
 | enano8j8 | **centrumek** | checkmated ❌ | 14/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qk2r/pp3Qpp/2p5/6Pn/4b3/4P1bP/PPPNP3/RNB2RK1 b kq - 0 16">Link</a> | Bullet |
 | **centrumek** | RicoTheSaboteur | timeout ❌ | 13/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4p3/2b1Pp1p/2p2P2/p1Pb2k1/4p3/B3K3 w - - 0 49">Link</a> | Bullet |
 | **centrumek** | utkugunay | win 🥇 | 13/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1pp1p2p/p5p1/3PR3/1KP2q1P/1P6/P7/8 b - - 3 32">Link</a> | Bullet |
@@ -101,9 +104,6 @@
 | **centrumek** | Jmille817 | win 🥇 | 13/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5bk1/5p1p/6p1/4Pq2/p4P2/2Q3P1/6K1/1RR5 b - - 2 31">Link</a> | Bullet |
 | Liavek | **centrumek** | win 🥇 | 13/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/r3k3/b3p3/3pPp1p/2p2PpP/4P1P1/8/5K2 w - - 0 40">Link</a> | Bullet |
 | **centrumek** | KingNelli | resigned ❌ | 13/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/pp3pk1/4p1p1/2n1PnP1/5P2/8/PPPB4/R3K2q w Q - 2 26">Link</a> | Bullet |
-| dcwright73 | **centrumek** | checkmated ❌ | 13/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1br4/1p5p/4p3/p1p5/4Bp1P/5PkR/PPP1K1P1/6R1 b - - 1 25">Link</a> | Bullet |
-| **centrumek** | Edgaruni | timeout ❌ | 13/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1kp5/7p/1P2Q3/p1P1P2P/3P4/1R6/q1K5 w - - 5 37">Link</a> | Bullet |
-| Nahuelnipur | **centrumek** | resigned ❌ | 13/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/6p1/5p1p/1N6/8/P2P1P1P/1PP2K2/R6R b - - 0 25">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
