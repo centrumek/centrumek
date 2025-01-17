@@ -94,6 +94,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| levon76 | **centrumek** | stalemate ⏸️ | 17/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/8/3KQ3/8/8/8/8/8 b - -">Link</a> | Blitz |
 | **centrumek** | jagdishchouhan12072014 | checkmated ❌ | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk1nr/Q4ppp/4p3/1p6/8/2PbP1P1/P3qP1P/4K2R w k -">Link</a> | Blitz |
 | arul_18 | **centrumek** | checkmated ❌ | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk2r/pp3Qb1/2n4p/3B2p1/8/7N/PPP2PP1/R1B1K2R b KQkq -">Link</a> | Blitz |
 | **centrumek** | EduardoFigura | resigned ❌ | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/pp3ppp/8/2p5/4r2q/2P5/PP1B2P1/5RK1 w - - 2 24">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | Khalid-bin-Walid2448 | timeout ❌ | 15/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b3k1/bpp3q1/p3p3/2Pp1pN1/3PnP2/8/PBKN4/7R w - - 8 35">Link</a> | Bullet |
 | brunobritorj | **centrumek** | timeout ❌ | 15/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4R2/1b4P1/2p1k3/4B3/2P1PK2/PP5P/6R1 b - - 0 40">Link</a> | Bullet |
 | Gleb309 | **centrumek** | timeout ❌ | 15/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5pp/8/7P/4b2K/2k5/8/8 b - - 0 54">Link</a> | Bullet |
-| Ag13T | **centrumek** | win 🥇 | 15/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rk4/3n4/4p2p/1Q1bP1pB/3R4/8/1Pq3PP/2KR4 w - - 0 29">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
