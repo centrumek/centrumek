@@ -89,11 +89,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 913 | 1101 |
+| Current | 1007 | 913 | 1086 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| JanilsonLopes16 | **centrumek** | checkmated ❌ | 19/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p2Q3p/7R/4p3/5p1k/2P1nP2/P7/2K3R1 b - -">Link</a> | Bullet |
+| Shruddless | **centrumek** | resigned ❌ | 19/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb5/pp1knNpp/2pbp3/3p4/3P4/8/PPP1PPPP/RN1QKB1R b KQ - 2 8">Link</a> | Bullet |
 | 18nguyenhoanganh | **centrumek** | win 🥇 | 18/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp4kp/6p1/8/P2RBrP1/1P5P/8/6K1 w - -">Link</a> | Bullet |
 | **centrumek** | Svarog007 | win 🥇 | 17/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/7Q/6K1/1P6/r7/8/8 b - -">Link</a> | Bullet |
 | **centrumek** | Namecreative | timeout ❌ | 17/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/p4ppp/5n2/8/5q2/8/5PPP/5QK1 w - -">Link</a> | Bullet |
@@ -102,8 +104,6 @@
 | **centrumek** | MuhammadAlyyy | win 🥇 | 17/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/4b1p1/2p1p3/p1p1Pk2/5P2/1P6/PBPK4/6R1 b - -">Link</a> | Bullet |
 | gdog0201 | **centrumek** | checkmated ❌ | 17/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/p1Q2ppp/1p3n2/1N1r4/8/2P5/PP3PPP/R5K1 b - - 0 19">Link</a> | Bullet |
 | **centrumek** | saee-d | timeout ❌ | 17/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/4Nppp/b3p3/8/1q6/2p1PQ2/5PPP/2R1K2R w K - 4 26">Link</a> | Bullet |
-| Roberto_63 | **centrumek** | win 🥇 | 17/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kb1r/4p1p1/8/1p2B3/6p1/8/1P3KPP/2R5 w k - 0 30">Link</a> | Bullet |
-| levon76 | **centrumek** | stalemate ⏸️ | 17/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/8/3KQ3/8/8/8/8/8 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
