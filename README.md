@@ -94,6 +94,9 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | DonSzah | win 🥇 | 21/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/8/8/8/8/k1K5/8/8 b - - 70 98">Link</a> | Blitz |
+| DonSzah | **centrumek** | win 🥇 | 21/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/3k4/4p2p/1PK2p1P/R2P1P2/8/P7/6q1 w - - 2 56">Link</a> | Blitz |
+| **centrumek** | DonSzah | win 🥇 | 21/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/3b4/1Q6/B2p4/4p2r/7P/2P5/2KR3R b - - 0 32">Link</a> | Blitz |
 | **centrumek** | AnthonyWb | checkmated ❌ | 20/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/Kqk5/8/8/8 w - -">Link</a> | Blitz |
 | Stanley6 | **centrumek** | win 🥇 | 20/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/4r1p1/4R3/2Qb4/3P1P2/5NPp/6qP/5RK1 w - -">Link</a> | Blitz |
 | samiralbacha | **centrumek** | win 🥇 | 20/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p1k5/1p1pK3/1Pn5/2P5/8/8 w - -">Link</a> | Blitz |
@@ -101,9 +104,6 @@
 | asisa35 | **centrumek** | checkmated ❌ | 20/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/2k4p/pp1b4/2p3q1/6B1/1P3P2/P1PP1PRP/R6K b - -">Link</a> | Blitz |
 | **centrumek** | DushWick | resigned ❌ | 20/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2pp1/5q2/3p4/5pR1/4P3/P1P1K2P/2B5 w - -">Link</a> | Blitz |
 | LuisFGoveaH | **centrumek** | resigned ❌ | 20/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1r4/2kP4/8/5B2/5KP1/PP1R4/8 b - -">Link</a> | Blitz |
-| **centrumek** | samikdesmeres | stalemate ⏸️ | 20/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/4P3/4K3/7p/5P1P/6N1/8/8 b - -">Link</a> | Blitz |
-| **centrumek** | IMPRASHANT | win 🥇 | 20/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/6Rp/6b1/5p1P/4pB2/4P1K1/8/8 b - -">Link</a> | Blitz |
-| **centrumek** | dmaddyy99 | win 🥇 | 20/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2P2pp1/4p2p/5r2/4K3/8/8/2R5 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
