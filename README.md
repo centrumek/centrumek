@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 904 | 1094 |
+| Current | 1007 | 896 | 1094 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Kzermani | checkmated ❌ | 22/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/6R1/6p1/6pp/K7/8/8/qr6 w - -">Link</a> | Blitz |
 | mckeavers | **centrumek** | checkmated ❌ | 21/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k7/P1N5/1K3p2/4pPp1/4P3/1P3PbP/2P5/8 b - -">Link</a> | Blitz |
 | **centrumek** | hughharman1993 | resigned ❌ | 21/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1p4p1/p1pb3p/3p4/P2PpPqP/1P2P3/2PB4/1R2K2R b K -">Link</a> | Blitz |
 | karkaribrahim | **centrumek** | win 🥇 | 21/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p5p1/1p3r1p/7K/6PN/8/7r/1R6 w - -">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | **centrumek** | AnthonyWb | checkmated ❌ | 20/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/Kqk5/8/8/8 w - -">Link</a> | Blitz |
 | Stanley6 | **centrumek** | win 🥇 | 20/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/4r1p1/4R3/2Qb4/3P1P2/5NPp/6qP/5RK1 w - -">Link</a> | Blitz |
 | samiralbacha | **centrumek** | win 🥇 | 20/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p1k5/1p1pK3/1Pn5/2P5/8/8 w - -">Link</a> | Blitz |
-| **centrumek** | aanandv15 | win 🥇 | 20/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/R7/8/6pr/4p3/4Kpk1/8/8 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
