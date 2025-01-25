@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 887 | 1094 |
+| Current | 1007 | 880 | 1094 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| kshatriya1b | **centrumek** | checkmated ❌ | 25/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b1r3/p3k2p/2p1PQ2/4B3/4p3/PP5P/6R1/6K1 b - -">Link</a> | Blitz |
 | **centrumek** | JustDrew32 | win 🥇 | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/4npk1/3p4/1P1P4/2PRK3/7P/8 b - -">Link</a> | Blitz |
 | **centrumek** | Gregoryhauke | win 🥇 | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1R6/p7/R7/8/8/k1P5/6K1 b - -">Link</a> | Blitz |
 | grbkb4 | **centrumek** | resigned ❌ | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7p/p1k5/6PP/2P5/PP1K4/8 b - -">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | Piece_Trader | **centrumek** | resigned ❌ | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/5R2/p1p3p1/4Pp2/Q1pP4/2P5/PP3PP1/2K5 b - -">Link</a> | Blitz |
 | tdinero | **centrumek** | resigned ❌ | 23/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/P1k5/8/8/8/8/5PP1/6K1 b - -">Link</a> | Blitz |
 | **centrumek** | alidizaji | win 🥇 | 23/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1k1B/1R1P1p2/p4N2/2Q2n1p/8/5K2/P2b1P2/5R2 b - -">Link</a> | Blitz |
-| **centrumek** | PrincessFay20 | timeout ❌ | 23/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/2k5/1r6/R7/K7 w - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
