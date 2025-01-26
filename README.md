@@ -94,6 +94,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | omars24 | checkmated ❌ | 26/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/1p5p/pnp5/4P3/1P6/1QP4r/P2r4/R5RK w - - 0 29">Link</a> | Bullet |
+| **centrumek** | lucachessa | win 🥇 | 26/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3k4/R3p3/PP1pP3/8/4K3/8 b - -">Link</a> | Bullet |
 | kshatriya1b | **centrumek** | checkmated ❌ | 25/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b1r3/p3k2p/2p1PQ2/4B3/4p3/PP5P/6R1/6K1 b - -">Link</a> | Blitz |
 | **centrumek** | JustDrew32 | win 🥇 | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/4npk1/3p4/1P1P4/2PRK3/7P/8 b - -">Link</a> | Blitz |
 | **centrumek** | Gregoryhauke | win 🥇 | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1R6/p7/R7/8/8/k1P5/6K1 b - -">Link</a> | Blitz |
@@ -102,8 +104,6 @@
 | KASHIARIRIKIKA | **centrumek** | stalemate ⏸️ | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/1k2K3/8/QP6/8/8/8/8 b - -">Link</a> | Blitz |
 | **centrumek** | moulid | win 🥇 | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnq1k2r/pp3pp1/2p1pn1p/b2p4/1P1P2P1/P1NBPQ1P/2PB1P2/R3K2R b KQkq b3">Link</a> | Blitz |
 | Piece_Trader | **centrumek** | resigned ❌ | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/5R2/p1p3p1/4Pp2/Q1pP4/2P5/PP3PP1/2K5 b - -">Link</a> | Blitz |
-| tdinero | **centrumek** | resigned ❌ | 23/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/P1k5/8/8/8/8/5PP1/6K1 b - -">Link</a> | Blitz |
-| **centrumek** | alidizaji | win 🥇 | 23/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1k1B/1R1P1p2/p4N2/2Q2n1p/8/5K2/P2b1P2/5R2 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
