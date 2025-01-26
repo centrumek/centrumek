@@ -89,11 +89,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 880 | 1094 |
+| Current | 1007 | 880 | 1070 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Muns66 | checkmated ❌ | 26/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/5ppp/4p3/p3P3/8/1Pb5/3q3P/3K4 w - -">Link</a> | Bullet |
+| hponcej | **centrumek** | timeout ❌ | 26/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/3B2k1/8/8/8/B7/P2K4/8 b - -">Link</a> | Bullet |
+| **centrumek** | aNTONIOMYBOYO | resigned ❌ | 26/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7b/p2k4/1p1p2r1/1P3p2/PKP5/8/8 w - -">Link</a> | Bullet |
 | **centrumek** | omars24 | checkmated ❌ | 26/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/1p5p/pnp5/4P3/1P6/1QP4r/P2r4/R5RK w - - 0 29">Link</a> | Bullet |
 | **centrumek** | lucachessa | win 🥇 | 26/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3k4/R3p3/PP1pP3/8/4K3/8 b - -">Link</a> | Bullet |
 | kshatriya1b | **centrumek** | checkmated ❌ | 25/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b1r3/p3k2p/2p1PQ2/4B3/4p3/PP5P/6R1/6K1 b - -">Link</a> | Blitz |
@@ -101,9 +104,6 @@
 | **centrumek** | Gregoryhauke | win 🥇 | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1R6/p7/R7/8/8/k1P5/6K1 b - -">Link</a> | Blitz |
 | grbkb4 | **centrumek** | resigned ❌ | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7p/p1k5/6PP/2P5/PP1K4/8 b - -">Link</a> | Blitz |
 | yazevedo | **centrumek** | resigned ❌ | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/p4R1p/2p5/5n2/3P4/1Q3Pr1/PP3KP1/R7 b - -">Link</a> | Blitz |
-| KASHIARIRIKIKA | **centrumek** | stalemate ⏸️ | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/1k2K3/8/QP6/8/8/8/8 b - -">Link</a> | Blitz |
-| **centrumek** | moulid | win 🥇 | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnq1k2r/pp3pp1/2p1pn1p/b2p4/1P1P2P1/P1NBPQ1P/2PB1P2/R3K2R b KQkq b3">Link</a> | Blitz |
-| Piece_Trader | **centrumek** | resigned ❌ | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/5R2/p1p3p1/4Pp2/Q1pP4/2P5/PP3PP1/2K5 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
