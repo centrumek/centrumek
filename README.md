@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 880 | 1070 |
+| Current | 1007 | 880 | 1062 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| DanlCharlie | **centrumek** | resigned ❌ | 26/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/4k2p/3Np1p1/2B5/4K3/PP4PP/R7 b - -">Link</a> | Bullet |
 | **centrumek** | Muns66 | checkmated ❌ | 26/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/5ppp/4p3/p3P3/8/1Pb5/3q3P/3K4 w - -">Link</a> | Bullet |
 | hponcej | **centrumek** | timeout ❌ | 26/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/3B2k1/8/8/8/B7/P2K4/8 b - -">Link</a> | Bullet |
 | **centrumek** | aNTONIOMYBOYO | resigned ❌ | 26/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7b/p2k4/1p1p2r1/1P3p2/PKP5/8/8 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | JustDrew32 | win 🥇 | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/4npk1/3p4/1P1P4/2PRK3/7P/8 b - -">Link</a> | Blitz |
 | **centrumek** | Gregoryhauke | win 🥇 | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1R6/p7/R7/8/8/k1P5/6K1 b - -">Link</a> | Blitz |
 | grbkb4 | **centrumek** | resigned ❌ | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7p/p1k5/6PP/2P5/PP1K4/8 b - -">Link</a> | Blitz |
-| yazevedo | **centrumek** | resigned ❌ | 24/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/p4R1p/2p5/5n2/3P4/1Q3Pr1/PP3KP1/R7 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
