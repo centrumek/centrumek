@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 880 | 1129 |
+| Current | 1007 | 880 | 1137 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| u1tras | **centrumek** | win 🥇 | 31/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/pp6/2p3p1/4pb1r/2q2pp1/2P5/2P2PPP/1KBR3R w - - 0 25">Link</a> | Bullet |
 | **centrumek** | Jayraj000 | timeout ❌ | 31/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1pr3r1/p2k2p1/P2p2P1/1p1RpP2/2P1P3/2K5/8 w - - 0 47">Link</a> | Bullet |
 | NoMoreTarrifs | **centrumek** | win 🥇 | 31/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/pp3p1p/2p5/3p4/3Pp3/P1B1PbR1/1PP2P2/3RQ1Kq w kq - 3 22">Link</a> | Bullet |
 | **centrumek** | Tenali_Ram23 | win 🥇 | 31/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1Q1k2/pN1n2p1/2p1p1B1/8/3P4/2P5/PPK5/7r b - - 4 34">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | Walabokcroute | win 🥇 | 27/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5n1k/1R4Q1/3bp2p/3pN1P1/3P1P2/4P1K1/2r4P/8 b - - 0 34">Link</a> | Bullet |
 | VlaseCosmin | **centrumek** | win 🥇 | 27/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/5p2/p7/7p/3p3P/2bP2PK/1r6/8 w - -">Link</a> | Bullet |
 | **centrumek** | davis717 | win 🥇 | 27/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6Q1/4RQ2/7p/7p/8/6K1/8 b - -">Link</a> | Bullet |
-| abdul19894219 | **centrumek** | win 🥇 | 27/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k4pp/3np3/5p2/3P1PP1/4PK1r/2r5/8 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
