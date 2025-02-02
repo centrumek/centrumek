@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 880 | 1137 |
+| Current | 1007 | 880 | 1145 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| OM_4383 | **centrumek** | win 🥇 | 2/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7K/1k6/8/8/3B2r1/7q w - - 8 53">Link</a> | Bullet |
 | **centrumek** | Bblerim12 | timeout ❌ | 1/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p3k3/Pp1p2pp/1P1K4/7P/8/8 w - - 0 43">Link</a> | Bullet |
 | stepanarn | **centrumek** | checkmated ❌ | 1/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1nkR4/7p/1Q6/8/1B6/P1N1nq2/1PP5/2K5 b - - 0 33">Link</a> | Bullet |
 | bgarciga305 | **centrumek** | win 🥇 | 1/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/3k4/8/4q3/1K3r2 w - - 8 61">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | iludek | **centrumek** | win 🥇 | 1/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r2r1/1bR4R/4p3/5p2/p3n3/P4NP1/4KP1P/8 w - - 1 32">Link</a> | Bullet |
 | **centrumek** | herolindR | win 🥇 | 1/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p7/3p4/1P1P1R2/P4k1p/1BP5/6K1 b - - 0 45">Link</a> | Bullet |
 | u1tras | **centrumek** | win 🥇 | 31/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/pp6/2p3p1/4pb1r/2q2pp1/2P5/2P2PPP/1KBR3R w - - 0 25">Link</a> | Bullet |
-| **centrumek** | Jayraj000 | timeout ❌ | 31/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1pr3r1/p2k2p1/P2p2P1/1p1RpP2/2P1P3/2K5/8 w - - 0 47">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
