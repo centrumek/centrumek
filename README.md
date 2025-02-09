@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 880 | 1185 |
+| Current | 1007 | 880 | 1178 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| tallman1996 | **centrumek** | timeout ❌ | 9/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p3R2P/1p2KB2/3p4/3P4/2PB4/P7/7R b - - 0 34">Link</a> | Bullet |
 | voj_money | **centrumek** | timeout ❌ | 8/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6k1/2PR3p/2r5/P6P/6PK/8 b - - 2 40">Link</a> | Bullet |
 | **centrumek** | Johnrye4 | timeout ❌ | 8/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/5Rpk/4r3/8/3Q2P1/4p2P/4K3 w - - 0 39">Link</a> | Bullet |
 | SeaofashZH | **centrumek** | win 🥇 | 8/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r3r/1k1q1pp1/p2p1b1p/2p5/PP1nPP2/3P3P/1P1QN1P1/R1N2RK1 w - - 1 22">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | RafaelGT4 | **centrumek** | win 🥇 | 6/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7k/8/1r4p1/4K1P1/8/5q2 w - - 0 50">Link</a> | Bullet |
 | **centrumek** | TennisBelbow | win 🥇 | 4/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/ppp1rp2/6r1/2Pq3p/1P2pR2/P6P/4Q1P1/5RK1 b - - 1 31">Link</a> | Bullet |
 | Sakib-Nazmus | **centrumek** | resigned ❌ | 4/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5nk/5R2/p5Q1/1p1P2p1/4p3/P3P3/1P3PPP/5RK1 b - - 0 25">Link</a> | Bullet |
-| **centrumek** | rishabh9193 | checkmated ❌ | 4/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6p1/1R3p1p/1b2p2P/4p1P1/2b1P3/2P2P2/r1K5 w - - 1 30">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
