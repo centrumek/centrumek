@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 880 | 1169 |
+| Current | 1007 | 880 | 1177 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | tylertak5 | win 🥇 | 11/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2B5/8/6K1/8/6Qp/4q1k1 b - -">Link</a> | Bullet |
 | SakaAkaLaka | **centrumek** | win 🥇 | 11/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/nb6/2p5/1pPkbPr1/1P6/P2B2P1/3R1RK1 w - -">Link</a> | Bullet |
 | flagoon | **centrumek** | timeout ❌ | 11/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3b4/1k6/2p5/8/1p1N4/4R3/PPP2PP1/6K1 b - - 2 34">Link</a> | Daily |
 | **centrumek** | MaartenvanOverloop | resigned ❌ | 10/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6pp/1p3p2/8/2p3P1/b4P1P/P4P2/3r2K1 w - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | Johnrye4 | timeout ❌ | 8/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/5Rpk/4r3/8/3Q2P1/4p2P/4K3 w - - 0 39">Link</a> | Bullet |
 | SeaofashZH | **centrumek** | win 🥇 | 8/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r3r/1k1q1pp1/p2p1b1p/2p5/PP1nPP2/3P3P/1P1QN1P1/R1N2RK1 w - - 1 22">Link</a> | Bullet |
 | bigrandybobandy | **centrumek** | win 🥇 | 8/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7k/2Q4p/1pPp4/4P3/8/PPP3PP/6K1 w - - 1 36">Link</a> | Bullet |
-| **centrumek** | galvanhuys | win 🥇 | 6/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R3/2R5/8/5p2/1P3k2/7p/6PP/6K1 b - - 1 42">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
