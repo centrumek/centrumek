@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 880 | 1162 |
+| Current | 1007 | 880 | 1170 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Diarmuid13Power | **centrumek** | win 🥇 | 7/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/b1p1kp1p/4b1p1/4P3/2P2N1P/1P3PP1/3r2K1 w - -">Link</a> | Bullet |
 | sagarinamdar | **centrumek** | checkmated ❌ | 6/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R3k1/5ppp/p3p3/1p2P3/1P1N4/Pn1BP1P1/4KPb1/8 b - -">Link</a> | Bullet |
 | **centrumek** | ZoneZona | timeout ❌ | 5/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p6p/6n1/1p6/4n3/1P6/P1r4P/7K w - -">Link</a> | Bullet |
 | **centrumek** | Murakamika | resigned ❌ | 5/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k2r/5q2/1pp3p1/2Np2P1/3PpP1p/4P3/P1PQ3P/4K2R w Kkq -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | **centrumek** | HarryHydraa | win 🥇 | 4/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p3qpQk/3p3P/2pP4/1pP5/1PbbrP2/8/1R1K3R b - -">Link</a> | Bullet |
 | **centrumek** | Corridore407 | timeout ❌ | 4/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/k7/8/8/1p6/8/1KP5/8 w - -">Link</a> | Bullet |
 | Light1ess | **centrumek** | win 🥇 | 4/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/7p/6p1/3p1b2/P7/3P1P2/r3n1PP/1r1K4 w - -">Link</a> | Bullet |
-| **centrumek** | NiKoLaJ3333 | timeout ❌ | 4/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3pQ3/3P4/3k1p2/1K3Bp1/8/8 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
