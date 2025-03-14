@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 880 | 1129 |
+| Current | 1007 | 880 | 1120 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | l3ttysulist4 | timeout ❌ | 13/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pp3r2/3p2p1/2pPp3/2Pb4/1P1Pq3/P7/1K1Q4 w - -">Link</a> | Bullet |
 | **centrumek** | tichetto25 | resigned ❌ | 12/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4b1k1/p6p/1p4pb/6q1/3P4/2P5/PP3K1P/8 w - -">Link</a> | Bullet |
 | **centrumek** | Biel_Alba | timeout ❌ | 10/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R3/8/5k1p/P1p2Np1/2Pp1rP1/r6P/6K1/8 w - -">Link</a> | Bullet |
 | TTUTE27 | **centrumek** | checkmated ❌ | 10/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R5k1/2p2ppp/8/3pp3/8/2P2PKP/2r3P1/8 b - -">Link</a> | Bullet |
@@ -103,7 +104,6 @@
 | danjahzone44 | **centrumek** | resigned ❌ | 9/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/1b1R1p2/p3p3/4B1pp/5n2/1NP4P/PPP2PP1/5RK1 b - -">Link</a> | Bullet |
 | **centrumek** | NichollsSteve | win 🥇 | 9/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2b1k1/1B3ppp/4p3/3p2P1/7P/1K2P3/8/8 b - -">Link</a> | Bullet |
 | vindaloo22 | **centrumek** | resigned ❌ | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kN2n1/pb1n4/2p1p1q1/1pbpP2p/8/2NB2BP/PPP2P2/R2QR1K1 b - -">Link</a> | Bullet |
-| MSGMD | **centrumek** | win 🥇 | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/8/4P3/1r1K4/7k/5Rp1/8/6R1 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
