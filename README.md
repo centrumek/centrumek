@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 971 | 1179 |
+| Current | 1007 | 963 | 1179 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | emilianotuminni | abandoned  | 19/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3k2r1/2p3Pn/8/8/5PK1/8 w - - 0 41">Link</a> | Blitz |
 | abdossamaddeh | **centrumek** | win 🥇 | 19/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4p3/3pP1p1/2pP1p1p/2P2q1P/k7/6K1 b - - 1 60">Link</a> | Blitz |
 | sermondai | **centrumek** | resigned ❌ | 19/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppQ3k1/2p2rp1/3p4/3P4/2P4R/PP3PP1/5RK1 b - - 3 34">Link</a> | Blitz |
 | **centrumek** | abdossamaddeh | win 🥇 | 19/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pk1/4p3/p2p2PP/2rPb3/P1P5/1P3R1R/2K5 b - - 0 32">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | **centrumek** | Vietnamhomies | checkmated ❌ | 19/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5b2/2N2pp1/8/2k3P1/Kp6/q7 w - - 2 60">Link</a> | Blitz |
 | EcoCX | **centrumek** | timeout ❌ | 18/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R4P2/8/8/1r6/4K2P/pk6/8 b - - 6 57">Link</a> | Blitz |
 | **centrumek** | AbdulRauf37 | resigned ❌ | 18/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/ppp3pp/4p3/4Pp2/1P2pPPb/P3P2P/1B6/R1K2b1R b - - 1 18">Link</a> | Blitz |
-| Maxucc | **centrumek** | stalemate ⏸️ | 18/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/2Q5/8/3p1K2/3k4 b - - 5 72">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
