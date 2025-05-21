@@ -94,6 +94,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| flagoon | **centrumek** | resigned ❌ | 20/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/ppp1p1pp/5p2/8/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4">Link</a> | Daily |
 | nike982 | **centrumek** | resigned ❌ | 20/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5k2/2K1p3/1P6/P2P4/6PP/8 b - - 1 32">Link</a> | Blitz |
 | **centrumek** | RussellWarren | win 🥇 | 20/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p7/P1K5/1P6/2Pkp1Np/7P/4R3 b - - 4 53">Link</a> | Blitz |
 | **centrumek** | paradeps | repetition ⏸️ | 20/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5r2/PK6/5k2/8/8/8/8 b - - 10 59">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | abdossamaddeh | **centrumek** | win 🥇 | 19/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4p3/3pP1p1/2pP1p1p/2P2q1P/k7/6K1 b - - 1 60">Link</a> | Blitz |
 | sermondai | **centrumek** | resigned ❌ | 19/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppQ3k1/2p2rp1/3p4/3P4/2P4R/PP3PP1/5RK1 b - - 3 34">Link</a> | Blitz |
 | **centrumek** | abdossamaddeh | win 🥇 | 19/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pk1/4p3/p2p2PP/2rPb3/P1P5/1P3R1R/2K5 b - - 0 32">Link</a> | Blitz |
-| hbaabh | **centrumek** | resigned ❌ | 19/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/7p/8/4k1P1/7P/PPP5/2K1R3 b - - 0 36">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
