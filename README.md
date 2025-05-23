@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 932 | 1179 |
+| Current | 1007 | 923 | 1179 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Latiandulu | checkmated ❌ | 23/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/1p6/3p4/8/5kn1/7K/7r w - - 2 54">Link</a> | Blitz |
 | Tiltprooved | **centrumek** | win 🥇 | 22/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/1p1N2p1/pP2p2q/P2p1r2/R2P3p/2P2pPP/3b1P2/4R1K1 w - - 0 28">Link</a> | Blitz |
 | MAGABEX | **centrumek** | resigned ❌ | 22/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q3r/p1kb1Q1p/1pp1Pn2/3p1Bp1/8/2N1P3/PP3PPP/R1B2RK1 w - - 3 15">Link</a> | Blitz |
 | **centrumek** | ChukJosh | resigned ❌ | 22/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/p1k5/1p6/n1p1p1p1/P2pPpP1/7r/6RP/R5K1 w - - 1 31">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | **centrumek** | Ahsoka_Chess | timeout ❌ | 22/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/4qp1k/4p2p/2bpP3/5P2/p4NK1/7P/RR6 w - - 0 32">Link</a> | Blitz |
 | **centrumek** | Flawless51 | checkmated ❌ | 22/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b3rk/1p2Q3/4pp1p/3pRp1P/3Pp2R/2P1P1P1/r6K/5q2 w - - 4 37">Link</a> | Blitz |
 | leitroxd | **centrumek** | resigned ❌ | 22/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R2b1r/1Q1nkp2/4p1p1/2PpP1Bp/3P4/5NP1/5P1P/4K2R b K - 2 24">Link</a> | Blitz |
-| **centrumek** | SgtAdhesive | abandoned  | 22/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/p4pp1/b3p2p/3p4/4q2P/P6R/5PP1/2KQ4 w - - 4 26">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
