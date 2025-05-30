@@ -89,11 +89,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 871 | 1178 |
+| Current | 1007 | 871 | 1162 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | vl_sirax | timeout ❌ | 30/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q3k/p5pp/2n1B1p1/4P3/4p2P/1Pp5/P1K5/8 w - - 0 32">Link</a> | Bullet |
+| lizzie234berry | **centrumek** | checkmated ❌ | 30/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Qk2r/ppr2q2/2b1p2p/2P3p1/5p2/P4N1P/5PPB/R2R2K1 b k - 1 32">Link</a> | Bullet |
 | **centrumek** | athanasios01 | checkmated ❌ | 30/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/1bp5/p1p1p3/3p4/3P4/2N1b2q/PPP5/5R1K w - - 6 31">Link</a> | Blitz |
 | Monkey2895 | **centrumek** | win 🥇 | 30/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k6r/pR6/2P3R1/8/2b5/2P3P1/P1P3P1/5rK1 w - - 3 31">Link</a> | Blitz |
 | pokutreino | **centrumek** | resigned ❌ | 29/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2B2b1r/pp6/nkp2R1p/3P4/8/8/PP3PPP/RN4K1 b - - 0 20">Link</a> | Blitz |
@@ -102,8 +104,6 @@
 | **centrumek** | roman_nt | win 🥇 | 29/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rkQ/pp3p2/6p1/4P3/2p4R/4p3/2P3P1/7K b - - 1 36">Link</a> | Blitz |
 | quang783 | **centrumek** | timeout ❌ | 29/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1pN5/kp1Q1p2/p2Pp3/P1P1P3/r7/7K/8 b - - 1 37">Link</a> | Blitz |
 | hudzhxd | **centrumek** | checkmated ❌ | 29/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Qkr4/Bp1b4/2p5/1q6/3p2P1/2n2P1P/2P2RK1/4R3 b - - 1 32">Link</a> | Blitz |
-| lukasosic | **centrumek** | checkmated ❌ | 28/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kr2/4Q3/7R/pp2R3/2pP4/P7/5PP1/6K1 b - - 0 34">Link</a> | Blitz |
-| **centrumek** | tlsdip | checkmated ❌ | 28/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=RN6/3Q2pp/1p1p1bk1/2p2p2/8/4P3/2P2PPP/3q2K1 w - - 1 36">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
