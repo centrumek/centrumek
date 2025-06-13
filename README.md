@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1007 | 899 | 1145 |
+| Current | 1007 | 907 | 1145 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Kendillafandy | win 🥇 | 13/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5bk1/5Q2/2P1p1p1/1p3pPp/2pP1P1P/2P1B1K1/8/8 b - - 0 46">Link</a> | Blitz |
 | kelsonkc | **centrumek** | checkmated ❌ | 12/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2p5/2N5/4K1P1/kQ3P2/2P5/8 b - - 2 48">Link</a> | Blitz |
 | **centrumek** | Duckula1974 | win 🥇 | 12/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Rk1/2pq3p/4N3/2P2K2/3P4/4B2P/8/8 b - - 0 38">Link</a> | Blitz |
 | **centrumek** | CmRadu | win 🥇 | 12/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1br2k1/p1p2ppp/1B2pn2/3pN3/P2P4/2P1P3/2P2PPP/R2QK2R b KQ - 0 13">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | **centrumek** | Hasbiii12 | checkmated ❌ | 9/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4Rpk/7p/4B2P/1P3P2/K3P3/q7/2n5 w - - 1 34">Link</a> | Blitz |
 | **centrumek** | PS81104 | win 🥇 | 9/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/4prbp/p1p1Q1p1/Pp1p3n/3P4/2PBP3/P4PP1/R1B1K2R b KQ - 0 19">Link</a> | Blitz |
 | Ojha89 | **centrumek** | win 🥇 | 9/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1r3p2/N1Np2p1/3P4/8/P7/1qP3P1/1K2n3 w - - 0 30">Link</a> | Blitz |
-| maximaxi_56 | **centrumek** | win 🥇 | 8/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1k4/p1p5/3p3b/2pPpP2/Q1P5/3P4/P3R3/4K1q1 w - - 6 35">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
