@@ -94,6 +94,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Aspeel | **centrumek** | abandoned  | 16/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb5/1p3p1p/3k1Q2/p7/4p3/4P3/PPP2PPP/2K2BNR b - - 0 15">Link</a> | Blitz |
+| **centrumek** | Araksrokkhmer | win 🥇 | 16/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/1p2ppb1/p1n3p1/P1B4p/3P2P1/1P1B4/3NNKQP/q6R b kq - 1 21">Link</a> | Blitz |
 | SyimykJR | **centrumek** | abandoned  | 16/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1p4p/6p1/3P4/2P3k1/6Q1/P2r1P1P/4R1K1 b - - 9 33">Link</a> | Blitz |
 | **centrumek** | ripaimuhammad | win 🥇 | 16/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4bnr/1Q1k1p2/p1pp2qp/6p1/P3P3/2PPB1P1/1P5P/RN2K1NR b KQ - 0 14">Link</a> | Blitz |
 | **centrumek** | puzzlingmedusa | resigned ❌ | 16/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p1p1p3/P7/6k1/2P4p/7K/8 w - - 0 46">Link</a> | Blitz |
@@ -102,8 +104,6 @@
 | Wally_W0412 | **centrumek** | win 🥇 | 16/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/6p1/p2p1n1p/1pp1p3/4P2P/N1PP1N2/P1P2PP1/2KR3R b kq - 0 15">Link</a> | Blitz |
 | **centrumek** | skitsiwnl | abandoned  | 16/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4qk1/ppp3bp/4p3/1b6/4NP2/4P3/PPPR4/2K5 w - - 0 23">Link</a> | Blitz |
 | **centrumek** | LMQ1993 | abandoned  | 15/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1r/pppp1ppp/6q1/4P3/2BQ2PP/4P3/PPn5/RNB1K1NR w KQkq - 0 11">Link</a> | Blitz |
-| ntanti | **centrumek** | checkmated ❌ | 15/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q2r1/1b1p2Pp/p1p1p3/1pb3N1/3k1Q2/2NPn3/PPP2PPP/R3KB1R b KQ - 1 18">Link</a> | Blitz |
-| remvvvwww | **centrumek** | win 🥇 | 15/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7r/8/1k6/4R3/4KP2/2R5 w - - 2 46">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
