@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 970 | 1145 |
+| Current | 1000 | 962 | 1145 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | NihalGadhavi | checkmated ❌ | 22/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/ppp2ppp/8/1B5n/1P6/P5rP/2P2q1K/R6R w - - 2 26">Link</a> | Blitz |
 | abhinav69 | **centrumek** | abandoned  | 22/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R5/3Q4/8/2pk4/8/2P5/1P6/2K5 b - - 0 49">Link</a> | Blitz |
 | aane10 | **centrumek** | resigned ❌ | 22/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/p2k4/P1P2K1p/1PP5/6P1/8/8 b - - 0 43">Link</a> | Blitz |
 | **centrumek** | SpicyThrone | repetition ⏸️ | 22/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/4pQp1/3p2PP/5PK1/6R1/8/3q4 w - - 13 54">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | lazyloozer_aaron | **centrumek** | win 🥇 | 21/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/2p5/8/8/4N3/P2P1p2/2P1nP2/2qK4 w - - 0 39">Link</a> | Blitz |
 | DinishDevassy | **centrumek** | win 🥇 | 21/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/r1k1K3/8/3q4 w - - 0 52">Link</a> | Blitz |
 | **centrumek** | Anasfazzat | win 🥇 | 21/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2R2pkp/6p1/2P5/6K1/2r5/8/8 b - - 0 47">Link</a> | Blitz |
-| **centrumek** | Jordalanian12 | win 🥇 | 21/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5pp1/pp2rb1p/8/PR5P/1P6/R1P2K2/1N6 b - - 3 28">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
