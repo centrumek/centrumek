@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 966 | 1145 |
+| Current | 1000 | 973 | 1145 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | abanobey | win 🥇 | 2/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq3r/ppk2Bp1/1npbp3/3p1p2/N2P4/1P2P3/P1P2PPP/R1BQK2R b KQ - 0 14">Link</a> | Blitz |
 | **centrumek** | Temka123131 | abandoned  | 2/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6kp/R7/8/6PP/6r1/1K3r2/8 w - - 1 43">Link</a> | Blitz |
 | Babagfarm | **centrumek** | insufficient ⏸️ | 2/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1K6/2Bk4/8/8/8 b - - 0 64">Link</a> | Blitz |
 | **centrumek** | playforfun67433 | timeout ❌ | 1/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/K4k2/2q5/8/8/8/8/8 w - - 2 63">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | rrubenhood | **centrumek** | timeout ❌ | 1/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pkp5/5Q2/2p1N2p/3qP1bP/1P1P4/P1P3PK/5R2 b - - 0 32">Link</a> | Blitz |
 | AuG18_p | **centrumek** | abandoned  | 30/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/r2k3p/P2P2p1/2PK2P1/7P/6P1/8/R7 b - - 4 42">Link</a> | Blitz |
 | Straight-Drive | **centrumek** | win 🥇 | 30/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/p1p2pp1/7p/1p2p3/4P2P/P1P2q2/1R6/2K5 w - - 0 30">Link</a> | Blitz |
-| santysir | **centrumek** | win 🥇 | 30/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/pp6/8/4R3/5P1p/4Bk2/PPP2P1P/7K w - - 1 33">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
