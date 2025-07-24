@@ -89,11 +89,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 956 | 1181 |
+| Current | 1000 | 938 | 1181 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | toofunky13 | timeout ❌ | 24/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1p4p1/pR1P1p1p/5q2/P6P/6P1/2P2r1K/8 w - - 0 45">Link</a> | Blitz |
+| **centrumek** | aksri333 | abandoned  | 24/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/pp4pp/2pb1n2/3p2N1/8/2NBP3/PPPBKP2/q7 w kq - 0 18">Link</a> | Blitz |
 | Laurenz0thethird | **centrumek** | abandoned  | 24/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2bnr/1Q2kpp1/2Bp1q1p/2p5/3pP3/2PP3P/PP1B1PP1/R4RK1 b - - 4 17">Link</a> | Blitz |
 | SorfistaDeLaVida | **centrumek** | win 🥇 | 23/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k3r/1pp5/3pR3/3Pp3/4Q3/2P5/PP3q1P/7K w - - 2 29">Link</a> | Blitz |
 | **centrumek** | HectorRamirezC | abandoned  | 23/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kbnr/pp1p1ppp/8/8/1qBN4/4P3/PPP2PPP/RNB1K2R w KQkq - 1 7">Link</a> | Blitz |
@@ -102,8 +104,6 @@
 | **centrumek** | WHGank | win 🥇 | 21/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p5pp/2pN2P1/2qp3n/P7/4Q2P/4K3/R5R1 w - - 0 29">Link</a> | Blitz |
 | **centrumek** | jeka0007 | win 🥇 | 21/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/R1p5/2bP1p2/5Kp1/4P3/1r6/5p2/R4Br1 b - - 0 44">Link</a> | Blitz |
 | JuanTorres777 | **centrumek** | win 🥇 | 21/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2p1q3/6pb/1Q1pPp2/3P1PpP/1PK3r1/6r1/8 w - - 0 33">Link</a> | Blitz |
-| **centrumek** | abhijith1369 | checkmated ❌ | 21/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k2r/pppp1ppp/8/2b1p2n/2P1P1P1/3P1P2/PP2Kq1P/RNBQ1BNR w kq - 3 7">Link</a> | Blitz |
-| katja061992 | **centrumek** | resigned ❌ | 20/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/p5k1/8/1P2BP2/P1B3Pb/2r4P/4R1K1 b - - 6 34">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
