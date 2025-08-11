@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 859 | 1181 |
+| Current | 1000 | 867 | 1181 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| musabfalah4 | **centrumek** | win 🥇 | 11/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2r/3r1p2/3p2pn/1Qp4p/p3PN2/2P1n2P/PPq3P1/2KR3R w - - 0 27">Link</a> | Blitz |
 | **centrumek** | UFPF | abandoned  | 11/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2N5/pp3k1p/6p1/8/8/4pq2/1B5K/8 w - - 0 35">Link</a> | Blitz |
 | vandanaghh | **centrumek** | timeout ❌ | 11/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/B7/8/P7/5k2/P6K/8 b - - 0 58">Link</a> | Blitz |
 | **centrumek** | StinkyPantsSupreme | win 🥇 | 11/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/2kb1B2/n5p1/2P5/4P3/5P1P/2R3K1 b - - 0 28">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | **centrumek** | Phamle | abandoned  | 10/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkbnr/p3pppp/1pn5/8/3P4/4P3/PPPK1P1P/RNB5 w kq - 0 9">Link</a> | Blitz |
 | Felipe_Duarte_39 | **centrumek** | abandoned  | 10/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnk2b1N/pppqp2p/3p4/5p1Q/8/4P1P1/PPPP1PKP/RNB2R2 b - - 0 10">Link</a> | Blitz |
 | **centrumek** | Morgan_0x7c7 | checkmated ❌ | 10/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2K1r3/k6r/1p6/3p4/3P3P/8/8/8 w - - 1 47">Link</a> | Blitz |
-| **centrumek** | Platypus155 | win 🥇 | 10/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/8/6P1/5R2/1P3P2/2B5/2K1k3/8 b - - 0 41">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
