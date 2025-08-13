@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 906 | 1181 |
+| Current | 1000 | 914 | 1181 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | DazzaUtd89 | win 🥇 | 13/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7b/6RP/5P2/8/2k5/8/2K5 b - - 2 62">Link</a> | Blitz |
 | lukeseefeldt | **centrumek** | win 🥇 | 12/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/3r3p/p1k5/P5R1/6K1/8 w - - 2 51">Link</a> | Blitz |
 | **centrumek** | toriama00002 | win 🥇 | 12/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pppR1ppk/4p2p/8/6P1/1KB5/7P/8 b - - 3 26">Link</a> | Blitz |
 | yassinebenbrahim | **centrumek** | win 🥇 | 12/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/kP6/3NK3/8/8/8/6PP/1r6 w - - 3 56">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | **centrumek** | Halijedi | resigned ❌ | 12/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3K4/6k1/8/8/7p/8 w - - 0 54">Link</a> | Blitz |
 | Cartaigienicaa | **centrumek** | win 🥇 | 12/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/8/1B6/1p1Q3P/k7/1rr2P1K/8 w - - 10 44">Link</a> | Blitz |
 | **centrumek** | kiduydan | abandoned  | 12/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/5ppp/8/p7/P1p3N1/6PK/5R1P/7q w - - 4 32">Link</a> | Blitz |
-| Sikdav | **centrumek** | checkmated ❌ | 12/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1knr/ppp2Qb1/2np3p/4ppp1/2BP4/4P1BP/PPP2PP1/RN2K1NR b KQ - 1 9">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
