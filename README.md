@@ -94,6 +94,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| M39oob-1 | **centrumek** | timevsinsufficient ⏸️ | 14/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4KR2/8/6k1/8/8/8 w - - 75 98">Link</a> | Blitz |
 | **centrumek** | schu08 | win 🥇 | 14/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/8/6R1/4r3/PKP5/1P4p1/8/8 b - - 1 58">Link</a> | Blitz |
 | bakhtyarstar | **centrumek** | abandoned  | 13/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/2qNp1b1/1p5p/3p1pp1/P2P4/3BP2P/3N1PP1/R2Q1RK1 b kq - 0 17">Link</a> | Blitz |
 | **centrumek** | DazzaUtd89 | win 🥇 | 13/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7b/6RP/5P2/8/2k5/8/2K5 b - - 2 62">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | **centrumek** | mario6554 | win 🥇 | 12/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R2k2/R7/5p2/5Pr1/P7/1P6/1K6/8 b - - 8 49">Link</a> | Blitz |
 | 1378900099HASAN | **centrumek** | resigned ❌ | 12/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/8/8/p7/P1p5/2P3k1/K3N3/8 b - - 0 58">Link</a> | Blitz |
 | **centrumek** | arieflh79 | win 🥇 | 12/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/5ppp/b7/p1Q5/5q1P/P1N2P2/1PP3P1/1K1R3R b - - 2 21">Link</a> | Blitz |
-| **centrumek** | Halijedi | resigned ❌ | 12/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3K4/6k1/8/8/7p/8 w - - 0 54">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
