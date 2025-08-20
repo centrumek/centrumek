@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 944 | 1181 |
+| Current | 1000 | 952 | 1181 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| AG-D | **centrumek** | win 🥇 | 20/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/6PP/P2P4/4krq1/7K w - - 0 57">Link</a> | Blitz |
 | Luzmar23 | **centrumek** | abandoned  | 18/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p1pB4/2P5/5NpP/2k3P1/R7/6K1 b - - 0 55">Link</a> | Blitz |
 | **centrumek** | Yuvraj_shah | win 🥇 | 18/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnkq4/pp2n1Q1/2p1p3/3pP1B1/3P4/2N3R1/PPP5/R3K1N1 b Q - 2 18">Link</a> | Blitz |
 | **centrumek** | Womblezone | win 🥇 | 18/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/P6R/1N6/1P6/2K5/7p/8/7r b - - 0 51">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | **centrumek** | TristanMSChess | checkmated ❌ | 18/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1r2k1/p4pbp/6p1/4p3/8/2P1P1N1/PP3PPP/R1BqK2R w KQ - 2 18">Link</a> | Blitz |
 | kumemo | **centrumek** | win 🥇 | 18/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/6k1/3p4/2pP1P2/2PbB3/6PK/3q4/3b4 w - - 2 41">Link</a> | Blitz |
 | Usmanumar304 | **centrumek** | timevsinsufficient ⏸️ | 18/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4K3/5Pk1/8/8/8/8/8 w - - 1 82">Link</a> | Blitz |
-| **centrumek** | afal84 | win 🥇 | 18/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/p2b2pp/p2R4/Q1p5/P7/1P1P4/4P3/2K2B2 b - - 0 35">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
