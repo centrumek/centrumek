@@ -89,11 +89,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 976 | 1181 |
+| Current | 1000 | 968 | 1181 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| frenchblogger | **centrumek** | stalemate ⏸️ | 26/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k7/P4B2/1PP5/2K5/2N5/8/8/8 b - - 0 59">Link</a> | Blitz |
+| **centrumek** | HAMOzamo | resigned ❌ | 26/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/5pp1/7p/p2b4/3P2P1/8/5P1P/2B3K1 w - - 1 28">Link</a> | Blitz |
 | Actiontaxion | **centrumek** | timeout ❌ | 25/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/8/p1kR1N2/2P1P3/Pq6/8/5BK1 b - - 5 43">Link</a> | Blitz |
 | **centrumek** | moretta2 | win 🥇 | 25/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/7R/p4Npp/1p6/3P4/1P6/1KP2r1P/8 b - - 3 33">Link</a> | Blitz |
 | **centrumek** | Devil_yt_31 | win 🥇 | 25/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3NK3/2k3p1/7p/5P1P/p1p5/R3P3/8/8 b - - 0 43">Link</a> | Blitz |
@@ -102,8 +104,6 @@
 | therumeno | **centrumek** | checkmated ❌ | 25/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/pppn1Qpp/2np4/4p1P1/2B1P3/7P/PPPP1P2/RNB1K2R b KQkq - 0 8">Link</a> | Blitz |
 | UgusUgus | **centrumek** | win 🥇 | 25/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3k1r/6bp/p2p1p2/2pN3q/4P3/1P6/P1P2PPP/3R1RK1 w - - 0 27">Link</a> | Blitz |
 | **centrumek** | PRt1mer | win 🥇 | 25/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/P6N/8/8/1P6/2k1p3/6PP/4K3 b - - 0 37">Link</a> | Blitz |
-| **centrumek** | russellvan | abandoned  | 25/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p3kBp/p1p3pP/2Pp4/3K4/r4p2/8/8 w - - 2 40">Link</a> | Blitz |
-| eyalker | **centrumek** | repetition ⏸️ | 25/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/2p1K3/1pP5/1k6/p7/3Q4 b - - 17 60">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
