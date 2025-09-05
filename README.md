@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 985 | 1181 |
+| Current | 1000 | 993 | 1181 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| AVFC85 | **centrumek** | win 🥇 | 5/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb2/4p3/pP3p1p/3Pp1r1/2P1P3/P1N5/5Pq1/R4RK1 w q - 0 23">Link</a> | Blitz |
 | **centrumek** | krajeshwar75 | abandoned  | 5/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/1p3p2/2p2B2/5p2/5P2/pr6/4K3/8 w - - 2 47">Link</a> | Blitz |
 | pudge08 | **centrumek** | win 🥇 | 5/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2r/4n1p1/r1p2p2/4p1Pp/1P1bP3/P7/2P1K2P/R7 w k - 0 25">Link</a> | Blitz |
 | NYCRESIGN | **centrumek** | checkmated ❌ | 5/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R3k3/7Q/8/5B2/3KP3/1P6/1P6/8 b - - 12 57">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | **centrumek** | Cvrcak123456789 | abandoned  | 5/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p1p1bppp/1p6/1P6/2n1pP2/2P1P1PN/5K2/RNBq3b w - - 0 19">Link</a> | Blitz |
 | **centrumek** | Adabucks | win 🥇 | 5/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/p6p/1prp1p2/5P2/2P4R/6Pk/P1PR3P/2K5 b - - 7 34">Link</a> | Blitz |
 | Suulaaiman | **centrumek** | checkmated ❌ | 5/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q1b1r/2R5/1r1pk2p/4pQ2/4P2B/8/2P2PPP/5RK1 b - - 0 26">Link</a> | Blitz |
-| **centrumek** | mirkaveh | win 🥇 | 5/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r4k/p1pR3Q/5p2/5p2/1PP1p2p/P3P1P1/5P1P/2K5 b - - 1 30">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
