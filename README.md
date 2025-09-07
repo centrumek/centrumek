@@ -89,11 +89,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 992 | 1181 |
+| Current | 1000 | 1000 | 1181 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | DrunkenParrot | win 🥇 | 7/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/3Bqpbp/1p4p1/p7/P2N4/B1N1PRP1/7P/2RQ2K1 b - - 0 26">Link</a> | Blitz |
 | VicM006 | **centrumek** | abandoned  | 6/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/p7/3N1pk1/4P2p/2r4P/6P1/PPB5/2KRR3 b - - 2 32">Link</a> | Blitz |
 | sukuna356 | **centrumek** | win 🥇 | 6/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/pp2p3/2p2n1r/2N4p/3PP1b1/2PB2P1/PP1K4/3R4 b - e3 0 23">Link</a> | Blitz |
 | **centrumek** | ApeironAnaximandro | win 🥇 | 6/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kbnr/pp3p2/2p1p3/3pP2p/P2P2pR/2NBP3/1PP3P1/R1BQK3 b Qkq - 0 11">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | Redouane-benyoussef | **centrumek** | checkmated ❌ | 6/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q2k2/1R6/p7/2p1pp2/8/q1PP4/P2K1PPP/8 b - - 13 41">Link</a> | Blitz |
 | 15lazaro91 | **centrumek** | resigned ❌ | 6/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn6/7p/3p2p1/2pP2P1/ppP3Q1/1P2P3/4BR1k/2K5 b - - 3 34">Link</a> | Blitz |
 | **centrumek** | Krawk0 | win 🥇 | 6/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pp2ppb1/2pp2p1/3P2P1/1P2Pq2/2N5/PQKRN3/7R b - - 8 21">Link</a> | Blitz |
-| **centrumek** | SAW2030 | resigned ❌ | 6/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/4R3/6k1/6n1/5p1K/4pr2/8 w - - 0 54">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
