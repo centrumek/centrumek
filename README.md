@@ -94,6 +94,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | shanjid-rian | stalemate ⏸️ | 11/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/8/5KQ1/8/8/8/8/8 b - - 5 81">Link</a> | Blitz |
 | Akkor35 | **centrumek** | abandoned  | 9/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1B/4qp2/4b2p/pp1pQ2p/2p1PP2/1P5P/P1PP2P1/R3K2R b KQq - 1 21">Link</a> | Blitz |
 | **centrumek** | mmoyz | win 🥇 | 9/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/6Qp/6p1/1p1p1pP1/qP2pPn1/P3P3/1B4R1/4R1K1 b - - 1 29">Link</a> | Blitz |
 | **centrumek** | Monlastchaos | win 🥇 | 9/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/5K2/6Q1/7k b - - 10 61">Link</a> | Blitz |
@@ -103,7 +104,6 @@
 | **centrumek** | Laverz17 | timeout ❌ | 9/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7R/4p1kp/p2q1p1p/P6P/6P1/4QPK1/3r4 w - - 10 47">Link</a> | Blitz |
 | BeefStuuuu | **centrumek** | timeout ❌ | 8/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3B4/8/8/8/3K4/3Q4/8/2k5 b - - 18 66">Link</a> | Blitz |
 | **centrumek** | synixeb | stalemate ⏸️ | 8/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/R7/3Q4/8/P7/5p1p/5P1P/5NK1 b - - 18 55">Link</a> | Blitz |
-| **centrumek** | Ragebait6 | resigned ❌ | 8/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6pp/1R1p1nk1/3rp3/r7/4K3/6PP/8 w - - 0 35">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
