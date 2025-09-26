@@ -89,11 +89,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1031 | 1163 |
+| Current | 1000 | 1031 | 1147 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| SlickRicky420 | **centrumek** | timevsinsufficient ⏸️ | 26/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/5Q2/4K3/8/6k1 w - - 19 66">Link</a> | Bullet |
+| AzazelWasHere | **centrumek** | timeout ❌ | 26/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3b4/3p2k1/2pPp1p1/1pP1P1P1/1P4K1/5B2/8 b - - 0 39">Link</a> | Bullet |
+| Phok3la | **centrumek** | timeout ❌ | 26/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp2r1k1/6pp/4b3/2Q5/8/PP3p1P/5K2 b - - 1 34">Link</a> | Bullet |
 | **centrumek** | Tbando | checkmated ❌ | 26/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/6k1/8/8/8/7q/3K2r1 w - - 8 50">Link</a> | Bullet |
 | **centrumek** | Arkshay180 | timeout ❌ | 26/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pp5p/3q2k1/6p1/8/4PK2/8/8 w - - 0 31">Link</a> | Bullet |
 | **centrumek** | dikomasisibatganto | win 🥇 | 26/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=q4rkQ/5pp1/3b4/1p1p2n1/3Pp3/2P1P3/3N1P2/2B1K2R b K - 1 23">Link</a> | Bullet |
@@ -101,9 +104,6 @@
 | warningcupid1st | **centrumek** | timeout ❌ | 26/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/8/8/2PR4/5Pp1/P5Pp/1B1R1P1K/5rN1 b - - 0 44">Link</a> | Bullet |
 | **centrumek** | AghaSiyahe | checkmated ❌ | 26/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/4p1pq/4P1Kb/3P3P/4P3/8/8 w - - 4 45">Link</a> | Bullet |
 | **centrumek** | Stuppi | win 🥇 | 26/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1kpr2p1/1p3pKp/4p3/8/7R/6PP/2n5 b - - 3 40">Link</a> | Bullet |
-| DontLetsNotBeSilly | **centrumek** | win 🥇 | 26/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/pR6/2p4P/3pp3/5r2/2PP3K/PP6/6r1 w - - 0 38">Link</a> | Bullet |
-| RealSalazarSlytherin | **centrumek** | checkmated ❌ | 26/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2r1k/ppp5/2np2pQ/2P2q1p/2B5/5N2/PP3PPP/R3R1K1 b - - 1 18">Link</a> | Bullet |
-| **centrumek** | eskro16 | win 🥇 | 26/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R5k1/5ppp/2K5/2p3P1/1pr4P/8/2b5/8 b - - 2 37">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
