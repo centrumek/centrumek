@@ -89,21 +89,21 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1002 | 1157 |
+| Current | 1000 | 1034 | 1157 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | RealFaiIo | timeout ❌ | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2k/5R1p/p2p2pP/4q3/Pp6/KP6/5R2/8 w - - 0 45">Link</a> | Blitz |
+| **centrumek** | chum2079 | win 🥇 | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pk1/1p4p1/1PbN3p/4R3/5K2/8/8 b - - 1 40">Link</a> | Blitz |
+| Pop_02 | **centrumek** | win 🥇 | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p6p/3p4/6p1/3K4/4P1P1/P3r3/8 w - - 0 24">Link</a> | Blitz |
+| **centrumek** | CristianLaurentiu | win 🥇 | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/2n5/k1p1p3/Pp1pP1p1/1P4P1/2P5/7P/R5K1 b - - 0 37">Link</a> | Blitz |
+| okobz | **centrumek** | win 🥇 | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/p1pkn3/8/1p2pP1P/1P1pKqP1/P2P3P/8/8 w - - 3 35">Link</a> | Blitz |
+| **centrumek** | Protanix | win 🥇 | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/p1p4p/1p1b1Bp1/1P1P1p2/8/P3PR1P/6P1/2R3K1 b - - 0 23">Link</a> | Blitz |
 | xhelal_abazaj | **centrumek** | win 🥇 | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/p3k1K1/P4p2/5P2/5P2/5q2 w - - 6 51">Link</a> | Blitz |
 | **centrumek** | bobbyonly1 | resigned ❌ | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1p2ppbp/2p1bnp1/8/KP6/2N5/1P3PPP/r5NR w - - 4 19">Link</a> | Blitz |
 | MrStar01 | **centrumek** | resigned ❌ | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/8/1pR2p2/1P1kp3/P6P/6PK/3R4 b - - 4 35">Link</a> | Blitz |
 | **centrumek** | Pavel1234-11 | win 🥇 | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/3K4/3Q4/2k5/8/8 b - - 26 81">Link</a> | Blitz |
-| coldhood01 | **centrumek** | win 🥇 | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/kp3rp1/pb5p/8/1P1P4/P3R3/5PPP/2R3K1 w - - 1 30">Link</a> | Blitz |
-| papeGreugorien | **centrumek** | win 🥇 | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k5r/p1pR2p1/Qp5p/1Pb1P3/2N5/P1P2P2/4n1PP/6qK w - - 3 31">Link</a> | Blitz |
-| **centrumek** | Prakriti_2003 | checkmated ❌ | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/5p2/7p/8/8/5rq1/7K w - - 8 54">Link</a> | Blitz |
-| **centrumek** | Alabu08 | checkmated ❌ | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k2/pp1R3P/2p2Np1/6q1/7r/7K/5P2/5R2 w - - 3 38">Link</a> | Blitz |
-| BossManak-7 | **centrumek** | win 🥇 | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/pppp1ppp/2n2q2/8/1bP5/8/PpQ1PPPP/R3KBNR w KQkq - 0 9">Link</a> | Blitz |
-| Vivabella | **centrumek** | win 🥇 | 5/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kr2/ppp5/3bp3/3n4/1P1PB3/P7/1B1P1PPq/R2Q1RK1 w q - 0 17">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
