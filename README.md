@@ -89,11 +89,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1048 | 1157 |
+| Current | 1000 | 1040 | 1157 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| VSoual | **centrumek** | abandoned  | 9/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/ppkp3R/2p2p1p/3n1P2/8/PPP3NP/1K5R b - - 0 31">Link</a> | Blitz |
+| **centrumek** | veterbod | win 🥇 | 9/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/2p5/1p6/1P1B1K2/7p/6b1/R5P1/8 b - - 0 43">Link</a> | Blitz |
+| **centrumek** | sams49 | timeout ❌ | 9/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5Bk1/3p2P1/3Pb3/8/3K4/8/8 w - - 40 84">Link</a> | Blitz |
 | ivanracoff | **centrumek** | checkmated ❌ | 7/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r3/k1Q5/pp2q3/7p/4P2P/2N5/1PP3P1/2KR3R b - - 0 29">Link</a> | Blitz |
 | BoMaplays | **centrumek** | checkmated ❌ | 7/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r5r/k1p1p3/4P3/Q2B3p/p2P4/P1P1q3/1P6/1K1R3R b - - 4 36">Link</a> | Blitz |
 | **centrumek** | TidusZephyr00 | timeout ❌ | 7/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7P/3k4/3p4/4pR2/3K4/8 w - - 0 55">Link</a> | Blitz |
@@ -101,9 +104,6 @@
 | dogwood8488 | **centrumek** | win 🥇 | 6/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/Q7/6p1/5p1p/3Pp3/P2r3P/5PP1/1Rq2K1R w - - 1 35">Link</a> | Blitz |
 | **centrumek** | and379 | checkmated ❌ | 6/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn6/p1Qp4/k1pP4/8/Pp4np/5P2/1P5q/R4R1K w - - 3 30">Link</a> | Blitz |
 | ehsan809030 | **centrumek** | win 🥇 | 6/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/7K/7q/6q1/2k5 w - - 16 72">Link</a> | Blitz |
-| **centrumek** | ehsan809030 | win 🥇 | 6/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2r2k2/R1pK4/2P5/1P6/8/8/8 b - - 3 56">Link</a> | Blitz |
-| Shaptastic | **centrumek** | win 🥇 | 6/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4b2/2kn4/p2p3p/2p1p2P/b3P3/P2PPR2/2qK1QP1/5R2 w - - 0 27">Link</a> | Blitz |
-| **centrumek** | Shaptastic | win 🥇 | 6/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/kr6/8/7p/5P1P/p5K1/6B1/2R5 b - - 1 43">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
