@@ -22,3 +22,4 @@ jobs:
           COMMIT_EMAIL: ${{ vars.COMMIT_EMAIL }}
           COMMIT_MSG: 'chore(chess): [NO-REF] Update chess stats ⚡'
           COMMIT_USERNAME: ${{ vars.COMMIT_USERNAME }}
+          GAMES_SIZE: 5
