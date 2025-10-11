@@ -48,21 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1048 | 1157 |
+| Current | 1000 | 1030 | 1157 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Cobaeee | **centrumek** | abandoned  | 11/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/8/6RP/1p2k3/8/2P5/PPK5/7R b - - 0 40">Link</a> | Blitz |
+| **centrumek** | Beginerasalways | timeout ❌ | 11/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3R4/8/8/1k6/8/8/q5K1 w - - 0 57">Link</a> | Blitz |
 | JWPrem | **centrumek** | checkmated ❌ | 10/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n2r1k1/rbp1bpQ1/p2p4/3P3p/1PP3p1/6P1/PBB2P1P/4R1K1 b - - 0 25">Link</a> | Blitz |
 | **centrumek** | bshdf | win 🥇 | 10/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1P6/8/5k2/P4p2/5K2/1P6/7B b - - 0 53">Link</a> | Blitz |
 | ATChessbk | **centrumek** | win 🥇 | 10/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/pp1b1p2/2p4r/8/4P3/2Pr4/PP5K/R4q2 w - - 0 29">Link</a> | Blitz |
-| VSoual | **centrumek** | abandoned  | 9/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/ppkp3R/2p2p1p/3n1P2/8/PPP3NP/1K5R b - - 0 31">Link</a> | Blitz |
-| **centrumek** | veterbod | win 🥇 | 9/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/2p5/1p6/1P1B1K2/7p/6b1/R5P1/8 b - - 0 43">Link</a> | Blitz |
-| **centrumek** | sams49 | timeout ❌ | 9/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5Bk1/3p2P1/3Pb3/8/3K4/8/8 w - - 40 84">Link</a> | Blitz |
-| ivanracoff | **centrumek** | checkmated ❌ | 7/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r3/k1Q5/pp2q3/7p/4P2P/2N5/1PP3P1/2KR3R b - - 0 29">Link</a> | Blitz |
-| BoMaplays | **centrumek** | checkmated ❌ | 7/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r5r/k1p1p3/4P3/Q2B3p/p2P4/P1P1q3/1P6/1K1R3R b - - 4 36">Link</a> | Blitz |
-| **centrumek** | TidusZephyr00 | timeout ❌ | 7/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7P/3k4/3p4/4pR2/3K4/8 w - - 0 55">Link</a> | Blitz |
-| **centrumek** | PrinceVinky | win 🥇 | 7/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4P3/3R4/5k2/5P2/6P1/7P/2K5 b - - 0 54">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
