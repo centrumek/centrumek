@@ -1,29 +1,30 @@
-<h1>
-  <img
-    src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif"
-    width="30"
-    alt="centrumek"
-  />
-  Welcome to my world!
-</h1>
+# Heeeeeello! 👋
+
+----
+
+<div>
+    <img
+        src="https://komarev.com/ghpvc/?username=centrumek&label=visitors&color=0e75b6&style=flat"
+        alt="centrumek"
+    />
+</div>
 
 <table>
   <tbody>
     <tr>
       <td align="center" width="70%" colspan="2">
-        <h2>
-          <img
-            src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-            width="30px"
+        <img 
+            src="https://github-readme-stats.vercel.app/api?username=centrumek&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000"
             alt="centrumek"
           />
-          I'm Paul Potaczała
-        </h2>
-        <h4>
-          Harmonious Software Engineer finding the consciousness and peace among time units.
-          <br/>
-          I talk about Tech, Self-Development and Well-Being. 🌿🧘🚀
-        </h4>
+        <img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=centrumek&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&exclude_repo=air-statistic-app"
+            alt="centrumek"
+        />
+        <img 
+            src="https://github-readme-streak-stats.herokuapp.com?user=centrumek&theme=dark&hide_border=true&background=FFFFFF00"
+            alt="centrumek"
+        />
       </td>
       <td width="30%" rowspan="2">
         <a href="https://app.daily.dev/centrumek">
@@ -34,50 +35,8 @@
         </a>
       </td>
     </tr>
-    <tr align="center">
-      <td>
-        <img
-          src="https://komarev.com/ghpvc/?username=centrumek&label=visitors&color=0e75b6&style=flat"
-          alt="centrumek"
-        >
-      </td>
-      <td>
-        <a href="https://stackoverflow.com/users/14496012/centrumek">
-          <img
-            src="https://stackoverflow.com/users/flair/14496012.png?theme=dark"
-            alt="centrumek"
-          >
-        </a>
-      </td>
-    </tr>
   </tbody>
 </table>
-
----
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=centrumek&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000"
-    alt="centrumek"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=centrumek&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&exclude_repo=air-statistic-app"
-    alt="centrumek"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=centrumek&theme=dark&hide_border=true&background=FFFFFF00"
-    alt="centrumek"
-  />
-  <br/>
-  <br/>
-  <a href="https://www.buymeacoffee.com/centrumek">
-    <img
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png"
-      height="50"
-      width="210"
-      alt="centrumek"
-    />
-  </a>
-</div>
 
 ---
 
