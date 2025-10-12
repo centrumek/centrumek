@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1023 | 1157 |
+| Current | 1000 | 1031 | 1157 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | greatestloser1 | win 🥇 | 12/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/5pQp/1q6/p1pn4/Pbb5/4PN2/1BP2PPP/R2R2K1 b - - 0 20">Link</a> | Blitz |
+| **centrumek** | Sachi_kei | win 🥇 | 12/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/p1p2p1p/7Q/4N3/2K5/7P/P1P1PPP1/5B1R b - - 0 21">Link</a> | Blitz |
+| Tolik_06 | **centrumek** | checkmated ❌ | 12/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/k1K5/8/8/8/8/R7 b - - 38 75">Link</a> | Blitz |
 | theoffroadxj | **centrumek** | win 🥇 | 11/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1Bk5/p1P5/6p1/PP4P1/5p1P/4bP1K/5q2 w - - 2 45">Link</a> | Blitz |
 | **centrumek** | Georgeaaaaasi | abandoned  | 11/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pK2k3/5pp1/1P5p/4P3/r3b2P/8/8 w - - 2 42">Link</a> | Blitz |
-| iromero83 | **centrumek** | insufficient ⏸️ | 11/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2N5/8/k7/8/2K5/8 b - - 0 54">Link</a> | Blitz |
-| onyoung | **centrumek** | checkmated ❌ | 11/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k2r4/NQpq4/3b2p1/3Pp2r/P3p1p1/1R2B3/1P3PPP/2K4R b - - 0 24">Link</a> | Blitz |
-| **centrumek** | Gboyega_2902 | win 🥇 | 11/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1r4p1/4kp1p/4p2P/3bK3/8/Qp6/8 b - - 3 54">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
