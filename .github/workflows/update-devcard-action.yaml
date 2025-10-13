@@ -15,9 +15,9 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: dailydotdev/action-devcard@2.3.0
+      - uses: dailydotdev/action-devcard@3.2.1
         with:
           COMMIT_MESSAGE: 'chore(devcard): [NO-REF] Update devcard ⚡'
           COMMITTER_EMAIL: ${{ vars.COMMIT_EMAIL }}
           COMMITTER_NAME: ${{ vars.COMMIT_USERNAME }}
-          DEVCARD_ID: ${{ vars.DEVCARD_ID }}
+          USER_ID: ${{ vars.USER_ID }}
