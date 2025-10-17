@@ -53,11 +53,11 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | santh69 | timevsinsufficient ⏸️ | 17/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/K7/8/1r6/2k5/8/8/8 b - - 15 81">Link</a> | Blitz |
+| **centrumek** | frame087 | win 🥇 | 17/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/K2k4/8/3PQ3/8/8 b - - 0 69">Link</a> | Blitz |
+| uzeki777 | **centrumek** | checkmated ❌ | 17/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/8/Rp3pp1/kP6/P5P1/KP1r4/8 b - - 0 41">Link</a> | Blitz |
 | **centrumek** | MacacoRivelatore | abandoned  | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/1pp2pp1/p3p1p1/3p1nP1/3P1P2/PPB1P1rK/8/8 w - - 2 31">Link</a> | Blitz |
 | JohanCSnel | **centrumek** | abandoned  | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n3b1r/4pk2/1n5p/1p1P4/4P3/8/1PQ3PP/R1B2RK1 b - - 1 20">Link</a> | Blitz |
-| Rasalghoul11 | **centrumek** | win 🥇 | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/8/3b4/pp5p/8/P1rK4/8/8 w - - 2 54">Link</a> | Blitz |
-| lummynoso | **centrumek** | resigned ❌ | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1kp5/1pR2PBp/1P5P/6P1/6K1 b - f3 0 41">Link</a> | Blitz |
-| **centrumek** | sulster | win 🥇 | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1b3/5r2/p1p1pB2/Pp1pP2K/1P1P4/5B2/8/3R4 b - - 0 40">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
