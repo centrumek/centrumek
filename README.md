@@ -53,11 +53,11 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| MrCruzer | **centrumek** | checkmated ❌ | 19/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/4Rkb1/6p1/4P3/3n1P1r/B7/6K1/8 b - - 0 45">Link</a> | Blitz |
+| **centrumek** | gig666 | win 🥇 | 19/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2Qk1b2/1B3K2/1P6/4P3/8/8 b - - 2 71">Link</a> | Blitz |
 | chemabici | **centrumek** | abandoned  | 19/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k6/1p1B3p/1R1Pp3/R7/8/6PP/6K1 b - - 2 40">Link</a> | Blitz |
 | **centrumek** | KAMZOTT | win 🥇 | 19/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R5/4Qkr1/p3R3/3pPp2/8/4P2P/P4K2/8 b - - 4 44">Link</a> | Blitz |
 | yousefra08 | **centrumek** | win 🥇 | 19/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/4pR2/1k1bP1pP/3P3r/2r5/7K w - - 2 44">Link</a> | Blitz |
-| Jcarb1 | **centrumek** | win 🥇 | 18/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/p1pR4/2B1kb1P/4p3/8/4n3/P1r5/2K4R w - - 1 30">Link</a> | Blitz |
-| **centrumek** | velineto5 | win 🥇 | 18/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1b5R/2p3p1/p1P1p1P1/P3N2k/8/4B3/2K5 b - - 0 36">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
