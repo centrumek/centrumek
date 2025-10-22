@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1048 | 1174 |
+| Current | 1000 | 1040 | 1174 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Fawzy000 | **centrumek** | abandoned  | 22/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b1r/1pk5/3p3p/1Q1p1p2/3Pn1p1/4P1P1/1B3PBP/2R3K1 b - - 1 26">Link</a> | Blitz |
 | mmad_7 | **centrumek** | win 🥇 | 21/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3k4/5p2/1P1P2p1/2B2b1p/1r3p1P/2RK1R2 w - - 2 41">Link</a> | Blitz |
 | **centrumek** | QueenWithHorseMove | abandoned  | 21/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5r1p/4K2p/8/8/8/8/6q1 w - - 0 56">Link</a> | Blitz |
 | emarkham5 | **centrumek** | checkmated ❌ | 21/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2R5/3p4/3P2p1/4Pn2/P5p1/2Q2PPP/3k1K2 b - - 5 40">Link</a> | Blitz |
 | **centrumek** | Pedra9010 | resigned ❌ | 21/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/q2K4/8/8/1k6/8 w - - 2 70">Link</a> | Blitz |
-| andreask0 | **centrumek** | checkmated ❌ | 21/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/4Rp2/P1p1kn1p/2B4P/2P2K2/2r5 b - - 0 45">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
