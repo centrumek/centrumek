@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1048 | 1182 |
+| Current | 1000 | 1040 | 1182 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Braziabdel | resigned ❌ | 24/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1q2rk1/1p3ppp/4pn2/P7/3p4/PQR5/2P3PP/5RK1 b - - 0 20">Link</a> | Blitz |
 | How-To-Chess1234 | **centrumek** | win 🥇 | 23/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/8/3r1p1p/k5p1/4R3/P5PP/6K1 w - f6 0 40">Link</a> | Blitz |
 | d4divi | **centrumek** | resigned ❌ | 23/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/p1p2ppp/8/1B6/5P2/7P/PRP2PP1/2Q3K1 b - - 2 23">Link</a> | Blitz |
 | spesialis_com | **centrumek** | win 🥇 | 23/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3p2k/np5p/5Rp1/P2b4/6P1/5KPP/3r4 w - - 3 35">Link</a> | Blitz |
 | **centrumek** | haha-4 | abandoned  | 23/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b4r/p2k1ppp/4pn2/2B5/P7/8/2PK1PPP/7q w - - 4 22">Link</a> | Bullet |
-| **centrumek** | bucky7800 | win 🥇 | 23/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/8/7K/8/5R2/8/8 b - - 10 58">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
