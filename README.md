@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1061 | 1182 |
+| Current | 1000 | 1069 | 1182 |
 | Best | 1132 | 1098 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Khaidar46 | win 🥇 | 26/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q1k2r/2p2ppp/p2b4/4p1B1/8/8/PPP2PPP/4RRK1 b k - 0 16">Link</a> | Blitz |
 | **centrumek** | ser5t | repetition ⏸️ | 26/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/1p6/1Pk5/P7/1K2b3/8/8 w - - 14 59">Link</a> | Blitz |
 | marek4298 | **centrumek** | win 🥇 | 26/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4pk2/2R4p/P3P1nP/8/6P1/3r2K1 w - - 1 41">Link</a> | Blitz |
 | Emidio1985 | **centrumek** | win 🥇 | 26/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/5k2/5p2/p7/1p6/1P4P1/P3r2q/2R2R1K w - - 0 42">Link</a> | Blitz |
 | ShikaPrika | **centrumek** | checkmated ❌ | 26/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkbnr/p2pp2p/n1p2p2/1p4pQ/3PP3/1B6/PPP2PPP/RNB1K1NR b KQkq - 3 6">Link</a> | Blitz |
-| **centrumek** | bikize | timeout ❌ | 26/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p2k1r1/6p1/3p1p2/3P1P2/8/5K2/8 w - - 0 44">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
