@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1121 | 1182 |
+| Current | 1000 | 1129 | 1182 |
 | Best | 1132 | 1129 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| alexakis17 | **centrumek** | win 🥇 | 28/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/1pk1PB2/2p4p/p4pp1/5p2/8/P5qr/2R1R1K1 w - - 2 29">Link</a> | Blitz |
 | **centrumek** | mayckonwill | checkmated ❌ | 28/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1p1b2pp/p3p3/3p4/PP1N4/2P3R1/5q2/R4K2 w - - 0 30">Link</a> | Blitz |
 | turm6436 | **centrumek** | win 🥇 | 28/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1r2/1b4b1/p6p/1p4pB/2pP4/2P3P1/P1N3qP/R2Q1RK1 w - - 0 23">Link</a> | Blitz |
 | **centrumek** | rvanhalle | win 🥇 | 28/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3p2k1/3R2p1/pP4K1/P1P5/5rP1/8 w - - 5 38">Link</a> | Blitz |
 | **centrumek** | PraveenNaik1432 | win 🥇 | 28/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/6pp/4p3/8/4N3/4P3/1r2N1PP/R3KR2 b Q - 6 25">Link</a> | Blitz |
-| **centrumek** | Krespo600 | checkmated ❌ | 28/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/3pn1pp/6n1/pP6/P1PNp3/4QpP1/3R1PqP/1N3R1K w - - 6 32">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
