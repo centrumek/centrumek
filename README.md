@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1137 | 1182 |
+| Current | 1000 | 1129 | 1182 |
 | Best | 1132 | 1145 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Manav_Mazedar | **centrumek** | checkmated ❌ | 29/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4b3/1N1pk3/3Qp2p/P3P3/2PP2P1/1P2q1PP/5RK1 b - - 3 29">Link</a> | Blitz |
 | **centrumek** | Eduard1day | timeout ❌ | 28/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/3K1k2/5PpP/8/8/8/1q6 w - - 0 52">Link</a> | Blitz |
 | Mr_Penguin_9000 | **centrumek** | win 🥇 | 28/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/Kp5p/p1p3p1/P2b2P1/1P1q3P/8/8 w - - 0 65">Link</a> | Blitz |
 | **centrumek** | phsep14 | win 🥇 | 28/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/3pn3/p1b1pp1p/1P6/1P2P3/3B1P2/2P1N1PP/R3K2R b KQkq - 0 19">Link</a> | Blitz |
 | **centrumek** | abc123450 | win 🥇 | 28/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1r1k1/5p1p/1p4pP/pP1p4/3P4/5P2/2PK4/R4R2 b - - 0 29">Link</a> | Blitz |
-| Torcida9 | **centrumek** | abandoned  | 28/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/8/5N2/6PP/3k3K/5P2/1PP2R2/8 b - - 2 50">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
