@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1194 | 1182 |
+| Current | 1000 | 1186 | 1182 |
 | Best | 1132 | 1220 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | NezafetShabani | abandoned  | 7/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k3p1/2P3p1/1p1K4/n5P1/6r1/8/8 w - - 3 34">Link</a> | Blitz |
 | dznights | **centrumek** | resigned ❌ | 6/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/P7/4R1K1/8/8/6k1 b - - 2 56">Link</a> | Blitz |
 | kmw24 | **centrumek** | checkmated ❌ | 6/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1bkr/2R3pp/4Q3/pp3R2/3P1B2/5P2/PP3PPP/6K1 b - - 0 19">Link</a> | Blitz |
 | MatiLuka | **centrumek** | resigned ❌ | 6/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6nr/4b1Q1/p1p4p/k1p1P3/1q6/5N2/PPP2PPP/R3R1K1 b - - 0 22">Link</a> | Daily |
 | **centrumek** | IlyaD777 | win 🥇 | 6/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/5p2/4p1p1/p1ppN1P1/2p1nP2/P7/2P4R/2KR4 b - - 1 33">Link</a> | Blitz |
-| hexadecimal08 | **centrumek** | timeout ❌ | 5/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k4/8/8/1p1KB1P1/3P4/PPP5/8 b - - 0 56">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
