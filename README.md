@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1203 | 1182 |
+| Current | 1000 | 1187 | 1182 |
 | Best | 1132 | 1220 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Atlas_Mnemosyne | **centrumek** | checkmated ❌ | 17/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Qk1/7p/p5p1/1pB5/2qP4/P3P1K1/6PP/8 b - - 0 36">Link</a> | Blitz |
+| **centrumek** | ChessImaak | abandoned  | 17/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/5p1p/5Pp1/1bq1p2P/2pn2P1/4p3/2Q1K1B1/8 w - - 2 31">Link</a> | Blitz |
 | Salalahline | **centrumek** | win 🥇 | 16/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/4k3/8/8/4K3/q7 w - - 0 59">Link</a> | Blitz |
 | Insignia5 | **centrumek** | resigned ❌ | 16/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5N2/p7/4b3/1p6/P2P3P/1P6/3R1R1K b - - 0 35">Link</a> | Blitz |
 | **centrumek** | Konstantin_Eding | resigned ❌ | 15/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p1p/p7/3b1k2/4p2P/4q1P1/7K/8 w - - 0 38">Link</a> | Blitz |
-| **centrumek** | timton781 | win 🥇 | 10/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pp1R1pp1/2p4p/1P2p3/2Q4P/P3r1P1/1BP1Pb2/2K4R w - - 0 22">Link</a> | Blitz |
-| urs1962 | **centrumek** | win 🥇 | 10/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/pp3ppp/8/1Nb5/3pPq2/3B4/PPP3PP/1K1R3R w - - 1 17">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
