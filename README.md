@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1179 | 1182 |
+| Current | 1000 | 1171 | 1182 |
 | Best | 1132 | 1220 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| ana_kalas | **centrumek** | timeout ❌ | 20/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4kB1/5P1p/3P4/8/7P/PP4PK/8 b - - 0 40">Link</a> | Blitz |
 | **centrumek** | faridamir141 | stalemate ⏸️ | 17/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6r1/5k1K/7P/8/8/8/8 w - - 1 70">Link</a> | Blitz |
 | HoundOCE | **centrumek** | resigned ❌ | 17/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/8/8/6k1/8/3Q4/1P6/3K4 b - - 0 60">Link</a> | Blitz |
 | Atlas_Mnemosyne | **centrumek** | checkmated ❌ | 17/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Qk1/7p/p5p1/1pB5/2qP4/P3P1K1/6PP/8 b - - 0 36">Link</a> | Blitz |
 | **centrumek** | ChessImaak | abandoned  | 17/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/5p1p/5Pp1/1bq1p2P/2pn2P1/4p3/2Q1K1B1/8 w - - 2 31">Link</a> | Blitz |
-| Salalahline | **centrumek** | win 🥇 | 16/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/4k3/8/8/4K3/q7 w - - 0 59">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
