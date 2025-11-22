@@ -57,7 +57,7 @@
 | ana_kalas | **centrumek** | timeout ❌ | 20/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4kB1/5P1p/3P4/8/7P/PP4PK/8 b - - 0 40">Link</a> | Blitz |
 | **centrumek** | faridamir141 | stalemate ⏸️ | 17/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6r1/5k1K/7P/8/8/8/8 w - - 1 70">Link</a> | Blitz |
 | HoundOCE | **centrumek** | resigned ❌ | 17/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/8/8/6k1/8/3Q4/1P6/3K4 b - - 0 60">Link</a> | Blitz |
-| Atlas_Mnemosyne | **centrumek** | checkmated ❌ | 17/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Qk1/7p/p5p1/1pB5/2qP4/P3P1K1/6PP/8 b - - 0 36">Link</a> | Blitz |
+| Shellerovich | **centrumek** | checkmated ❌ | 17/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Qk1/7p/p5p1/1pB5/2qP4/P3P1K1/6PP/8 b - - 0 36">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
