@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1164 | 1182 |
+| Current | 1000 | 1170 | 1182 |
 | Best | 1132 | 1220 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **centrumek** | Paisask86 | abandoned  | 21/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k1p/p3p1p1/3p2P1/1Pr5/P6P/4q1P1/7K w - - 0 33">Link</a> | Blitz |
-| ana_kalas | **centrumek** | timeout ❌ | 20/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4kB1/5P1p/3P4/8/7P/PP4PK/8 b - - 0 40">Link</a> | Blitz |
-| **centrumek** | faridamir141 | stalemate ⏸️ | 17/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6r1/5k1K/7P/8/8/8/8 w - - 1 70">Link</a> | Blitz |
-| HoundOCE | **centrumek** | resigned ❌ | 17/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/8/8/6k1/8/3Q4/1P6/3K4 b - - 0 60">Link</a> | Blitz |
-| Shellerovich | **centrumek** | checkmated ❌ | 17/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Qk1/7p/p5p1/1pB5/2qP4/P3P1K1/6PP/8 b - - 0 36">Link</a> | Blitz |
+| Lexx23 | **centrumek** | checkmated ❌ | 23/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k1r/1pp2QR1/p2p1p1b/4p3/4P3/K1P2P2/PP6/3q4 b - - 5 33">Link</a> | Blitz |
+| **centrumek** | EJM2208 | win 🥇 | 22/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1r/ppp2ppp/2n1p3/3pP3/3P1BPP/P1P5/1P2BP2/RN2K1NR b KQkq - 0 10">Link</a> | Blitz |
+| bsherrets | **centrumek** | stalemate ⏸️ | 22/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/3p4/2p2p2/5Pp1/6P1/1r3q2/7K w - - 0 55">Link</a> | Blitz |
+| khanske | **centrumek** | win 🥇 | 22/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1k2r/1p5p/7P/P5p1/1b1P4/1p2P3/2q5/2K5 w - - 0 41">Link</a> | Blitz |
+| **centrumek** | YBJackyCola | checkmated ❌ | 22/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2R2n1p/p5p1/Pb1p3P/1P2rK2/3r4/8/6R1 w - - 3 36">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
