@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1165 | 1182 |
+| Current | 1000 | 1157 | 1182 |
 | Best | 1132 | 1220 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Physioches | abandoned  | 7/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/p7/8/K1p5/7k/3p4/8/8 w - - 0 49">Link</a> | Blitz |
 | toppbers | **centrumek** | win 🥇 | 5/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6K1/6BP/1p6/2p5/2k5/8/8/7r w - - 1 50">Link</a> | Blitz |
 | **centrumek** | KLMAHMOOD | win 🥇 | 3/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3B4/R7/3k1Q2/8/8/2p1N3/P1P5/2K5 b - - 2 41">Link</a> | Blitz |
 | **centrumek** | Miftahudin18 | win 🥇 | 3/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/P7/8/8/8/6p1/6K1/4k3 b - - 0 51">Link</a> | Blitz |
 | LAMENT1981 | **centrumek** | timeout ❌ | 29/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/2N3k1/1P2R2P/6K1/P7/5r2 b - h3 0 48">Link</a> | Blitz |
-| themonster215 | **centrumek** | resigned ❌ | 29/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kbnr/pQp2pp1/3p3p/8/2bNP3/8/PP3PPP/RNB1K2R b KQkq - 0 9">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
