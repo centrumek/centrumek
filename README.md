@@ -53,11 +53,11 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| ZhouQM | **centrumek** | win 🥇 | 14/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/2p4R/1p1bp3/6k1/3P2p1/pN3pK1/P4P2/8 w - - 4 38">Link</a> | Blitz |
+| **centrumek** | hiepdethuongnhat | abandoned  | 14/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/pppn1pp1/4p3/4P3/2PP4/P3B1K1/2P5/r7 w - - 1 25">Link</a> | Blitz |
 | jdavison1 | **centrumek** | timeout ❌ | 13/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/Q2k4/Bp1p2b1/3P2P1/P1P5/KPq2r2/3R4 b - - 0 41">Link</a> | Blitz |
 | georgefromharvard2 | **centrumek** | checkmated ❌ | 13/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/8/5p2/Q3p3/P1P2r1k/3K4/1P3r1n/6R1 b - - 7 37">Link</a> | Blitz |
 | bbb021 | **centrumek** | resigned ❌ | 12/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6n1/p4r2/5rk1/1Q2N1pp/8/1P4P1/P4P1P/5RK1 b - - 4 30">Link</a> | Blitz |
-| **centrumek** | nanach148148 | win 🥇 | 12/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/7p/1K1k4/8/2P5/P5P1/8/8 b - - 0 50">Link</a> | Blitz |
-| **centrumek** | N0_worries | win 🥇 | 12/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q3k1/5ppp/4p3/3p4/8/4P3/1q1NKPPP/5R2 b - - 0 22">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
