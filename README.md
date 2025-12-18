@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1126 | 1182 |
+| Current | 1000 | 1117 | 1182 |
 | Best | 1132 | 1220 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| arri12345464635 | **centrumek** | win 🥇 | 17/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1r5/5p2/3b3p/3p1kp1/3B1n2/4Q3/PPP3PP/5RK1 w - - 2 28">Link</a> | Blitz |
+| **centrumek** | squinteiro2k | abandoned  | 17/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/6p1/pp6/2n4p/P6P/2P3P1/3qb2K/R3R3 w - - 0 25">Link</a> | Blitz |
+| utente-user | **centrumek** | checkmated ❌ | 17/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1bnr/1b1pk1p1/p1p4p/3BQ3/Np2P3/8/PPP2PPP/R1B1K2R b KQ - 0 13">Link</a> | Blitz |
 | **centrumek** | Fahim_Uzzaman | checkmated ❌ | 16/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/1pp1Rprp/p7/3B4/1P1P4/P1P4P/4Q2K/6q1 w - - 1 25">Link</a> | Blitz |
 | **centrumek** | EducatedMule | abandoned  | 16/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p3bpp1/3qp2p/3p4/3PbPP1/4P2P/PP1r1Q2/1K1R4 w - - 0 21">Link</a> | Blitz |
-| jalvaremalvar | **centrumek** | win 🥇 | 16/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/P7/rPkp4/6R1/5K2 w - - 2 61">Link</a> | Blitz |
-| Nebsteene | **centrumek** | win 🥇 | 16/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/8/1P6/2Bp4/3P4/2PQ4/6K1 w - - 1 74">Link</a> | Blitz |
-| **centrumek** | Sergiipwnz | checkmated ❌ | 16/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R3n1k1/7r/4p2K/4Pq1p/8/8/P6P/8 w - - 5 42">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
