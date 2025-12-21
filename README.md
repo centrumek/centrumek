@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1106 | 1182 |
+| Current | 1000 | 1114 | 1182 |
 | Best | 1132 | 1220 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| steve-jablawi | **centrumek** | win 🥇 | 20/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/7p/p1p5/P1P5/6rp/5q2/2K5 w - - 8 52">Link</a> | Blitz |
+| **centrumek** | VolodymyrLoz | win 🥇 | 20/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/3Q4/1pPk4/1P1p3p/3K3P/8 b - - 2 45">Link</a> | Blitz |
+| mfnada | **centrumek** | checkmated ❌ | 20/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1r2/1pQ5/5P1p/p1p3p1/2Pp4/1P1P3P/P5PB/5RK1 b - - 0 26">Link</a> | Blitz |
 | **centrumek** | pinku1991 | checkmated ❌ | 19/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pR3ppp/8/2qp4/2n5/P7/2Q3PP/4r2K w - - 0 28">Link</a> | Blitz |
 | Lockedintowrongcountry47 | **centrumek** | win 🥇 | 19/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k3r1/4P3/2p5/1pnp4/7p/2N1K2P/P5P1/8 w - - 0 36">Link</a> | Blitz |
-| **centrumek** | Anuragpandey77 | win 🥇 | 19/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4Q2/1r2pR1k/3p2p1/2pP4/2q1P2P/6P1/6K1 b - - 4 33">Link</a> | Blitz |
-| **centrumek** | dizzydizz2021 | resigned ❌ | 19/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pbp2pkp/1p2p1p1/1P2R3/1KPr1P2/2N3P1/6r1/8 w - - 2 30">Link</a> | Blitz |
-| gigigolo1 | **centrumek** | checkmated ❌ | 19/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6q1/1pQ5/2p1p1k1/2P2pQn/1P2pPp1/1R4Pp/4r3/R6K b - - 2 39">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
