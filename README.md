@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1091 | 1197 |
+| Current | 1000 | 1091 | 1228 |
 | Best | 1132 | 1220 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Stevan1979 | **centrumek** | timeout ❌ | 23/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1R3/1p3r2/1Q1p4/p2P1P2/P7/1P6/1P4PP/5RK1 b - - 2 28">Link</a> | Bullet |
-| **centrumek** | gabrielt182 | win 🥇 | 23/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/ppp2R2/3p4/3P4/6r1/2P2N2/PP3K2/2q5 b - - 8 35">Link</a> | Bullet |
-| Just_InTime | **centrumek** | win 🥇 | 23/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp6/nkp5/8/4p3/1PN1P3/PBPP4/R3Kqr1 w - - 0 26">Link</a> | Bullet |
-| PavelBalobanov1 | **centrumek** | win 🥇 | 23/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/p7/1p3k1p/2p2P2/7P/3P2Pp/PPP4K/R7 w - - 3 31">Link</a> | Bullet |
-| **centrumek** | Javers7 | win 🥇 | 23/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/R5pp/1p3p2/1k3K2/5B2/P5P1/7P/8 b - - 0 31">Link</a> | Bullet |
+| **centrumek** | Thorironi | abandoned  | 23/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1r3/pp5p/2r3b1/8/3KP2P/8/8/8 w - - 2 34">Link</a> | Bullet |
+| Nekosojo | **centrumek** | timevsinsufficient ⏸️ | 23/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/8/8/8/6Q1/6P1/2k1K3/8 w - - 1 64">Link</a> | Bullet |
+| Daniel2258 | **centrumek** | win 🥇 | 23/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kb1r/4n3/2p2q2/p4B1p/P2P4/1pN5/1P2QPPP/R1B2RK1 w kq - 3 21">Link</a> | Bullet |
+| **centrumek** | Fufu_M | win 🥇 | 23/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3knQ1p/4p1p1/3pP1q1/3P4/2P2K2/r4P2/5R2 b - - 7 38">Link</a> | Bullet |
+| DANnial12222 | **centrumek** | win 🥇 | 23/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1k5/K1p5/P1P5/2P1p1p1/8/5P1P/8 w - - 1 44">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
