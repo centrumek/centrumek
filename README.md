@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1091 | 1265 |
+| Current | 1000 | 1090 | 1265 |
 | Best | 1132 | 1220 | 1266 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Magnilex | **centrumek** | checkmated ❌ | 25/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k2R3/8/1K6/8/B7/8/8/8 b - - 22 55">Link</a> | Blitz |
+| ansknutt | **centrumek** | resigned ❌ | 25/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k6/p3Qp1p/2K2p2/8/8/PPP4P/8 b - - 0 34">Link</a> | Blitz |
+| sang-hyukha | **centrumek** | win 🥇 | 25/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/3R1pp1/7p/1r1p4/rn3P2/6P1/7P/3R2K1 w - - 0 31">Link</a> | Blitz |
+| **centrumek** | romanstrateg | win 🥇 | 25/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r4k/pp1p3Q/3P1p2/3n2q1/3N4/6P1/P3BPK1/7R b - - 0 26">Link</a> | Blitz |
 | **centrumek** | tiagenji | abandoned  | 24/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp4pp/5p2/1P2r3/P4K2/1N6/8/3q4 w - - 0 38">Link</a> | Blitz |
-| Sirjones99 | **centrumek** | win 🥇 | 24/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb4k/pp1pb2p/2p5/4P3/2Pr4/P2P4/1P2B2P/R2K3R w - - 0 21">Link</a> | Blitz |
-| **centrumek** | Covid-is-Weak | win 🥇 | 24/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/p5pp/3p1p2/3B1P2/3p4/PP1KbP1P/2R5/8 b - - 1 30">Link</a> | Blitz |
-| **centrumek** | CT990 | win 🥇 | 24/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5kp1/7p/5K2/5NPP/8/5P2/8 b - - 8 64">Link</a> | Blitz |
-| **centrumek** | yungogenius22 | win 🥇 | 24/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1Bp2k2/2P2p2/5p2/3KbP2/4R3/2P5/8 b - - 9 45">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
