@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1054 | 1303 |
+| Current | 1000 | 1062 | 1303 |
 | Best | 1132 | 1220 | 1303 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| SotPapasot | **centrumek** | abandoned  | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/pp3p2/2p4b/8/6NP/2P5/PK6/7R b - - 0 30">Link</a> | Blitz |
+| **centrumek** | davidpru | win 🥇 | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2R2/1pp3p1/p7/4N2p/qPPpP2P/P2P4/1Q4n1/2KR4 b - - 0 33">Link</a> | Blitz |
+| GoldJuio | **centrumek** | win 🥇 | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k1r/p2R4/1pp1Qp1p/4b3/2P5/5P1P/PP2B1Pq/5R1K w - - 6 26">Link</a> | Blitz |
 | **centrumek** | meliodas954 | win 🥇 | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/4p1k1/3b1p2/5BpP/1R4P1/r7/6K1 b - - 0 53">Link</a> | Blitz |
 | **centrumek** | Jokooooooooo | abandoned  | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/1pp2ppp/4p3/pP2Pq2/3P4/P5nP/1BP1QP2/RN3K1R w kq - 5 17">Link</a> | Blitz |
-| jch98 | **centrumek** | win 🥇 | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1qkb2/p1p5/3p1p1p/3QpN1r/4P1b1/N2PB3/PPP1nPP1/R4RK1 w - - 9 17">Link</a> | Blitz |
-| DfreshL | **centrumek** | win 🥇 | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/8/8/1pp2N2/1R5P/rp3pP1/5P2/6K1 w - - 0 43">Link</a> | Blitz |
-| mohamedads99 | **centrumek** | win 🥇 | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/1K1P2p1/pP2P3/P4Pq1/1P4P1/8/8 w - - 0 42">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
