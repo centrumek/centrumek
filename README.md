@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1072 | 1303 |
+| Current | 1000 | 1075 | 1303 |
 | Best | 1132 | 1220 | 1303 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **centrumek** | chess032025 | win 🥇 | 1/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6B1/8/1kp4p/7P/K7/8 b - - 0 50">Link</a> | Blitz |
-| **centrumek** | Flamby9 | win 🥇 | 1/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R1p3k1/2p4p/5bP1/4p3/P3P1P1/1P5P/2K5 b - - 0 28">Link</a> | Blitz |
-| Still91 | **centrumek** | timeout ❌ | 1/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/7R/2KP2P1/p2B4/8/8/3r4/8 b - - 2 46">Link</a> | Blitz |
-| **centrumek** | gpyacine | win 🥇 | 1/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1r/ppkb2pp/2p1p3/4Pn2/4N1PP/2P5/PP6/2KR1B1R b - - 0 22">Link</a> | Blitz |
-| Oleg270489 | **centrumek** | win 🥇 | 1/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/1bp5/3p1p2/1p2P3/4P3/3P4/1PP3P1/K1q5 w - - 0 26">Link</a> | Blitz |
+| 2012LebronJames | **centrumek** | abandoned  | 1/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5r1/2pk1p2/p2bnB2/1p6/4P3/8/PP3QPP/RN1R2NK b - - 0 23">Link</a> | Blitz |
+| **centrumek** | WadRodman | win 🥇 | 1/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bR1kN1/5pb1/2p1p1pp/2P1P1P1/1p6/1B5P/P4r2/1K6 b - - 3 28">Link</a> | Blitz |
+| **centrumek** | mardiNLee4747 | win 🥇 | 1/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4R/1pp5/p4Np1/8/8/5PK1/1r4PP/1b6 b - - 2 25">Link</a> | Blitz |
+| wingkingservice | **centrumek** | abandoned  | 1/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q2B1/pp2kQb1/2p4p/6p1/4p3/2N1BP2/PPP2P1P/R3K2R b KQ - 0 14">Link</a> | Blitz |
+| highway600 | **centrumek** | repetition ⏸️ | 1/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/3N1pb1/7p/p1p5/Pp3r2/1BqP2Q1/2PKR3/6R1 w - - 10 36">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
