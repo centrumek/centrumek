@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1078 | 1303 |
+| Current | 1000 | 1085 | 1303 |
 | Best | 1132 | 1220 | 1303 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **centrumek** | dubert123 | win 🥇 | 3/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=QR6/4kp1p/4p1p1/3pP3/r4P1P/4P1P1/4K3/8 b - - 0 35">Link</a> | Blitz |
-| jackyysker | **centrumek** | win 🥇 | 3/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3Q4/1k1p4/2pP4/1pP2pPp/1P2rK2/P2RB2q/8 w - - 6 50">Link</a> | Blitz |
-| **centrumek** | Moose281 | timeout ❌ | 3/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rr2/p4pk1/5q2/2p2P1p/6nP/8/P1B5/6RK w - - 2 37">Link</a> | Blitz |
-| ricooliveira | **centrumek** | win 🥇 | 3/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/nPp5/2Pp4/4p3/2K1k3/8/8 w - - 0 60">Link</a> | Blitz |
-| **centrumek** | Fmyasser | timeout ❌ | 3/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/3R2pp/2Q1P3/2K2P2/2q3PP/8/P7/8 w - - 15 48">Link</a> | Blitz |
+| **centrumek** | Mascot2024 | abandoned  | 3/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/6k1/4p1p1/4P1p1/3p4/8/2PK4/5q2 w - - 0 34">Link</a> | Blitz |
+| **centrumek** | nisibis47 | win 🥇 | 3/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/p5pp/1p6/3p4/2pN4/P7/2KN4/2R2q2 b - - 6 44">Link</a> | Blitz |
+| coronaplayer | **centrumek** | win 🥇 | 3/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/3pQ2p/3P1N2/8/5nPP/7K/5q2 w - - 5 43">Link</a> | Blitz |
+| masterThang | **centrumek** | win 🥇 | 3/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1bnr/ppp5/5p1p/5N2/3pn1P1/1PP5/PB2B1PP/RN3RK1 w - - 0 16">Link</a> | Blitz |
+| Runner011 | **centrumek** | abandoned  | 3/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbk2nr/ppp2Nb1/7p/6p1/4P3/2N5/PPP2PPP/R1B1KB1R b KQ - 0 8">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
