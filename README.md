@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1118 | 1303 |
+| Current | 1000 | 1110 | 1303 |
 | Best | 1132 | 1220 | 1303 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Aloomon | win 🥇 | 4/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/2n1b1p1/b5p1/p1Npp1P1/2P4P/3KQ1N1/PB4q1/4R3 b - - 0 32">Link</a> | Blitz |
+| Javierfdz83 | **centrumek** | timeout ❌ | 4/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6p1/P7/1R5P/2R1PN2/5PK1/2P3P1/4r2r b - - 0 42">Link</a> | Blitz |
+| james-axl | **centrumek** | checkmated ❌ | 4/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R7/2rk4/3Q2K1/1pP1p3/1P6/8/8 b - - 11 58">Link</a> | Blitz |
 | **centrumek** | T1mo1 | timeout ❌ | 3/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/3K1pp1/2r1p1k1/3bq3/8/8/8/8 w - - 0 45">Link</a> | Blitz |
 | OdenNumberOne | **centrumek** | abandoned  | 3/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/6p1/p6p/kp1B4/8/4P1P1/PPP4P/6K1 b - - 0 33">Link</a> | Blitz |
-| **centrumek** | Jabuya | win 🥇 | 3/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/p6p/5p2/k1BPp1p1/2K1P3/R4P2/6PP/8 b - - 3 44">Link</a> | Blitz |
-| **centrumek** | heisez97 | resigned ❌ | 3/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1k2/1p4bp/p3p1p1/2p1p3/P3P3/2P4P/1P5P/RNBK4 w - - 0 21">Link</a> | Blitz |
-| FosKi92 | **centrumek** | checkmated ❌ | 3/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Qk1b1r/4q1pp/1p2p3/3Pp3/4n3/P4N2/1P3PPP/2R2RK1 b - - 1 26">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
