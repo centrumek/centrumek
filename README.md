@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1140 | 1303 |
+| Current | 1000 | 1164 | 1303 |
 | Best | 1132 | 1220 | 1303 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| ramapanjisatrio | **centrumek** | win 🥇 | 5/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/6p1/R4p1p/1P1P1P1P/P2k2P1/1r6/K2n4 w - - 0 44">Link</a> | Blitz |
+| **centrumek** | Link8080 | win 🥇 | 5/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/b1Q3p1/6p1/p3q3/P2pN1Pp/5P1P/1P4K1/2R2R2 b - - 0 32">Link</a> | Blitz |
+| **centrumek** | Madarieta | win 🥇 | 5/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/p1Q1n1pp/1pp2pb1/3p4/1P6/2P1B1N1/P2N2PP/R4RK1 b - - 0 21">Link</a> | Blitz |
+| millord777 | **centrumek** | timevsinsufficient ⏸️ | 5/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6R1/8/8/6Pk/3B3P/4P3/8/6K1 w - - 3 53">Link</a> | Blitz |
 | shroomedyou | **centrumek** | win 🥇 | 5/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/Kr6/2k5/8/8 w - - 0 53">Link</a> | Blitz |
-| **centrumek** | Sage_Li | win 🥇 | 5/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k1R2/7Q/p7/Pp6/1P1P1P2/B7/5K2/8 b - - 4 59">Link</a> | Blitz |
-| **centrumek** | igordecaballogh | timevsinsufficient ⏸️ | 5/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5K1k/R6P/8/8/8/8 w - - 9 58">Link</a> | Blitz |
-| swa_360 | **centrumek** | win 🥇 | 5/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/5p2/3p2p1/N2P2P1/P2PKR1P/2r2P2/8/8 w - - 3 38">Link</a> | Blitz |
-| **centrumek** | pixie-tealeaf | win 🥇 | 5/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3Q1p2/4p1p1/kQ2P1P1/8/1K6/1P6/8 b - - 4 46">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
