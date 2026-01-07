@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1148 | 1303 |
+| Current | 1000 | 1147 | 1303 |
 | Best | 1132 | 1220 | 1303 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **centrumek** | wolvedean | abandoned  | 7/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/5p2/p3r3/1p1p2q1/8/2N5/P4P2/5RK1 w - - 0 29">Link</a> | Blitz |
-| **centrumek** | DracoDev | resigned ❌ | 7/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/1p1k1p2/p2p4/3R4/1P2q3/8/P4P2/4K3 w - - 0 30">Link</a> | Blitz |
-| ZeroDBlaze | **centrumek** | abandoned  | 7/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/7k/P6p/5Q2/7P/1P4PK/8 b - - 0 35">Link</a> | Blitz |
-| mategotta | **centrumek** | win 🥇 | 7/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3r1k/ppp3b1/4n2p/8/6Q1/8/PP1N1qPP/R1B2N1K b - - 1 20">Link</a> | Blitz |
-| moshongaming | **centrumek** | timeout ❌ | 7/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/2N4P/5kR1/2p1p3/pbP1Bp2/5P2/P1K2P2/8 b - - 6 45">Link</a> | Blitz |
+| **centrumek** | Baddy_Chris | win 🥇 | 7/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/1p3ppp/pqn1p3/3pP3/3P4/P1P1BN2/2Q2PPP/R3K2R b KQ - 0 13">Link</a> | Blitz |
+| Tobiboybong | **centrumek** | win 🥇 | 7/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1nr/ppp2ppp/8/3q4/1n1N4/8/PPP1NPPP/R2QKB1R w KQkq - 1 10">Link</a> | Blitz |
+| nirisa13 | **centrumek** | abandoned  | 7/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3r3p/p4N2/1p2p3/1n4kP/3PP3/PPP3P1/2KR3R b - - 5 26">Link</a> | Blitz |
+| **centrumek** | GOBIN1233 | win 🥇 | 7/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1P6/8/1R6/1K6/3k4/8/8 b - - 0 56">Link</a> | Blitz |
+| QuadrupleQuad | **centrumek** | abandoned  | 7/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6k1/4p2p/8/P3N1P1/1PP3P1/4RK2 b - - 1 38">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
