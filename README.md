@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1157 | 1303 |
+| Current | 1000 | 1150 | 1303 |
 | Best | 1132 | 1220 | 1303 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| KasaKisso | **centrumek** | insufficient ⏸️ | 8/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/8/8/8/8/8/8/6K1 w - - 0 58">Link</a> | Blitz |
+| **centrumek** | drobert1 | abandoned  | 7/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4qK2/3k4/8/8/8/8/8 w - - 0 55">Link</a> | Blitz |
 | razackaslam | **centrumek** | win 🥇 | 7/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/2r5/1Pk3K1/r7/8/6P1/8/8 w - - 0 50">Link</a> | Blitz |
 | **centrumek** | Baddy_Chris | win 🥇 | 7/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/1p3ppp/pqn1p3/3pP3/3P4/P1P1BN2/2Q2PPP/R3K2R b KQ - 0 13">Link</a> | Blitz |
 | Tobiboybong | **centrumek** | win 🥇 | 7/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1nr/ppp2ppp/8/3q4/1n1N4/8/PPP1NPPP/R2QKB1R w KQkq - 1 10">Link</a> | Blitz |
-| nirisa13 | **centrumek** | abandoned  | 7/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3r3p/p4N2/1p2p3/1n4kP/3PP3/PPP3P1/2KR3R b - - 5 26">Link</a> | Blitz |
-| **centrumek** | GOBIN1233 | win 🥇 | 7/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1P6/8/1R6/1K6/3k4/8/8 b - - 0 56">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
