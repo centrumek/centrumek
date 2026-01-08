@@ -53,11 +53,11 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | CRV914 | timeout ❌ | 8/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/6k1/4np2/3K4/6qq w - - 0 66">Link</a> | Blitz |
+| **centrumek** | YinYang3412 | win 🥇 | 8/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p5k/1p4Pr/3p1pR1/P1p1p3/2P1B3/2P5/5K2 b - - 0 42">Link</a> | Blitz |
 | dadunkey | **centrumek** | abandoned  | 8/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/R7/8/8/2k3P1/3p4/P2K3P/8 b - - 1 43">Link</a> | Blitz |
 | **centrumek** | Syahrir11 | abandoned  | 8/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/5P1p/2p1p1bP/4k3/8/8/4K3 w - - 0 48">Link</a> | Blitz |
 | **centrumek** | Pawowski | repetition ⏸️ | 8/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/1p1n2R1/3pNn2/3Pp3/1KP1b3/1P3r2/8/1r6 w - - 13 35">Link</a> | Blitz |
-| LORDHEEZZY | **centrumek** | win 🥇 | 8/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k3rB/1pp4p/3q4/p4p2/6p1/P3Pb2/1P3P1P/R3R1K1 w - - 0 23">Link</a> | Blitz |
-| KasaKisso | **centrumek** | insufficient ⏸️ | 8/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/8/8/8/8/8/8/6K1 w - - 0 58">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
