@@ -53,11 +53,11 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| nai549 | **centrumek** | abandoned  | 10/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/1R6/2n2B2/1pQ4p/p5p1/8/PP3PPP/R5K1 b - - 0 31">Link</a> | Blitz |
+| Astrochess-aditya_gupta | **centrumek** | win 🥇 | 10/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=K7/1q6/2k5/8/8/8/8/8 w - - 8 62">Link</a> | Blitz |
+| **centrumek** | jtartell | checkmated ❌ | 10/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6rk/5R2/p4P1p/P2p4/5b2/7r/5P2/B4R1K w - - 0 42">Link</a> | Blitz |
+| PEDROHCARVALHOR | **centrumek** | win 🥇 | 10/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k1r/2p2p1p/4p3/p3n1P1/4b3/1KP5/P6P/3B1R2 w - - 0 29">Link</a> | Blitz |
 | RobertCarlos7 | **centrumek** | win 🥇 | 10/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/8/1p1p3b/p1pPp3/P1P1P3/1PK2q2/8/2N5 w - - 2 45">Link</a> | Bullet |
-| **centrumek** | Katandszil | checkmated ❌ | 10/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/1p3pbp/p3p1p1/8/4nP2/1P4P1/P2q3P/2RK1R2 w - - 0 21">Link</a> | Bullet |
-| Hegoaiz | **centrumek** | win 🥇 | 10/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1K1k4/8/1q4r1/r7/8/8 w - - 0 53">Link</a> | Bullet |
-| **centrumek** | moes7Ro | win 🥇 | 10/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p1P2k1/p1p3P1/P1P2K2/1Pn5/8/8/8 b - - 0 41">Link</a> | Bullet |
-| endless843 | **centrumek** | win 🥇 | 10/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/6b1/p3p1b1/Pp6/1P1Pp1p1/1KP1n1P1/7r/1N3R2 w - - 0 35">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
