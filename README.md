@@ -53,11 +53,11 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| AJTINVESTMENT | **centrumek** | checkmated ❌ | 11/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/1Qp5/Bp4p1/5nb1/3P1p2/2P2P2/PP4P1/1K6 b - - 2 35">Link</a> | Blitz |
+| **centrumek** | Ehe57 | win 🥇 | 11/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3B2k1/p4p2/6p1/1pp5/8/2P5/P1b3PP/5RK1 b - - 0 29">Link</a> | Blitz |
 | **centrumek** | GovindaPandith | win 🥇 | 11/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pb1/7k/4pK2/8/8/8/7R b - - 5 54">Link</a> | Blitz |
 | **centrumek** | Arjunvihan | resigned ❌ | 11/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5r2/p5p1/1pk3P1/6K1/8/8 w - - 0 53">Link</a> | Blitz |
 | **centrumek** | Polyme | timevsinsufficient ⏸️ | 10/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1k6/8/7P/R6K/8 w - - 4 60">Link</a> | Blitz |
-| nai549 | **centrumek** | abandoned  | 10/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/1R6/2n2B2/1pQ4p/p5p1/8/PP3PPP/R5K1 b - - 0 31">Link</a> | Blitz |
-| Astrochess-aditya_gupta | **centrumek** | win 🥇 | 10/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=K7/1q6/2k5/8/8/8/8/8 w - - 8 62">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
