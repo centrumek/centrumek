@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1124 | 1317 |
+| Current | 1000 | 1108 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **centrumek** | deep_doer | abandoned  | 12/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2pbp/4p1p1/3q4/3P4/2PR4/PP3PPP/RN4K1 w - - 1 16">Link</a> | Blitz |
-| AboAmr10 | **centrumek** | abandoned  | 12/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/7P/6K1/8/8/8/2k5/8 b - - 0 63">Link</a> | Blitz |
-| **centrumek** | rudi508 | abandoned  | 12/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/pR2pp1p/1b1p1k2/7r/5K1P/8/8 w - - 1 43">Link</a> | Blitz |
-| Ilyas_Qasimli07 | **centrumek** | resigned ❌ | 12/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1nr/pp2b1pp/3p1p2/4N3/4P3/8/PPP2PPP/R1BQKB1R b KQkq - 0 9">Link</a> | Blitz |
-| **centrumek** | RezaGassab | abandoned  | 12/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2pk4/p1p5/P1Bn3p/2pPp1pP/8/3K4/8 w - - 0 33">Link</a> | Blitz |
+| **centrumek** | Speckrobs | checkmated ❌ | 13/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p1q4p/b3p1p1/3p4/3P1P2/2N1P1b1/P1PB4/R2QK2R w KQ - 1 19">Link</a> | Blitz |
+| diplotator | **centrumek** | timeout ❌ | 13/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6p1/5p1p/4pPkP/4K1P1/1r6/6R1 b - - 5 59">Link</a> | Blitz |
+| **centrumek** | Pratap20 | win 🥇 | 13/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Rk3/p3nNp1/2p1Ppp1/5n2/7r/8/PPP5/2K5 b - - 1 27">Link</a> | Blitz |
+| Mendolucio1 | **centrumek** | checkmated ❌ | 13/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2R2/pp6/2pK4/4P3/3b3p/2P5/3r4/8 b - - 1 43">Link</a> | Blitz |
+| **centrumek** | kutangputih | win 🥇 | 13/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6PK/4k3/8/8/7p/7R b - - 0 54">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
