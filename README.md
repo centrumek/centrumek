@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1091 | 1317 |
+| Current | 1000 | 1083 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **centrumek** | khalid11a12 | win 🥇 | 16/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3k1Q/R4p2/4p3/3p4/8/4P2P/2b2PP1/6K1 b - - 7 37">Link</a> | Blitz |
-| **centrumek** | bbb021 | checkmated ❌ | 16/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn4k1/pbpp4/1p2p1p1/6Np/PP6/8/2PQB1rP/q1KR2R1 w - - 1 21">Link</a> | Blitz |
-| **centrumek** | Dlgl75 | win 🥇 | 15/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4k3/8/3KP3/5pB1/8/8/8 b - - 0 65">Link</a> | Blitz |
-| Bulgarman | **centrumek** | win 🥇 | 15/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/R7/1p1p3p/3P2p1/2Pb1p2/1B5P/PP3P2/4r1K1 w - - 0 25">Link</a> | Blitz |
-| **centrumek** | Truckis27 | win 🥇 | 14/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rr2k1/5p2/pQ4p1/3P2P1/8/P1N1K3/1RP1N2q/8 b - - 2 41">Link</a> | Blitz |
+| ibadal | **centrumek** | insufficient ⏸️ | 16/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/6N1/7K/8/8/8/8 b - - 0 70">Link</a> | Blitz |
+| DamienDavout | **centrumek** | win 🥇 | 16/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q1rK4/8/5p2/4r1k1/3R4/8/8/8 w - - 5 63">Link</a> | Blitz |
+| **centrumek** | winsomelosesome78 | abandoned  | 16/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/bpp2ppp/p7/P2p4/8/3BrP2/7P/3K3R w - - 1 27">Link</a> | Blitz |
+| WaJaxD | **centrumek** | timeout ❌ | 16/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b5/5k2/2PK1P2/8/8/8/p7/B7 b - - 2 58">Link</a> | Blitz |
+| **centrumek** | johnar0 | win 🥇 | 16/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2r1k/pp2p2Q/2p1Pp2/3q2Np/3P2bP/P3P3/1P4P1/R1B2RK1 b - - 2 21">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
