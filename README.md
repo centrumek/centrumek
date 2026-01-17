@@ -53,11 +53,11 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ivanprorab18 | **centrumek** | checkmated ❌ | 16/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6nr/7p/2p2p2/1p2kQp1/2b1P3/q7/P2R1P1P/4K2R b K - 3 28">Link</a> | Blitz |
-| **centrumek** | Lachim_11 | abandoned  | 16/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/p1pp2pp/1p2p3/4P1Q1/6P1/P1N2n2/1PP2P1P/R1B1K2R w KQkq - 3 15">Link</a> | Blitz |
-| ibadal | **centrumek** | insufficient ⏸️ | 16/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/6N1/7K/8/8/8/8 b - - 0 70">Link</a> | Blitz |
-| DamienDavout | **centrumek** | win 🥇 | 16/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q1rK4/8/5p2/4r1k1/3R4/8/8/8 w - - 5 63">Link</a> | Blitz |
-| **centrumek** | winsomelosesome78 | abandoned  | 16/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/bpp2ppp/p7/P2p4/8/3BrP2/7P/3K3R w - - 1 27">Link</a> | Blitz |
+| TitoAstrit | **centrumek** | checkmated ❌ | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/1p4Q1/r1pRp2n/8/8/1P4PP/1BP2PB1/1K5R b - - 0 24">Link</a> | Blitz |
+| **centrumek** | DonkeyLlama | abandoned  | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k2/pp3p2/2p1p3/3pP3/3P4/2N3K1/Pr6/8 w - - 0 24">Link</a> | Blitz |
+| **centrumek** | bolaAwodeyi | insufficient ⏸️ | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1K6/8/7k/8/8/8/8 b - - 0 59">Link</a> | Blitz |
+| faraz-uk | **centrumek** | win 🥇 | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2r2/8/p4p2/1pP2Pb1/1PB5/P5pP/3p4/3R2K1 w - b6 0 42">Link</a> | Blitz |
+| **centrumek** | amanorigano | win 🥇 | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp2pp1p/4b1p1/8/8/2N5/PPrB3P/R4RK1 b - - 0 22">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
