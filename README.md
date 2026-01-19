@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1044 | 1317 |
+| Current | 1000 | 1018 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **centrumek** | mrcookie00 | abandoned  | 18/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1">Link</a> | Blitz |
-| hindMATH | **centrumek** | abandoned  | 18/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/kp6/p7/8/4Br2/3P2R1/PP5P/1K5R b - - 6 39">Link</a> | Blitz |
-| **centrumek** | Tatovela | win 🥇 | 18/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/1p1b2k1/p1p1p3/6Q1/1P1P4/2PB4/P7/2K2R2 b - - 0 31">Link</a> | Blitz |
-| **centrumek** | alfio1234 | checkmated ❌ | 18/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rr2/2k1K2p/1pp3pb/p4b2/2Pn4/1P1N3P/P4PP1/3R1B1R w - - 3 28">Link</a> | Blitz |
-| **centrumek** | nguyen-ngoc-trung | abandoned  | 18/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/ppp2p1p/3p4/1P2p3/P1BnP3/2KP4/2q5/8 w - - 0 22">Link</a> | Blitz |
+| thanhtruc923 | **centrumek** | checkmated ❌ | 19/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/pp2np2/2np1N1p/2p3p1/4P3/5B2/PPP2PPP/R1BQ1RK1 b kq - 3 11">Link</a> | Blitz |
+| **centrumek** | veitorstein | abandoned  | 19/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1">Link</a> | Blitz |
+| **centrumek** | jas8331 | timevsinsufficient ⏸️ | 19/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4k1K1/8/5q2/1p6/8/8/8 b - - 8 61">Link</a> | Blitz |
+| **centrumek** | Raraoul | win 🥇 | 19/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q2k1/p4ppp/1p1bp3/1P6/2p1Q2P/P1P1P1P1/5P2/2BR1RK1 b - - 1 27">Link</a> | Blitz |
+| Udin_Jingkrak | **centrumek** | abandoned  | 19/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/ppp2ppp/5n2/4Qb2/2Pn4/3P4/PP3PPP/RNB1KB1R b KQkq - 0 9">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
