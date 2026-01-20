@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1000 | 1317 |
+| Current | 1000 | 1024 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Jaypee2009 | **centrumek** | win 🥇 | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/8/5bp1/p3p2p/4p2P/3nP1B1/1r3PPK/3q4 w - - 0 38">Link</a> | Blitz |
+| muzahim-tang | **centrumek** | win 🥇 | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3rk/1p1q1p1p/3p1bp1/p1n1p3/8/2PBBQ1P/PP3PP1/1R1R2K1 w - - 2 28">Link</a> | Blitz |
+| **centrumek** | ariodillahII | win 🥇 | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/P4p2/K3p1p1/1Q2P1P1/3q1P2/8/8/8 b - - 2 51">Link</a> | Blitz |
 | **centrumek** | seocalan | win 🥇 | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1n6/Q7/kP6/2P5/2K5/8/8 b - - 1 51">Link</a> | Blitz |
 | Cecre73 | **centrumek** | timeout ❌ | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/3Q4/8/1K5B/P3k3/6P1/8/8 b - - 0 63">Link</a> | Blitz |
-| Magedraslan10 | **centrumek** | win 🥇 | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/1ppbb2p/p1np2p1/4p3/2B3P1/2PP1N1P/PP3P2/R1B1K2R w KQ - 1 14">Link</a> | Blitz |
-| **centrumek** | uzairrafzall | win 🥇 | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1R6/8/K7/1P6/2Pk4/8/8 b - b3 0 58">Link</a> | Blitz |
-| OctaneTW | **centrumek** | win 🥇 | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6R/pb4k1/6B1/1p4p1/3P1q2/1pP5/PP3P2/1K6 w - - 2 29">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
