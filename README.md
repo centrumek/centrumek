@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1024 | 1317 |
+| Current | 1000 | 1034 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Jaypee2009 | **centrumek** | win 🥇 | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/8/5bp1/p3p2p/4p2P/3nP1B1/1r3PPK/3q4 w - - 0 38">Link</a> | Blitz |
-| muzahim-tang | **centrumek** | win 🥇 | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3rk/1p1q1p1p/3p1bp1/p1n1p3/8/2PBBQ1P/PP3PP1/1R1R2K1 w - - 2 28">Link</a> | Blitz |
-| **centrumek** | ariodillahII | win 🥇 | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/P4p2/K3p1p1/1Q2P1P1/3q1P2/8/8/8 b - - 2 51">Link</a> | Blitz |
-| **centrumek** | seocalan | win 🥇 | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1n6/Q7/kP6/2P5/2K5/8/8 b - - 1 51">Link</a> | Blitz |
-| Cecre73 | **centrumek** | timeout ❌ | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/3Q4/8/1K5B/P3k3/6P1/8/8 b - - 0 63">Link</a> | Blitz |
+| **centrumek** | SeeYouu03 | abandoned  | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/2k5/2n5/8/4K3/1q6 w - - 0 57">Link</a> | Blitz |
+| chrism72 | **centrumek** | win 🥇 | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/2P2P2/3K4/2N5/7P/8/5p2/8 w - - 0 67">Link</a> | Blitz |
+| Harb24 | **centrumek** | win 🥇 | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/p5pp/1pk5/2n5/5R2/8/PPP1n2P/1K1r4 w - - 0 29">Link</a> | Blitz |
+| **centrumek** | CVILLELA77 | timeout ❌ | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3p2pk/6pp/2p2n2/p1q5/8/1R4KP/8 w - - 0 39">Link</a> | Blitz |
+| nawaf-78 | **centrumek** | win 🥇 | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kbnr/1rp2ppp/2q5/3pp3/4n3/4P3/PPPPNPPP/RNB2RK1 w k - 0 12">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
