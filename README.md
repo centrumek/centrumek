@@ -53,11 +53,11 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| taharojover | **centrumek** | abandoned  | 21/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/8/7p/6p1/2k2p2/5P1P/3p2PK/3R4 b - - 1 47">Link</a> | Blitz |
+| **centrumek** | pavelds | win 🥇 | 21/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/1p4pk/p3Bp1p/2rPb3/1P6/2Pb1R2/1BR3PP/6K1 w - - 7 31">Link</a> | Blitz |
 | **centrumek** | SeeYouu03 | abandoned  | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/2k5/2n5/8/4K3/1q6 w - - 0 57">Link</a> | Blitz |
 | chrism72 | **centrumek** | win 🥇 | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/2P2P2/3K4/2N5/7P/8/5p2/8 w - - 0 67">Link</a> | Blitz |
 | Harb24 | **centrumek** | win 🥇 | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/p5pp/1pk5/2n5/5R2/8/PPP1n2P/1K1r4 w - - 0 29">Link</a> | Blitz |
-| **centrumek** | CVILLELA77 | timeout ❌ | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3p2pk/6pp/2p2n2/p1q5/8/1R4KP/8 w - - 0 39">Link</a> | Blitz |
-| nawaf-78 | **centrumek** | win 🥇 | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kbnr/1rp2ppp/2q5/3pp3/4n3/4P3/PPPPNPPP/RNB2RK1 w k - 0 12">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
