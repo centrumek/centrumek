@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1045 | 1317 |
+| Current | 1000 | 1041 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | kumar959 | repetition ⏸️ | 23/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6K1/r6P/8/6k1/8/8/8/8 b - - 8 72">Link</a> | Blitz |
+| **centrumek** | DelightedToMateYou | timeout ❌ | 23/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4R3/2NP4/pPk5/P4P2/r4KP1/8/8 w - - 1 66">Link</a> | Blitz |
+| **centrumek** | Lalorman | win 🥇 | 23/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3B4/8/8/1k6/8/1R4P1/2Q5/3BK3 b - - 14 61">Link</a> | Blitz |
+| pakololo | **centrumek** | abandoned  | 23/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/8/ppk5/4B2p/1P2P3/P3b1P1/4P1KP/8 b - - 0 33">Link</a> | Blitz |
 | **centrumek** | SuperKingGambit | timevsinsufficient ⏸️ | 23/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5p1k/5K2/8/8/8 b - - 1 63">Link</a> | Blitz |
-| Rexy_017 | **centrumek** | win 🥇 | 23/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rr1/8/1Qbkp3/2p5/3p4/3q1P1P/P5P1/5RK1 b - - 0 34">Link</a> | Blitz |
-| **centrumek** | Black_Sp1r1t | win 🥇 | 23/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rb2/1pk2ppp/3p4/1P6/2P1n3/4PP2/6PP/R1B2RK1 b - - 0 21">Link</a> | Blitz |
-| Crimson_Rooster | **centrumek** | abandoned  | 22/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/1R6/2R5/3P4/3KP3/8/8/8 b - - 0 39">Link</a> | Blitz |
-| **centrumek** | King_Khan2 | win 🥇 | 22/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/6Qp/n3p3/5p2/3P4/P1p1PB2/2P1KP2/R1B3R1 b - - 0 21">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
