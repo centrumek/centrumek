@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1072 | 1317 |
+| Current | 1000 | 1064 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| pawelwojcik3325 | **centrumek** | win 🥇 | 26/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/2k5/2pppK2/1p3b2/1P1r4/1B6/8 w - - 2 43">Link</a> | Blitz |
+| **centrumek** | Persifaly | timeout ❌ | 26/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/8/2k3P1/6KP/4n3/8/8 w - - 3 61">Link</a> | Blitz |
+| **centrumek** | aco4 | checkmated ❌ | 26/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p2k3p/3p2p1/3p4/1P1Kn3/3q4/P2r4/2R5 w - - 0 39">Link</a> | Blitz |
 | sundarc | **centrumek** | abandoned  | 26/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/3p1R2/2p1p3/2Q1P3/4N1PR/1P4P1/7K b - - 0 44">Link</a> | Blitz |
 | **centrumek** | bassamN1999 | win 🥇 | 26/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1RQ5/p2k2pp/3Bp3/4P3/4rp2/6P1/7P/2R3K1 b - - 0 36">Link</a> | Blitz |
-| NightMaste95 | **centrumek** | win 🥇 | 26/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/2k5/Kp6/r7/8 w - - 4 70">Link</a> | Blitz |
-| Borrma1 | **centrumek** | checkmated ❌ | 25/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R1kr4/5R2/3p4/2pPp3/2P2r2/1P6/P5K1/8 b - - 6 36">Link</a> | Blitz |
-| blacksdefense | **centrumek** | checkmated ❌ | 25/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k5n1/1Q6/n5b1/2P4p/pP2BPpP/P1q1P3/3N1P2/1KR3NR b - - 0 46">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
