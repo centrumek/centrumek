@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1064 | 1317 |
+| Current | 1000 | 1072 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **centrumek** | blakewebber | stalemate ⏸️ | 26/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/7k/7p/7K w - - 2 70">Link</a> | Blitz |
-| pawelwojcik3325 | **centrumek** | win 🥇 | 26/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/2k5/2pppK2/1p3b2/1P1r4/1B6/8 w - - 2 43">Link</a> | Blitz |
-| **centrumek** | Persifaly | timeout ❌ | 26/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/8/2k3P1/6KP/4n3/8/8 w - - 3 61">Link</a> | Blitz |
-| **centrumek** | aco4 | checkmated ❌ | 26/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p2k3p/3p2p1/3p4/1P1Kn3/3q4/P2r4/2R5 w - - 0 39">Link</a> | Blitz |
-| sundarc | **centrumek** | abandoned  | 26/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/3p1R2/2p1p3/2Q1P3/4N1PR/1P4P1/7K b - - 0 44">Link</a> | Blitz |
+| **centrumek** | sunny214 | win 🥇 | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3pRkp1/3B4/2P1P2K/8/8/6r1 b - - 4 59">Link</a> | Blitz |
+| **centrumek** | abidEPS91 | abandoned  | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp3pp1/2k1p3/6P1/4p3/2bbB3/P3KPr1/8 w - - 0 29">Link</a> | Blitz |
+| psikma | **centrumek** | win 🥇 | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kr2/p2bp2p/2n3p1/3q1p2/3PpP2/1PP5/PB4PP/R3K2R w KQq - 0 18">Link</a> | Blitz |
+| **centrumek** | HACKING404 | abandoned  | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rr1k1/pp3ppp/8/2p5/K3q3/1P5P/Pn5P/Q2R4 w - - 2 23">Link</a> | Blitz |
+| Menyus99 | **centrumek** | win 🥇 | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/5k2/6p1/1p6/1P2P2P/P4PPB/2q3K1 w - - 0 37">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
