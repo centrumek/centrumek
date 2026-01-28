@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1075 | 1317 |
+| Current | 1000 | 1083 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | joj0starbuck | win 🥇 | 28/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2Q2p2/2Pp2p1/7p/P7/2P2P2/6PK/2r5 b - - 0 38">Link</a> | Blitz |
 | nawaf-78 | **centrumek** | abandoned  | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1B6/6k1/7p/8/P1P5/4P2P/5PP1/6K1 b - - 0 35">Link</a> | Blitz |
 | **centrumek** | FaisalSalam | checkmated ❌ | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/p1p2p1p/8/5Kp1/2Q1n3/P1P2q2/1BP4P/R7 w - - 2 25">Link</a> | Blitz |
 | christianmgrande | **centrumek** | win 🥇 | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/8/p6p/P2p2r1/1B1Pp3/5q2/1P5P/R5K1 w - - 4 32">Link</a> | Blitz |
 | **centrumek** | Nipechess | checkmated ❌ | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/5pbp/6p1/pp5P/1p6/1P1p1Q2/P1q2P1P/1K1R3R w - - 2 27">Link</a> | Blitz |
-| **centrumek** | ali4477 | win 🥇 | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1r2/p5p1/4p3/1pp5/6p1/3P4/PP2K3/RNR5 b - - 0 30">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
