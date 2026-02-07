@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1029 | 1317 |
+| Current | 1000 | 1037 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| khxry | **centrumek** | win 🥇 | 7/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1b1r/1p5p/p2p2p1/1P1p4/Q7/2Pp4/P2P1PPP/R1B1q1KR w - - 3 19">Link</a> | Blitz |
 | **centrumek** | DrH2H | checkmated ❌ | 4/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/5bk1/7p/7K w - - 2 61">Link</a> | Blitz |
 | vioCS | **centrumek** | abandoned  | 2/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/8/1k3p2/1PpB2pp/p7/P3P1P1/1P5P/R3K2R b KQ - 0 28">Link</a> | Blitz |
 | subliminal35 | **centrumek** | win 🥇 | 2/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4P3/2n5/8/p7/3K4/1kq5 w - - 0 62">Link</a> | Blitz |
 | **centrumek** | MaeligLRSY | abandoned  | 2/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1pkb1pp/1p2p3/1R4p1/2P5/1P4PK/P2r3P/8 w - - 0 32">Link</a> | Blitz |
-| OpGladius | **centrumek** | win 🥇 | 2/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/pp3p1p/2pp2p1/8/P3r3/KP1R4/8/q7 w - - 7 39">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
