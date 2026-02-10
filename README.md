@@ -53,11 +53,11 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| charliechess805 | **centrumek** | insufficient ⏸️ | 10/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2k5/8/8/K7/8/8 w - - 0 52">Link</a> | Blitz |
 | GBR2024 | **centrumek** | win 🥇 | 8/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1p2r2/1p6/8/3K2q1/2P5/PP3k2/8 w - - 0 43">Link</a> | Blitz |
 | **centrumek** | winningyouu | win 🥇 | 8/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4K3/2Q5/3Q4/6B1/8/2k5/8/8 b - - 12 81">Link</a> | Blitz |
 | **centrumek** | vivscr | checkmated ❌ | 7/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp2ppp/2nbp1b1/1P6/Q5P1/2N4P/P2P1P1q/R1B2RK1 w kq - 1 16">Link</a> | Blitz |
 | khxry | **centrumek** | win 🥇 | 7/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1b1r/1p5p/p2p2p1/1P1p4/Q7/2Pp4/P2P1PPP/R1B1q1KR w - - 3 19">Link</a> | Blitz |
-| **centrumek** | DrH2H | checkmated ❌ | 4/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/5bk1/7p/7K w - - 2 61">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
