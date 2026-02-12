@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1062 | 1317 |
+| Current | 1000 | 1056 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| donotbullymee | **centrumek** | checkmated ❌ | 11/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/5K2/6Q1/7k b - - 16 78">Link</a> | Blitz |
 | FilipinoBoyfriend | **centrumek** | 50move  | 11/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3rk3/8/1R3K2/8/8/8/8 w - - 100 100">Link</a> | Blitz |
 | muhammadardie | **centrumek** | stalemate ⏸️ | 11/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/6R1/5B2/5p2/5P1P/6K1/6P1/8 b - - 4 43">Link</a> | Blitz |
 | **centrumek** | SeanRoc | win 🥇 | 11/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/5pp1/8/RQ1p4/3N4/P4P2/1KP5/6q1 b - - 4 45">Link</a> | Blitz |
 | **centrumek** | Negmawy | win 🥇 | 11/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/p4pPp/8/1B1b2P1/5R2/7K/8/8 b - - 0 36">Link</a> | Blitz |
-| charliechess805 | **centrumek** | insufficient ⏸️ | 10/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2k5/8/8/K7/8/8 w - - 0 52">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
