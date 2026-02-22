@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1004 | 1317 |
+| Current | 1000 | 996 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Lupara_Chess | **centrumek** | resigned ❌ | 22/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/1k6/1P6/4RPKP/1P6/6P1/8 b - - 0 41">Link</a> | Blitz |
 | FrancoBaez29 | **centrumek** | checkmated ❌ | 22/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1b6/1P3K2/8/8/6Qk/5B2/8/8 b - - 4 73">Link</a> | Blitz |
 | **centrumek** | DIESEL_pl | win 🥇 | 22/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/2q5/7K/8/4Q1R1/4k3 b - - 15 59">Link</a> | Blitz |
 | **centrumek** | RajaGReddy | abandoned  | 21/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/1p6/1Pk2pp1/8/4K3/8/8 w - - 1 53">Link</a> | Blitz |
 | lacahc | **centrumek** | timeout ❌ | 21/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6R1/8/3p1k2/2pPp3/p1P5/P4Q1K/5P2/R7 b - - 0 33">Link</a> | Blitz |
-| NTalwar2010 | **centrumek** | checkmated ❌ | 21/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R5k1/8/3p2KP/6P1/7r/4p3/8/8 b - - 5 53">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
