@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 986 | 1317 |
+| Current | 1000 | 964 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| haska9 | **centrumek** | checkmated ❌ | 24/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rkr2/1p4Q1/2p1R3/p5p1/8/8/PP3PPP/6K1 b - - 0 25">Link</a> | Blitz |
+| GreatKnightJ | **centrumek** | abandoned  | 24/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/pp1k1P2/2pN2p1/3pQ3/4b3/6P1/PPP2K2/8 b - - 0 30">Link</a> | Blitz |
+| **centrumek** | RodriMan | resigned ❌ | 24/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kbnr/1pqbpnpp/p7/2p3N1/4P3/8/PPPP1PPP/RNB1K2R w KQkq - 0 8">Link</a> | Blitz |
 | kabal1998 | **centrumek** | checkmated ❌ | 22/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k3n1/2Qp3r/p1pP3p/B4Np1/5p2/8/PPP3PP/6K1 b - - 3 31">Link</a> | Blitz |
 | **centrumek** | Typtrip | win 🥇 | 22/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3kqb2/1R5Q/p2p1p2/p1pPpP2/P1P2p2/1P1N1P2/4K3/8 b - - 10 39">Link</a> | Blitz |
-| **centrumek** | LowEloJoe | insufficient ⏸️ | 22/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5K2/8/7k/n7/8/8/8 w - - 0 58">Link</a> | Blitz |
-| karam88889 | **centrumek** | win 🥇 | 22/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pppb1k2/6p1/1n2p1B1/4P3/P1P5/P5PP/2K3NR w - - 0 19">Link</a> | Blitz |
-| **centrumek** | alternariaa | checkmated ❌ | 22/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p6p/6p1/5P2/P2b4/5q1P/4r3/5K2 w - - 0 46">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
