@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 973 | 1317 |
+| Current | 1000 | 965 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | arg_king_queen | timeout ❌ | 25/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/ppk5/2p5/2Pp2rp/8/8/PP3K2/8 w - - 0 39">Link</a> | Blitz |
 | qpearls | **centrumek** | abandoned  | 24/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/p4n2/3p3p/1p3Np1/2pB4/2P5/PPBQ1PPP/2K5 b - - 1 27">Link</a> | Blitz |
 | **centrumek** | royalCchess | win 🥇 | 24/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k1R5/8/KP6/8/8/5b1p/7B/8 b - - 14 58">Link</a> | Blitz |
 | haska9 | **centrumek** | checkmated ❌ | 24/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rkr2/1p4Q1/2p1R3/p5p1/8/8/PP3PPP/6K1 b - - 0 25">Link</a> | Blitz |
 | GreatKnightJ | **centrumek** | abandoned  | 24/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/pp1k1P2/2pN2p1/3pQ3/4b3/6P1/PPP2K2/8 b - - 0 30">Link</a> | Blitz |
-| **centrumek** | RodriMan | resigned ❌ | 24/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kbnr/1pqbpnpp/p7/2p3N1/4P3/8/PPPP1PPP/RNB1K2R w KQkq - 0 8">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
