@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 989 | 1317 |
+| Current | 1000 | 998 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | OlegT1982 | abandoned  | 10/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/4P1p1/4Kp2/1r5p/7P/8/1p6/8 w - - 2 43">Link</a> | Blitz |
+| k-unal | **centrumek** | win 🥇 | 10/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/7p/7P/6qK/5k2/8 w - - 2 66">Link</a> | Blitz |
+| Sukunaplays_chess | **centrumek** | win 🥇 | 10/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2br1/ppr3pp/4q3/4B3/3Pp3/4P3/1P3PPP/5RK1 w - - 0 20">Link</a> | Blitz |
 | BrendizaH04 | **centrumek** | win 🥇 | 9/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/3b2b1/Q7/8/8/6P1/PPP2P2/1K2r3 w - - 1 30">Link</a> | Blitz |
 | **centrumek** | thilakreddyyy | win 🥇 | 9/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Qk/2p4p/pp3NpB/8/5p2/8/PPP2P1P/3R1K1R b - - 0 24">Link</a> | Blitz |
-| **centrumek** | lucasezequiellk | win 🥇 | 9/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1R3R2/7k/N7/8/5P2/4K1P1/8 b - - 0 47">Link</a> | Blitz |
-| cheesekung1 | **centrumek** | win 🥇 | 9/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kbnr/pppp1Npp/8/8/4q3/5n2/PPPPBP1P/RNBQKR2 w Qkq - 2 8">Link</a> | Blitz |
-| **centrumek** | Jerems57 | timeout ❌ | 9/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4k3/R2pBp2/2b2P2/P3P3/5K2/2R5 w - - 2 41">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
