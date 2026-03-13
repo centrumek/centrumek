@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1006 | 1317 |
+| Current | 1000 | 1014 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| FinesRock | **centrumek** | timeout ❌ | 13/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/2p5/2k4R/2b2r2/P5p1/7p/4K3 b - - 5 51">Link</a> | Blitz |
+| **centrumek** | arib2626 | win 🥇 | 13/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k2r4/8/1R6/Q5P1/5PK1/8/8/8 b - - 12 61">Link</a> | Blitz |
+| jemiller2012 | **centrumek** | win 🥇 | 13/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4pk1/1p6/2p3q1/2Ppr1b1/P2QP1P1/1P1K3P/4RR2 w - - 1 37">Link</a> | Blitz |
 | **centrumek** | holoc1ustneverhappened | win 🥇 | 11/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/3q2p1/2p2Q2/3p1p2/1p2p3/1P2P2P/P1P2P2/R3K1R1 b Q - 0 23">Link</a> | Blitz |
 | **centrumek** | CosmicCrownConqueror | timeout ❌ | 11/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/8/6rp/4k3/6PK/8/8/8 w - - 10 54">Link</a> | Blitz |
-| ozubeir | **centrumek** | timeout ❌ | 11/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4k2p/3p2pP/3B1bP1/2P2P2/3p4/3K4 b - - 3 43">Link</a> | Blitz |
-| **centrumek** | marcegia12 | win 🥇 | 11/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/3Q4/pk4R1/1p2P1K1/PP4PP/3R4 b - - 3 38">Link</a> | Blitz |
-| **centrumek** | gregorybastien | repetition ⏸️ | 11/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p3ppk/2p4p/p3q3/6P1/P4QKP/8/8 w - - 9 41">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
