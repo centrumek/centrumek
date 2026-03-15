@@ -53,11 +53,11 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Mustaboss | **centrumek** | resigned ❌ | 15/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/1p1R3p/p3Pp2/6p1/8/P4P1P/1P3P2/2B1R1K1 b - - 1 26">Link</a> | Blitz |
+| croschin | **centrumek** | win 🥇 | 15/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/8/1p1k4/p4ppp/P1Pp4/7P/1PP1KPP1/8 w - - 0 28">Link</a> | Blitz |
 | **centrumek** | onuratacan | resigned ❌ | 14/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/r1p2pp1/4p3/1P6/2P4p/2b1KBP1/7P/8 w - - 2 37">Link</a> | Blitz |
 | **centrumek** | black1732 | win 🥇 | 14/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/8/1R6/5P2/k6N/3p1Pp1/3K2P1/8 b - - 5 45">Link</a> | Blitz |
 | MNbriki | **centrumek** | win 🥇 | 14/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2r/2p1R3/2k1b3/3p3p/1BnPp2P/P7/1PP4P/2K1R3 w - - 1 31">Link</a> | Blitz |
-| **centrumek** | ycnan018 | checkmated ❌ | 14/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/pbp5/1p4p1/3p3p/P7/2P4P/1B2N2q/5n1K w - - 2 31">Link</a> | Blitz |
-| DLeo97 | **centrumek** | abandoned  | 14/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k2/p5pp/5p2/8/2R5/P6P/2P3P1/2R3K1 b - - 0 29">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
