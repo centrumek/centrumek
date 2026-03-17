@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 994 | 1317 |
+| Current | 1000 | 995 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | OlegT1982 | win 🥇 | 16/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5pk/7p/P1P5/4Q1PP/8/4p2K/8 b - - 1 42">Link</a> | Blitz |
+| **centrumek** | JordiElias | timevsinsufficient ⏸️ | 16/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6k1/8/3KP1n1/8/1P4P1/8 w - - 0 50">Link</a> | Blitz |
+| Vibhor7777 | **centrumek** | resigned ❌ | 16/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/pp1k1Rp1/2p5/8/P2n4/1P1P2PP/2P3B1/1R1Q3K b - - 0 27">Link</a> | Blitz |
 | **centrumek** | Khgfx | resigned ❌ | 16/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r4/pp6/2p5/4P1p1/2P3P1/5P2/2K5/8 w - - 2 39">Link</a> | Blitz |
 | Raffa1972 | **centrumek** | checkmated ❌ | 16/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/6RR/1pp5/4n1p1/2P5/7P/1P3PP1/6K1 b - - 2 26">Link</a> | Blitz |
-| **centrumek** | venkateshyr0819 | win 🥇 | 16/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1nr/1pp2ppp/p7/3Np3/2P1P3/3B1Q2/PB1P1PPP/R3K2R b KQkq - 0 14">Link</a> | Blitz |
-| crashivan | **centrumek** | win 🥇 | 16/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1r3k/5pp1/7p/3p4/1pR1B2P/3P2P1/1PP5/2K5 w - - 0 29">Link</a> | Blitz |
-| **centrumek** | MOHAMMED-ZIYAD-3 | win 🥇 | 16/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2R1/p2q4/4kR2/1pQ1P3/1P3P2/P3P3/2PPK3/8 b - - 0 32">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
