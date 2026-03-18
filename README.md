@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1011 | 1317 |
+| Current | 938 | 1011 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | vd_yakovlev | abandoned  | 18/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5kp1/K1Nqpp2/1B6/3p4/8/8/8 w - - 0 53">Link</a> | Rapid |
 | daniazaa | **centrumek** | checkmated ❌ | 17/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b1r/Q5p1/1k1p3p/1qpPp3/1p6/3P3P/1P3PP1/R5K1 b - - 3 30">Link</a> | Blitz |
 | **centrumek** | Pierrot4747 | resigned ❌ | 17/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pp1/7p/8/4kP2/6PP/6K1/3r4 w - - 0 46">Link</a> | Blitz |
 | dee-l-cee | **centrumek** | win 🥇 | 17/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/p1p5/8/1KPR4/1P6/Pq4r1/8/8 w - - 3 46">Link</a> | Blitz |
 | **centrumek** | Rajubhai331 | checkmated ❌ | 17/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/6k1/4p2p/3p4/3P4/2P2pP1/5PqP/R5K1 w - - 2 29">Link</a> | Blitz |
-| Sekt9573 | **centrumek** | win 🥇 | 17/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5K1p/8/6p1/7k/8 w - - 0 48">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
