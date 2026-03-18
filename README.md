@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | 1027 | 1317 |
+| Current | 1000 | 1011 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| daniazaa | **centrumek** | checkmated ❌ | 17/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b1r/Q5p1/1k1p3p/1qpPp3/1p6/3P3P/1P3PP1/R5K1 b - - 3 30">Link</a> | Blitz |
+| **centrumek** | Pierrot4747 | resigned ❌ | 17/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pp1/7p/8/4kP2/6PP/6K1/3r4 w - - 0 46">Link</a> | Blitz |
+| dee-l-cee | **centrumek** | win 🥇 | 17/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/p1p5/8/1KPR4/1P6/Pq4r1/8/8 w - - 3 46">Link</a> | Blitz |
+| **centrumek** | Rajubhai331 | checkmated ❌ | 17/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/6k1/4p2p/3p4/3P4/2P2pP1/5PqP/R5K1 w - - 2 29">Link</a> | Blitz |
 | Sekt9573 | **centrumek** | win 🥇 | 17/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5K1p/8/6p1/7k/8 w - - 0 48">Link</a> | Blitz |
-| **centrumek** | 55Plus | win 🥇 | 17/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4Q2/4R1pk/8/6p1/N1P4P/PP3PP1/6K1 b - - 1 31">Link</a> | Blitz |
-| mohin279 | **centrumek** | resigned ❌ | 17/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3B4/P6p/8/8/3k4/8/7P/2K5 b - - 0 39">Link</a> | Blitz |
-| The_Sheraro | **centrumek** | win 🥇 | 17/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4B2k/7p/1p2p1pK/p2p1r2/P2P3r/8/6P1/7q w - - 0 38">Link</a> | Blitz |
-| **centrumek** | ades922 | timeout ❌ | 17/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p1p/3N4/8/6P1/7P/4kPK1/1r6 w - - 11 46">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
