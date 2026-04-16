@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1106 | 1003 | 1317 |
+| Current | 1106 | 1036 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **centrumek** | dmitrysheen | timeout ❌ | 4/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1r5p/4ppp1/8/4pKPP/k3P3/5P2/5B2 w - - 0 42">Link</a> | Blitz |
-| **centrumek** | nmor1ch | win 🥇 | 4/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/1Pq5/2Pk4/1K6/8 b - - 8 62">Link</a> | Blitz |
-| Cristal0219 | **centrumek** | resigned ❌ | 4/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/4P3/3K4/4P3/8/2k5 b - - 0 51">Link</a> | Blitz |
-| suskun1978 | **centrumek** | win 🥇 | 4/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1k4/2pp4/4p1p1/4P1P1/1PK5/r7/8 w - - 0 28">Link</a> | Blitz |
-| minsky2 | **centrumek** | timevsinsufficient ⏸️ | 4/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5K2/8/2qk4/8/8 b - - 13 59">Link</a> | Blitz |
+| **centrumek** | EZClap6996 | win 🥇 | 16/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6K1/7p/3Q4/1k6/8/7P/5P2/8 b - - 0 59">Link</a> | Blitz |
+| atusaes | **centrumek** | win 🥇 | 16/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2r/1k4b1/p6p/np1pP1p1/3P4/5N2/PP4PP/2RR2K1 w - - 0 25">Link</a> | Blitz |
+| **centrumek** | thevaizard | win 🥇 | 16/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5r1/1p3pR1/5P1k/1P6/3Pp1PQ/2P1P3/1K6/8 b - - 0 34">Link</a> | Blitz |
+| szaraz_csaba02 | **centrumek** | timeout ❌ | 16/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2b5/K1P2k2/p3pNp1/P3P1P1/5P1P/8 b - - 2 50">Link</a> | Blitz |
+| **centrumek** | Hardik_Italia | win 🥇 | 16/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/7k/1b5p/1P1N1P1P/7K/5R2/8/8 b - - 4 45">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
