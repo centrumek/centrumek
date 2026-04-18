@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1106 | 1036 | 1317 |
+| Current | 1106 | 1045 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **centrumek** | EZClap6996 | win 🥇 | 16/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6K1/7p/3Q4/1k6/8/7P/5P2/8 b - - 0 59">Link</a> | Blitz |
-| atusaes | **centrumek** | win 🥇 | 16/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2r/1k4b1/p6p/np1pP1p1/3P4/5N2/PP4PP/2RR2K1 w - - 0 25">Link</a> | Blitz |
-| **centrumek** | thevaizard | win 🥇 | 16/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5r1/1p3pR1/5P1k/1P6/3Pp1PQ/2P1P3/1K6/8 b - - 0 34">Link</a> | Blitz |
-| szaraz_csaba02 | **centrumek** | timeout ❌ | 16/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2b5/K1P2k2/p3pNp1/P3P1P1/5P1P/8 b - - 2 50">Link</a> | Blitz |
-| **centrumek** | Hardik_Italia | win 🥇 | 16/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/7k/1b5p/1P1N1P1P/7K/5R2/8/8 b - - 4 45">Link</a> | Blitz |
+| justinjxt | **centrumek** | checkmated ❌ | 17/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r2/pp6/3qbn2/1Bkp4/3Q4/2N2P2/PPP5/2KR3R b - - 2 27">Link</a> | Blitz |
+| IM_TAKI16 | **centrumek** | win 🥇 | 17/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1KP5/p5k1/P4p2/2q5/8/8 b - - 3 51">Link</a> | Blitz |
+| **centrumek** | AlNasty17 | resigned ❌ | 17/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pb5p/6p1/8/8/2B4P/PP3P1K/r7 w - - 2 30">Link</a> | Blitz |
+| Aesyong | **centrumek** | win 🥇 | 17/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5p2/8/8/Kqk5/8 w - - 16 55">Link</a> | Blitz |
+| **centrumek** | kerem_bora | win 🥇 | 17/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p1kp1p/1p4p1/p2PK1P1/P1P1p3/4Pb2/5P2/2R5 b - - 1 29">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
