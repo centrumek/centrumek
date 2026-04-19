@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1106 | 1061 | 1317 |
+| Current | 1106 | 1060 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| DYNAN89 | **centrumek** | timeout ❌ | 19/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/R7/p7/3P3p/2r5/1K3P1P/8/8 b - - 2 40">Link</a> | Blitz |
+| **centrumek** | rylerussell | win 🥇 | 19/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k2R3/6pp/PBp5/2KP4/7r/8/2P5/8 b - - 2 38">Link</a> | Blitz |
+| Jan51977 | **centrumek** | abandoned  | 19/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/3Q1p2/B2p3p/6p1/3b1p2/P4P2/1P3P1P/1K6 b - - 0 36">Link</a> | Blitz |
+| **centrumek** | Isagott | win 🥇 | 19/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/pp2npQp/6pB/1qpp1b2/8/PB6/R1P2PPP/5RK1 b - - 1 19">Link</a> | Blitz |
 | yogipraaa | **centrumek** | checkmated ❌ | 18/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2k/R5Q1/3p1p1p/2pP1Pp1/4q3/1p2B2P/5PPK/8 b - - 0 33">Link</a> | Blitz |
-| paulf56 | **centrumek** | resigned ❌ | 18/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5Rk1/p6p/3B4/8/P7/5P1P/R5K1 b - - 0 36">Link</a> | Blitz |
-| **centrumek** | Morango1 | win 🥇 | 18/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kbnr/ppp2ppp/4pq2/3p1B2/3P4/4PN1P/PPP2PP1/RNBQK2R b KQkq - 0 6">Link</a> | Blitz |
-| **centrumek** | Emiliano-Santana-A | win 🥇 | 18/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/3r1pbp/pp3Bp1/2pP1p2/P1P5/1P2PP2/R2Q1P1P/5RK1 b - - 0 24">Link</a> | Blitz |
-| ChessJuozas | **centrumek** | win 🥇 | 18/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3q4/8/p1PK4/5p2/6k1/6P1/8 w - - 1 50">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
