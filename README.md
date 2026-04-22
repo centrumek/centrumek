@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1106 | 1082 | 1317 |
+| Current | 1106 | 1063 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| spencerkkkcvcc | **centrumek** | win 🥇 | 21/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pkp4r/1p2K3/1P6/2P5/3P3p/r7/8 w - - 0 40">Link</a> | Blitz |
-| Vikthorus | **centrumek** | timeout ❌ | 21/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k6/1p1K4/pP6/P7/8/8/8 b - - 6 69">Link</a> | Blitz |
-| **centrumek** | SR1709 | win 🥇 | 21/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1bk1/2p3rp/2Pp3n/p2Pp1p1/Q3PpN1/5P1P/P1PB1KP1/R2N1R2 w - - 4 25">Link</a> | Blitz |
-| **centrumek** | lizard8080 | win 🥇 | 21/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b3rk/pp4pQ/5p2/3p4/1P4P1/2P4P/2BK4/6q1 b - - 0 34">Link</a> | Blitz |
-| **centrumek** | Matein13seconds | win 🥇 | 21/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R2k/1p4pp/4B3/5p2/r7/rNp5/2P3PP/1K5R b - - 0 28">Link</a> | Blitz |
+| **centrumek** | erdism | checkmated ❌ | 22/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=b2r2k1/5p2/p5p1/1pNp3p/1P1P1Pn1/P1PB4/2N4q/4RR1K w - - 2 36">Link</a> | Blitz |
+| **centrumek** | Hugopro66 | insufficient ⏸️ | 22/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3K4/8/3k4/8/8/8/8/8 b - - 0 73">Link</a> | Blitz |
+| Lakshminarayan8765 | **centrumek** | checkmated ❌ | 22/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/pp4RR/6p1/8/8/4K3/PPP5/5r2 b - - 4 32">Link</a> | Blitz |
+| caciparlak | **centrumek** | timeout ❌ | 22/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/8/2p5/3pP1P1/3P1K1P/5p2/5P2/8 b - - 0 48">Link</a> | Blitz |
+| **centrumek** | JegatheeshM | win 🥇 | 22/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5P2/7K/8/8/6P1/1k6 b - - 0 49">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
