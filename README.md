@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1106 | 1040 | 1317 |
+| Current | 1106 | 1017 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | jrodgodfrey | abandoned  | 25/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/pp3rpn/n1p3qp/8/1P5P/2N5/P1PQ4/2K1RR2 w - - 1 29">Link</a> | Blitz |
+| Vex_120 | **centrumek** | resigned ❌ | 25/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k1r/2R3R1/p3p1Bp/1p1bP3/8/1P2P3/P4PPP/5K2 b - - 6 29">Link</a> | Blitz |
+| **centrumek** | AGarcia97 | timeout ❌ | 25/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/1ppk4/p2p4/8/1P2Q3/P7/1BP3P1/1K3q2 w - - 0 43">Link</a> | Blitz |
 | AleksPyanz | **centrumek** | resigned ❌ | 25/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/ppp5/3p4/1k2p2p/6p1/1P6/6KP/5R2 b - - 0 38">Link</a> | Blitz |
 | **centrumek** | Cuchurrumino21 | win 🥇 | 25/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Qk1/4Q3/8/8/6K1/5P2/2P5/8 b - - 8 59">Link</a> | Blitz |
-| maxime62850 | **centrumek** | resigned ❌ | 22/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/4Q3/4P2K/2k5/5P2/q7 b - - 0 57">Link</a> | Blitz |
-| **centrumek** | thebanterking88 | resigned ❌ | 22/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/p4ppp/8/2P1P3/2n2P2/P5P1/7P/1K6 w - - 0 29">Link</a> | Blitz |
-| **centrumek** | jayco2016 | win 🥇 | 22/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5kr1/2p5/p1N5/1p2QR2/1P1P1p1p/P1P3qP/1B4P1/6K1 b - - 12 37">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
