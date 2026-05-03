@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 1017 | 1317 |
+| Current | 1049 | 994 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **centrumek** | wuglarchess | checkmated ❌ | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/6p1/4RbB1/5p2/4p3/3qP2P/3K1PR1/r7 w - - 2 41">Link</a> | Rapid |
-| SadhikAli | **centrumek** | insufficient ⏸️ | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5K1k/8/8/8/8/8/8 w - - 0 66">Link</a> | Rapid |
-| **centrumek** | FactUBeaches | resigned ❌ | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/4ppbp/3p2p1/8/1P1P4/4P3/5P2/5K2 w - - 0 30">Link</a> | Rapid |
-| **centrumek** | jrodgodfrey | abandoned  | 25/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/pp3rpn/n1p3qp/8/1P5P/2N5/P1PQ4/2K1RR2 w - - 1 29">Link</a> | Blitz |
-| Vex_120 | **centrumek** | resigned ❌ | 25/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k1r/2R3R1/p3p1Bp/1p1bP3/8/1P2P3/P4PPP/5K2 b - - 6 29">Link</a> | Blitz |
+| **centrumek** | nomoreh | checkmated ❌ | 3/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2R5/2p5/8/6B1/3k1P2/PP6/2K1r3 w - - 3 34">Link</a> | Blitz |
+| **centrumek** | HubertBonisseur_DeIa_Bath | resigned ❌ | 3/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/P1pk4/2p1p3/R7/1P1Pp2b/2P1P1R1/3q1K2/8 w - - 0 35">Link</a> | Blitz |
+| wasus2020 | **centrumek** | timeout ❌ | 3/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/1p6/p1p5/K2p4/PPq2p2/2P1b3/q7/8 b - - 0 48">Link</a> | Blitz |
+| SergiiBugayov111 | **centrumek** | resigned ❌ | 3/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/p1p2p2/QpBpq2p/4b1p1/P3P3/5RB1/2P3PP/1R5K b - - 2 19">Link</a> | Blitz |
+| jessbenny | **centrumek** | win 🥇 | 3/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2kp4/pp2p3/4P3/2KP4/8/8 w - - 0 48">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
