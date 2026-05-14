@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 1034 | 1317 |
+| Current | 1049 | 1026 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Pfactor22 | **centrumek** | timeout ❌ | 14/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/8/8/6q1/4k1p1/2b3P1/5PK1/7R b - - 3 56">Link</a> | Blitz |
 | **centrumek** | tired-player | win 🥇 | 13/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1R3/ppB3R1/2p5/8/3P4/2P5/1q6/6K1 b - - 4 32">Link</a> | Blitz |
 | Artyom77770 | **centrumek** | timeout ❌ | 13/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/1pk3p1/pPp4q/4p3/6r1/3Q2P1/P1BP1P1P/R3R2K b - - 0 32">Link</a> | Blitz |
 | **centrumek** | riyazwani | resigned ❌ | 13/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r1b2/Np2p2Q/5p1n/3p4/1q6/5b2/P1P2P1P/4R1K1 w - - 6 28">Link</a> | Blitz |
 | **centrumek** | Tchelusskk | win 🥇 | 13/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2Q3pp/4p3/P2pk3/8/3KPP2/2P4q/R7 b - - 0 32">Link</a> | Blitz |
-| **centrumek** | keeper_krakow | repetition ⏸️ | 13/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5R2/8/3n1PP1/k4r2/4K3/8/8 w - - 23 53">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 </div>
