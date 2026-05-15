@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 1076 | 1317 |
+| Current | 1049 | 1068 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | ElMuja90 | resigned ❌ | 15/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/8/8/4K3/6k1/3p3p/8 w - - 0 65">Link</a> | Blitz |
+| **centrumek** | ito_uzhu | resigned ❌ | 15/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/R4p1p/4pkp1/8/8/8/1q2nPPP/5B1K w - - 0 29">Link</a> | Blitz |
+| **centrumek** | rfcrul | win 🥇 | 15/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkbnr/ppp2ppp/2n5/4p3/1P1pP1b1/P2P1N2/1BP2PPP/RN1QKB1R b KQkq e3 0 6">Link</a> | Blitz |
 | painlessr7 | **centrumek** | abandoned  | 14/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/2kp2R1/p7/1p5p/7P/1B2p3/P5K1/8 b - - 0 35">Link</a> | Blitz |
 | **centrumek** | OrochiFepa | timeout ❌ | 14/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/8/2R5/qp3p2/3PpB2/b2kP1K1/n4PP1/8 w - - 1 38">Link</a> | Blitz |
-| David_the_Gamer | **centrumek** | win 🥇 | 14/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k4/5P2/3p4/6P1/8/8/2Br2K1 w - - 1 43">Link</a> | Blitz |
-| Ghernat | **centrumek** | checkmated ❌ | 14/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1Q6/k7/2RB4/8/2pP1P2/PpP5/6K1 b - - 6 44">Link</a> | Blitz |
-| Tapasqino | **centrumek** | resigned ❌ | 14/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2qk1/2p2p2/p1np1B2/1p2p2Q/4P2P/PBPP4/1P1N2P1/R3K2R w KQ - 3 23">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
