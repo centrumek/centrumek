@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 1094 | 1317 |
+| Current | 1049 | 1102 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| sifakrash | **centrumek** | win 🥇 | 16/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppp2pp1/4knp1/8/5P2/5K2/PP4PP/8 w - - 3 25">Link</a> | Blitz |
 | **centrumek** | koladeamodu | checkmated ❌ | 15/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p4ppp/Pp2p3/1P1pP3/3Pb3/4PP2/2rq3P/R3KBR1 w - - 0 23">Link</a> | Blitz |
 | **centrumek** | brown2bean | abandoned  | 15/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/7p/2b3p1/3p1p2/p1pP3P/1r2P3/1p1b1K2/8 w - - 0 40">Link</a> | Blitz |
 | AlikCardio | **centrumek** | resigned ❌ | 15/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/p2bkp2/1p4r1/6p1/4P3/3P4/PPP2PPP/R3K2R b KQ - 0 20">Link</a> | Blitz |
 | **centrumek** | jaychauhan999 | resigned ❌ | 15/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/1b4pp/1p3p2/pNr3q1/P3P3/5B2/5PPP/4R1K1 w - - 0 31">Link</a> | Blitz |
-| **centrumek** | DaddySpykh | win 🥇 | 15/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R3/8/7P/4p3/5pp1/7k/5K2/8 b - - 2 47">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
