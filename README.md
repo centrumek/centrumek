@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 1082 | 1317 |
+| Current | 1049 | 1074 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Leei3 | **centrumek** | resigned ❌ | 17/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/2p3R1/2r5/1B1p4/1p1K4/1P6/2P5/8 b - - 3 38">Link</a> | Blitz |
 | gabgab90 | **centrumek** | stalemate ⏸️ | 16/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6P1/6K1/8/8/8/8/8 b - - 2 60">Link</a> | Blitz |
 | **centrumek** | 3kus-dirky | resigned ❌ | 16/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3K4/8/1k6/8/8/q7 w - - 0 59">Link</a> | Blitz |
 | Nathanlungu | **centrumek** | resigned ❌ | 16/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/2P5/1P2R2P/2pKP1P1/2P2P2/3B4/1r6 b - - 2 49">Link</a> | Blitz |
 | **centrumek** | kenedichess | win 🥇 | 16/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/1B3pbp/p5p1/2p5/8/2P1P3/P1Q2PPP/5RK1 b - - 0 25">Link</a> | Blitz |
-| Birdiediz | **centrumek** | timeout ❌ | 16/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b3k1/2P3p1/8/8/4P3/PP6/6Qp/1K6 b - - 0 50">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
