@@ -53,11 +53,11 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | chevo32 | resigned ❌ | 18/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4p1k1/2p2pPp/5K2/8/8/8 w - c6 0 62">Link</a> | Blitz |
+| **centrumek** | fatonramic | win 🥇 | 18/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2RK3p/q3Q1pk/3p4/3P3P/4PP2/8/3n4 b - - 11 51">Link</a> | Blitz |
 | **centrumek** | ItsBlooom | checkmated ❌ | 17/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5pR1/4p3/5kpp/8/3r2K1 w - - 4 50">Link</a> | Blitz |
 | Sel068 | **centrumek** | resigned ❌ | 17/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/pp5k/5R1p/2p5/8/8/PPP3PP/1K1R4 b - - 0 25">Link</a> | Blitz |
 | **centrumek** | profitdandy | checkmated ❌ | 17/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/2k2p2/1pNp3p/1P1P1P2/7r/4r3/6RK w - - 8 40">Link</a> | Blitz |
-| icetruckiller1 | **centrumek** | resigned ❌ | 17/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/8/3K4/6pP/P1P1P3/5P2/8 b - - 0 42">Link</a> | Blitz |
-| **centrumek** | amahfouz589 | checkmated ❌ | 17/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/r5q1/7K/7P/4k3/8/8/8 w - - 0 63">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
