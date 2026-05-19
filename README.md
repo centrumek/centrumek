@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 1066 | 1317 |
+| Current | 1049 | 1058 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | rbaz89 | resigned ❌ | 19/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/kP2p3/P3Pp1p/1K3P1P/6P1/2r5/8 w - - 1 46">Link</a> | Blitz |
 | **centrumek** | chevo32 | resigned ❌ | 18/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4p1k1/2p2pPp/5K2/8/8/8 w - c6 0 62">Link</a> | Blitz |
 | **centrumek** | fatonramic | win 🥇 | 18/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2RK3p/q3Q1pk/3p4/3P3P/4PP2/8/3n4 b - - 11 51">Link</a> | Blitz |
 | **centrumek** | ItsBlooom | checkmated ❌ | 17/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5pR1/4p3/5kpp/8/3r2K1 w - - 4 50">Link</a> | Blitz |
 | Sel068 | **centrumek** | resigned ❌ | 17/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/pp5k/5R1p/2p5/8/8/PPP3PP/1K1R4 b - - 0 25">Link</a> | Blitz |
-| **centrumek** | profitdandy | checkmated ❌ | 17/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/2k2p2/1pNp3p/1P1P1P2/7r/4r3/6RK w - - 8 40">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
