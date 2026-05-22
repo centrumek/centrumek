@@ -53,11 +53,11 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| domkitto | **centrumek** | checkmated ❌ | 22/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5BQp/8/4pp1k/3rP2P/1p4P1/1P1q1PK1/8 b - - 3 46">Link</a> | Blitz |
+| **centrumek** | jorn-hub | win 🥇 | 22/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/7Q/7k/5pp1/8/P3P2P/5PP1/5RK1 b - - 0 32">Link</a> | Blitz |
 | **centrumek** | RosaDelBarrio | timeout ❌ | 21/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1p1p3b/1P5P/2PkP3/8/4K3 w - - 5 48">Link</a> | Blitz |
 | **centrumek** | Tgfchesss | repetition ⏸️ | 21/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/7p/QP2p2b/3pP1p1/3P2K1/1q6/6PP/8 b - - 9 43">Link</a> | Blitz |
 | Nharen26 | **centrumek** | timeout ❌ | 21/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5kp1/2R5/6R1/3pK3/8/8 b - - 0 46">Link</a> | Blitz |
-| **centrumek** | Page1ne | win 🥇 | 21/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/6p1/p4n1p/1p3QP1/1P5P/r7/6K1/8 b - - 0 43">Link</a> | Blitz |
-| **centrumek** | Chumfloop | win 🥇 | 20/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3K4/5pkp/2Q1p1p1/2P5/5P2/8/7P/8 b - - 0 40">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
