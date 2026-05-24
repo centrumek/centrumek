@@ -53,11 +53,11 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | umit15 | timeout ❌ | 24/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/b7/P1k5/8/3p2P1/7K w - - 0 45">Link</a> | Blitz |
+| khanitachi | **centrumek** | win 🥇 | 24/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/k1q2K2/p2q4/1p6/8/8/8/8 w - - 12 59">Link</a> | Blitz |
 | **centrumek** | Kleingeldman1 | timeout ❌ | 24/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5pp1/7p/3p4/4p2P/p1N1P1P1/1r6/5K2 w - - 0 42">Link</a> | Blitz |
 | guntowski | **centrumek** | win 🥇 | 23/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/5k1p/P7/8/2bPp3/4P3/5PP1/6K1 w - - 1 40">Link</a> | Blitz |
 | **centrumek** | Ruslan-Lecointre | win 🥇 | 23/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppp1ppp/8/4p3/3P4/8/PPP1PPPP/RNBQKBNR w KQkq e6 0 2">Link</a> | Blitz |
-| **centrumek** | setiawanridwan | win 🥇 | 23/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/5kpp/pR3pq1/P7/3r4/4P1P1/5P1P/4N1K1 w - - 1 32">Link</a> | Blitz |
-| iamparva | **centrumek** | timevsinsufficient ⏸️ | 23/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6b1/8/7r/8/4k3/8/3K4 b - - 35 72">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
