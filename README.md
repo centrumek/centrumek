@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 1049 | 1317 |
+| Current | 1049 | 1034 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| GunM02 | **centrumek** | checkmated ❌ | 25/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R3k1/rN3ppp/8/p4n2/3p4/1P1P4/P4PPP/4R1K1 b - - 0 24">Link</a> | Blitz |
+| **centrumek** | OnTheShidder | checkmated ❌ | 25/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/4ppbp/p5P1/4P3/5PR1/8/1q4B1/1K5R w - - 0 31">Link</a> | Blitz |
+| Michistrong | **centrumek** | win 🥇 | 25/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1p5/4pk2/1p1b4/1PrP1p2/8/4KP2/8 w - - 2 46">Link</a> | Blitz |
+| Hantus60 | **centrumek** | timeout ❌ | 25/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6R1/8/8/8/5pk1/4pr2/8/4K3 b - - 5 70">Link</a> | Blitz |
 | **centrumek** | umit15 | timeout ❌ | 24/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/b7/P1k5/8/3p2P1/7K w - - 0 45">Link</a> | Blitz |
-| khanitachi | **centrumek** | win 🥇 | 24/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/k1q2K2/p2q4/1p6/8/8/8/8 w - - 12 59">Link</a> | Blitz |
-| **centrumek** | Kleingeldman1 | timeout ❌ | 24/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5pp1/7p/3p4/4p2P/p1N1P1P1/1r6/5K2 w - - 0 42">Link</a> | Blitz |
-| guntowski | **centrumek** | win 🥇 | 23/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/5k1p/P7/8/2bPp3/4P3/5PP1/6K1 w - - 1 40">Link</a> | Blitz |
-| **centrumek** | Ruslan-Lecointre | win 🥇 | 23/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppp1ppp/8/4p3/3P4/8/PPP1PPPP/RNBQKBNR w KQkq e6 0 2">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
