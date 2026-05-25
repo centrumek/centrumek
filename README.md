@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 1050 | 1317 |
+| Current | 1049 | 1042 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| MCMXC_BR | **centrumek** | checkmated ❌ | 25/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1B/p4Q1R/3p2p1/2p2p2/8/1P2P1P1/P2P2P1/R3K3 b Q - 2 25">Link</a> | Blitz |
 | ErvenShivute | **centrumek** | timevsinsufficient ⏸️ | 25/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5K2/p4p2/8/8/5q2/4k3/8/8 b - - 3 59">Link</a> | Blitz |
 | **centrumek** | DeAaronFox05 | win 🥇 | 25/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k3r2/pp1N2bp/2p2qn1/3p4/3Pp1Q1/N1P1P3/PP1B2PP/R5K1 b - - 3 24">Link</a> | Blitz |
 | **centrumek** | Tony_Lever | abandoned  | 25/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k3r/1q6/2p2pP1/P1Pp2p1/PP2p2p/4Pn1P/3Q1P2/R3K2R w KQ - 1 25">Link</a> | Blitz |
 | Leonelasesino1984 | **centrumek** | win 🥇 | 25/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1kp5/1p6/5R2/P1KP2rP/8/6p1/8 w - - 0 42">Link</a> | Blitz |
-| Gotcha171 | **centrumek** | win 🥇 | 25/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/ppp2ppp/2n1pn2/6B1/8/2N2B2/PPP2PPP/R2R2K1 w kq - 0 11">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
