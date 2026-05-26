@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 1058 | 1317 |
+| Current | 1049 | 1042 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| unegg | **centrumek** | timeout ❌ | 26/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5r1k/6Q1/6PP/8/6K1/8 b - - 0 43">Link</a> | Blitz |
+| **centrumek** | miscible | abandoned  | 26/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/pp3p1p/2p3p1/3p2P1/1P1Q3P/P3P3/2P1KP2/7q w - - 2 26">Link</a> | Blitz |
 | **centrumek** | Mark_43Pika_aina | win 🥇 | 25/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p2r2pk/7p/P4P2/4K3/8/7R b - - 1 46">Link</a> | Blitz |
 | Soldier767 | **centrumek** | win 🥇 | 25/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/8/q5p1/5pP1/PQ5p/5P1P/6K1/8 w - - 7 53">Link</a> | Blitz |
 | **centrumek** | CallmeSaHa | win 🥇 | 25/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/8/8/8/7R/4p3/4K3/8 b - - 0 49">Link</a> | Blitz |
-| **centrumek** | Aux213 | timeout ❌ | 25/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p2/4p2p/p2p4/7P/2r1PKP1/8/8 w - - 0 37">Link</a> | Blitz |
-| **centrumek** | atesor | abandoned  | 25/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p1B2p1k/2p4p/3p4/2qr4/7P/6PK/8 w - - 0 30">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
