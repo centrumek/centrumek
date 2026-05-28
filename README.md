@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 1078 | 1317 |
+| Current | 1049 | 1086 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | zoka42 | timeout ❌ | 27/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pp1/2q1p2p/8/5PK1/6P1/7k/8 w - - 0 49">Link</a> | Blitz |
+| Kakabadse | **centrumek** | win 🥇 | 27/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p1p/3Q1P2/2rP1k2/2p1qn2/P1K5/8/5R2 w - - 5 43">Link</a> | Blitz |
+| **centrumek** | Muamaaa | win 🥇 | 27/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rk2b2/2R2Npp/4p3/pB1p4/1n1PbB2/4P3/PP3PPP/3K3R b - - 0 20">Link</a> | Blitz |
 | santosh_iit | **centrumek** | timeout ❌ | 27/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/8/8/R7/PP5r/2K5/8/8 b - - 2 56">Link</a> | Blitz |
 | **centrumek** | T0mat000 | win 🥇 | 27/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/p2k1p2/4b1p1/1pQ5/8/8/P7/4K1R1 b - - 0 48">Link</a> | Blitz |
-| tone50 | **centrumek** | win 🥇 | 27/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/1k6/pr6/3K4 w - - 0 50">Link</a> | Blitz |
-| **centrumek** | SH13XX | win 🥇 | 27/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1NR3kr/p4ppp/2B1p3/b2p1b2/3PnB2/4P3/P3KPPP/7R b - - 2 22">Link</a> | Blitz |
-| Styrion1979 | **centrumek** | win 🥇 | 27/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2q/5p2/2p5/1n1p2pp/3Pp3/1Pb1P2P/1KP1QPP1/R6R w q - 5 25">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
