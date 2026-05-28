@@ -53,11 +53,11 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **centrumek** | zoka42 | timeout ❌ | 27/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pp1/2q1p2p/8/5PK1/6P1/7k/8 w - - 0 49">Link</a> | Blitz |
-| Kakabadse | **centrumek** | win 🥇 | 27/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p1p/3Q1P2/2rP1k2/2p1qn2/P1K5/8/5R2 w - - 5 43">Link</a> | Blitz |
-| **centrumek** | Muamaaa | win 🥇 | 27/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rk2b2/2R2Npp/4p3/pB1p4/1n1PbB2/4P3/PP3PPP/3K3R b - - 0 20">Link</a> | Blitz |
-| santosh_iit | **centrumek** | timeout ❌ | 27/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/8/8/R7/PP5r/2K5/8/8 b - - 2 56">Link</a> | Blitz |
-| **centrumek** | T0mat000 | win 🥇 | 27/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/p2k1p2/4b1p1/1pQ5/8/8/P7/4K1R1 b - - 0 48">Link</a> | Blitz |
+| **centrumek** | orestvlasiuk | win 🥇 | 28/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/5qpp/1p2p3/pP1pn3/3P3P/2PQP3/1P4P1/R4RK1 w - - 0 21">Link</a> | Blitz |
+| **centrumek** | WorstPlayerEver247 | abandoned  | 28/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pp2nr1p/6p1/2P5/4p3/2q1P2R/P1PN1PP1/1R2K3 w - - 0 22">Link</a> | Blitz |
+| **centrumek** | kingmateman | checkmated ❌ | 28/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p3bpp1/1r2p3/3p2Pp/QP1P1B2/4Pb1P/P3qP2/R3K1R1 w - - 2 24">Link</a> | Blitz |
+| mcakir53 | **centrumek** | stalemate ⏸️ | 28/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6B1/7R/p1k1Pp2/P1P2P2/2K2N2/8 b - - 0 55">Link</a> | Blitz |
+| **centrumek** | HeisenbergOfBerlin | win 🥇 | 28/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/5pp1/4p2p/8/3P2PP/B1p2PK1/4R3/R7 b - - 0 37">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
