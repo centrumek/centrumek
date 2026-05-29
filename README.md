@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 1079 | 1317 |
+| Current | 1049 | 1071 | 1317 |
 | Best | 1132 | 1220 | 1317 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | aebyy_02 | timeout ❌ | 29/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1r4/7p/4k1p1/p3p3/P1K1P2P/2P5/8/5R2 w - - 2 38">Link</a> | Blitz |
 | Namrata_Sonii | **centrumek** | win 🥇 | 29/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/4K3/5p2/8/4k3/5q2 w - - 0 55">Link</a> | Blitz |
 | **centrumek** | jcgfdddugb | resigned ❌ | 28/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p1p1kpp1/4p3/3pP3/1P3Pp1/2P1P3/3K2q1/8 w - - 0 27">Link</a> | Blitz |
 | **centrumek** | LillyTB | resigned ❌ | 28/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/6K1/8/6kp/8 w - - 0 61">Link</a> | Blitz |
 | erniebbauer | **centrumek** | timeout ❌ | 28/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/2k5/R7/pR1P2P1/4P1K1/r4P2/8 b - - 7 48">Link</a> | Blitz |
-| **centrumek** | GiovanniLucaP | stalemate ⏸️ | 28/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/k1K5/2Q5/1B6/8/8/8 b - - 34 81">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
