@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 1065 | 1318 |
+| Current | 1049 | 1065 | 1345 |
 | Best | 1132 | 1220 | 1367 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| shashwatdhuliya | **centrumek** | timeout ❌ | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k3Q1/2q2p2/1p2pp2/2p1r3/6r1/P5P1/5PBP/2R2RK1 b - - 2 36">Link</a> | Bullet |
-| **centrumek** | jongsskuyyyy | timevsinsufficient ⏸️ | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2K5/5rk1/8/8/8/8/8/8 b - - 15 59">Link</a> | Bullet |
-| hauZr | **centrumek** | win 🥇 | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2R4p/2K5/4b1p1/8/5B2/4P3/8 w - - 5 50">Link</a> | Bullet |
-| **centrumek** | tiotanac | win 🥇 | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/8/6Q1/pnrpk2R/8/2P1P3/1P2KPP1/8 b - - 4 35">Link</a> | Bullet |
-| **centrumek** | Wynechess | timeout ❌ | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p5kb/1p6/3B4/1P3P1P/P7/1K2n3/8 w - - 0 36">Link</a> | Bullet |
+| AdrianNowak777 | **centrumek** | timeout ❌ | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/2p5/1k6/1p3R1p/PP5P/3P1p2/2PK4/8 b - - 0 44">Link</a> | Bullet |
+| **centrumek** | Alejoyero | win 🥇 | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n5k/P6p/5rp1/5p2/4p2P/4P3/4BPP1/5RK1 b - - 0 29">Link</a> | Bullet |
+| ShobsOP | **centrumek** | win 🥇 | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkbnr/ppp2ppp/2n1p3/3p4/3P4/5NP1/PPP1PP1P/RNBQKB1R w KQkq - 1 4">Link</a> | Bullet |
+| BikashCR7 | **centrumek** | timevsinsufficient ⏸️ | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/k5p1/3p2r1/5p2/7q/3K4/8 b - - 3 62">Link</a> | Bullet |
+| **centrumek** | rylandsa | repetition ⏸️ | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/4p3/3p1k2/3Pb1p1/2p1P3/5K2/2R5/8 b - - 8 59">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
