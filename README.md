@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 1065 | 1345 |
-| Best | 1132 | 1220 | 1367 |
+| Current | 1049 | 1065 | 1369 |
+| Best | 1132 | 1220 | 1369 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | xachoooo | win 🥇 | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b1k/R6p/8/5p2/4p3/2P1PqP1/5P1P/3Q1RK1 b - - 0 37">Link</a> | Bullet |
+| vbloke | **centrumek** | win 🥇 | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/8/1p1p1p2/p1p1k3/P1P1P3/1P1PK1p1/6n1/5R2 w - - 0 46">Link</a> | Bullet |
+| **centrumek** | Taher2183 | win 🥇 | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R6R/4r1pk/p4pqp/3p4/3N4/4P2P/5PP1/2Q3K1 b - - 4 44">Link</a> | Bullet |
 | AdrianNowak777 | **centrumek** | timeout ❌ | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/2p5/1k6/1p3R1p/PP5P/3P1p2/2PK4/8 b - - 0 44">Link</a> | Bullet |
 | **centrumek** | Alejoyero | win 🥇 | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n5k/P6p/5rp1/5p2/4p2P/4P3/4BPP1/5RK1 b - - 0 29">Link</a> | Bullet |
-| ShobsOP | **centrumek** | win 🥇 | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkbnr/ppp2ppp/2n1p3/3p4/3P4/5NP1/PPP1PP1P/RNBQKB1R w KQkq - 1 4">Link</a> | Bullet |
-| BikashCR7 | **centrumek** | timevsinsufficient ⏸️ | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/k5p1/3p2r1/5p2/7q/3K4/8 b - - 3 62">Link</a> | Bullet |
-| **centrumek** | rylandsa | repetition ⏸️ | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/4p3/3p1k2/3Pb1p1/2p1P3/5K2/2R5/8 b - - 8 59">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
