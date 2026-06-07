@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 1050 | 1369 |
+| Current | 1049 | 1066 | 1369 |
 | Best | 1132 | 1220 | 1369 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| mohammed_lookman | **centrumek** | win 🥇 | 7/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5k2/8/7K/8/7r/6q1 w - - 8 58">Link</a> | Blitz |
+| **centrumek** | pmx238 | win 🥇 | 7/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R3k1/R7/p6p/r1P2p1P/5P1K/6P1/8/8 b - - 0 44">Link</a> | Blitz |
 | AlexisD8 | **centrumek** | abandoned  | 2/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1B4/8/3N4/3Pp3/N4r2/1P6/P4PP1/2R3K1 b - - 0 34">Link</a> | Blitz |
 | **centrumek** | kmuczybydle | resigned ❌ | 2/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1p2pkp/6p1/1bP5/8/6P1/5P1P/6K1 w - - 1 35">Link</a> | Blitz |
 | **centrumek** | xachoooo | win 🥇 | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b1k/R6p/8/5p2/4p3/2P1PqP1/5P1P/3Q1RK1 b - - 0 37">Link</a> | Bullet |
-| vbloke | **centrumek** | win 🥇 | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/8/1p1p1p2/p1p1k3/P1P1P3/1P1PK1p1/6n1/5R2 w - - 0 46">Link</a> | Bullet |
-| **centrumek** | Taher2183 | win 🥇 | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R6R/4r1pk/p4pqp/3p4/3N4/4P2P/5PP1/2Q3K1 b - - 4 44">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 </div>
