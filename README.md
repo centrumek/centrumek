@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 1021 | 1369 |
+| Current | 1049 | 1019 | 1369 |
 | Best | 1132 | 1220 | 1369 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | merlintwista | checkmated ❌ | 9/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6pp/Q3p2r/4Bp2/P7/4P3/2r3qP/R2R3K w - - 0 27">Link</a> | Blitz |
+| **centrumek** | BubblesSnipe63 | win 🥇 | 9/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1Qk5/8/3Q4/8/6P1/2P3K1/8 b - - 4 60">Link</a> | Blitz |
 | **centrumek** | E8eight1 | abandoned  | 8/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1q3ppp/2p1pb2/8/4P3/P4P2/1PP1N1PP/3RK2R w K - 0 18">Link</a> | Blitz |
 | NAOMIJULIA | **centrumek** | timeout ❌ | 8/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/p6p/2R2p1k/6p1/3p2B1/3P3P/PP4P1/5RK1 b - - 0 28">Link</a> | Blitz |
 | fit977 | **centrumek** | win 🥇 | 8/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/2kp4/1p6/1BpK4/8/8 w - - 0 56">Link</a> | Blitz |
-| taylorswiftqueen | **centrumek** | timeout ❌ | 8/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/ppp5/4pn1p/8/8/1P2P1PB/P4P2/3R2K1 b - - 0 23">Link</a> | Blitz |
-| **centrumek** | ChainGuardians | repetition ⏸️ | 8/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1Rk3/2p2r2/8/2q2Q2/4PK2/P1P2PP1/8 b - - 9 37">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
