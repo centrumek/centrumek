@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 1019 | 1369 |
+| Current | 1049 | 1009 | 1369 |
 | Best | 1132 | 1220 | 1369 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **centrumek** | merlintwista | checkmated ❌ | 9/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6pp/Q3p2r/4Bp2/P7/4P3/2r3qP/R2R3K w - - 0 27">Link</a> | Blitz |
-| **centrumek** | BubblesSnipe63 | win 🥇 | 9/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1Qk5/8/3Q4/8/6P1/2P3K1/8 b - - 4 60">Link</a> | Blitz |
-| **centrumek** | E8eight1 | abandoned  | 8/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1q3ppp/2p1pb2/8/4P3/P4P2/1PP1N1PP/3RK2R w K - 0 18">Link</a> | Blitz |
-| NAOMIJULIA | **centrumek** | timeout ❌ | 8/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/p6p/2R2p1k/6p1/3p2B1/3P3P/PP4P1/5RK1 b - - 0 28">Link</a> | Blitz |
-| fit977 | **centrumek** | win 🥇 | 8/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/2kp4/1p6/1BpK4/8/8 w - - 0 56">Link</a> | Blitz |
+| **centrumek** | harshy0311 | abandoned  | 9/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1kr3/4n2P/ppppP3/6Q1/1P4p1/P4pK1/5P2/7q w - - 2 38">Link</a> | Blitz |
+| greathayq | **centrumek** | checkmated ❌ | 9/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b4r/pp1k4/2pR3p/1N2R1p1/8/1B3P2/PPP3PP/2K5 b - - 0 21">Link</a> | Blitz |
+| **centrumek** | Alejander0_0 | win 🥇 | 9/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5p2/5kr1/4Q3/8/2K1R3/8 b - - 0 57">Link</a> | Blitz |
+| Wihelmine | **centrumek** | checkmated ❌ | 9/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rkQ/p4p1p/3P2q1/8/1pbB4/5P2/PPP2KPP/R6R b - - 0 25">Link</a> | Blitz |
+| karthids | **centrumek** | win 🥇 | 9/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/K7/8/q6k/8/1q6/8/8 w - - 1 72">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
