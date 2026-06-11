@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 993 | 1369 |
+| Current | 1049 | 985 | 1369 |
 | Best | 1132 | 1220 | 1369 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | piccaaso | checkmated ❌ | 10/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/1Q4pp/8/3p4/5P2/2PKP3/r5PP/3q4 w - - 3 35">Link</a> | Blitz |
 | hansvonchess | **centrumek** | timeout ❌ | 10/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/8/4R3/p5p1/r2B4/2P1K3/8/8 b - - 2 45">Link</a> | Blitz |
 | **centrumek** | Djdeli | win 🥇 | 10/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6rr/1bqp1p1k/4pP2/ppp1P2Q/P7/1P2P2R/1B3K1P/R7 b - - 0 31">Link</a> | Blitz |
 | LP2203 | **centrumek** | abandoned  | 10/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=B4k2/6bp/p2p4/1pp4p/3p4/P2P2P1/QPP4P/5K2 b - - 0 28">Link</a> | Blitz |
 | t135k531 | **centrumek** | checkmated ❌ | 10/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3qkb1r/2rn1Qp1/2pp4/4p1p1/4P3/P2P4/BP1K1PP1/R7 b k - 0 22">Link</a> | Blitz |
-| Tinku2020 | **centrumek** | stalemate ⏸️ | 10/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6P1/6K1/8/8/8/8/8 b - - 2 66">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
