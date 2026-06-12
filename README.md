@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 999 | 1369 |
+| Current | 1049 | 983 | 1369 |
 | Best | 1132 | 1220 | 1369 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| ttaylorg | **centrumek** | checkmated ❌ | 12/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/3b4/pPpk4/4Qp1q/2PPnP2/3KP3/1P2N3/6R1 b - - 2 36">Link</a> | Blitz |
+| **centrumek** | Metin000041 | timeout ❌ | 12/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/p6p/P1q2bp1/3p1p2/3P4/4P1R1/5P1P/4K3 w - - 0 29">Link</a> | Blitz |
 | pedro3cruz | **centrumek** | win 🥇 | 11/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/5ppp/2p5/q2n1b2/2B1pP2/2P4P/P5PK/R1B1R3 w - - 0 21">Link</a> | Blitz |
 | dabalkuwar | **centrumek** | insufficient ⏸️ | 11/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/4k3/8/3K4/8/8 b - - 0 54">Link</a> | Blitz |
 | **centrumek** | lolloloshka | timeout ❌ | 11/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/8/5k2/1P1PpB2/4Pb2/3P1K2/5P2/q7 w - - 0 55">Link</a> | Blitz |
-| Ryann1611 | **centrumek** | win 🥇 | 11/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/ppp3k1/3p2p1/3P3p/2n1P3/P3Q2P/1P1K2P1/5r2 w - - 0 24">Link</a> | Blitz |
-| **centrumek** | Amindanesh1990 | win 🥇 | 11/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q1k/1q5p/6p1/ppp1P3/5P2/2P1P3/PP4PP/5K2 b - - 0 27">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
