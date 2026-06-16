@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 1006 | 1369 |
+| Current | 1049 | 1014 | 1369 |
 | Best | 1132 | 1220 | 1369 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Simplyliberty | win 🥇 | 16/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p7/P5pp/6k1/3R2P1/2K5/6r1 b - - 2 46">Link</a> | Blitz |
 | **centrumek** | kennethzane | win 🥇 | 16/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/1p3pbp/p5p1/5PQ1/8/P1Pr4/1P4PP/R1B2R1K b - - 0 27">Link</a> | Blitz |
 | ThisUssrNameIsTaken | **centrumek** | win 🥇 | 16/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/1bp2p2/p2p1q2/2p1p2p/4P2P/2NPbN2/PPP3P1/1K1R3R w kq - 0 20">Link</a> | Blitz |
 | **centrumek** | lamona2 | timeout ❌ | 16/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/q7/3p1K1k/5P2/p3P3/8/8 w - - 0 49">Link</a> | Blitz |
 | Stamenkovic11 | **centrumek** | abandoned  | 16/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/1R6/4pBp1/p3Pp2/8/b1P1P3/P4PPP/6K1 b - - 0 29">Link</a> | Blitz |
-| MarcoRodrigues_03 | **centrumek** | timeout ❌ | 16/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/6p1/7p/4p2B/P2bP3/1Q5P/6P1/7K b - - 0 35">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
