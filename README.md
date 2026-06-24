@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 991 | 1369 |
+| Current | 1049 | 984 | 1369 |
 | Best | 1132 | 1220 | 1369 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| ChacalitoDelPietro | **centrumek** | abandoned  | 24/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p1k4/p1p5/3p4/PK1P4/6R1/1P6/8 b - a3 0 39">Link</a> | Blitz |
 | snSHIFU | **centrumek** | timeout ❌ | 24/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5K2/8/8/pk6/4Q3/P1N5/8 b - - 7 63">Link</a> | Blitz |
 | **centrumek** | sumair004 | checkmated ❌ | 19/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r5r/2p2k2/p3pp2/1b4P1/1P1P3p/Q1P1P2P/3R3B/4Kq2 w - - 1 31">Link</a> | Blitz |
 | Op1baba | **centrumek** | win 🥇 | 19/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/r2B4/P7/3Q4/1k5P/2b3P1/3R2K1 w - - 3 48">Link</a> | Blitz |
 | **centrumek** | leftghost_zy | win 🥇 | 18/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q2k1/5pp1/2r4p/8/P2p4/3B4/2P2PPP/5RK1 b - - 0 35">Link</a> | Blitz |
-| KingLeoDamyne | **centrumek** | abandoned  | 18/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3r2/8/B2Qk2p/1pp1p1b1/8/6P1/PPP2P1P/1K1R1R2 b - - 0 25">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
