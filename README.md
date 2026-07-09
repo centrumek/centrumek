@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 941 | 1369 |
+| Current | 1049 | 949 | 1369 |
 | Best | 1132 | 1220 | 1369 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| ahooosier | **centrumek** | timeout ❌ | 9/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/2k5/p1p2K2/P1Pb1B2/1P6/8/8 b - - 0 55">Link</a> | Blitz |
+| **centrumek** | Sky4646 | win 🥇 | 9/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kbnr/p4ppp/2N1pq2/2pp1b2/3P4/2N1P3/PPP2PPP/R1BQK2R b KQkq - 0 8">Link</a> | Blitz |
+| 1kRenzo | **centrumek** | win 🥇 | 9/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1k1r1p/2p5/6p1/8/P1P1R2r/KP6/6n1 w - - 0 33">Link</a> | Blitz |
 | **centrumek** | NADHoxidase | timeout ❌ | 5/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6kN/8/5pKP/8/8/2b5 w - - 9 70">Link</a> | Blitz |
 | the_gina | **centrumek** | win 🥇 | 5/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/2p1qp2/4pn1p/pb2N1p1/1n1PP3/2Q3B1/P4PPP/RB2R1K1 w - g6 0 21">Link</a> | Blitz |
-| Ismael6_7 | **centrumek** | timevsinsufficient ⏸️ | 5/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/2kp4/2p5/2K5/B7 b - - 3 56">Link</a> | Blitz |
-| samet6641pro | **centrumek** | timeout ❌ | 5/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1b1kRn2/p5p1/np6/7B/2P2N2/P1P2PPP/6K1 b - - 3 30">Link</a> | Blitz |
-| **centrumek** | ramyem | win 🥇 | 5/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R5k1/7p/5K2/8/p6P/6r1/8/8 b - - 1 35">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
