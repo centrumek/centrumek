@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 968 | 1369 |
+| Current | 1049 | 960 | 1369 |
 | Best | 1132 | 1220 | 1369 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Virdisso | **centrumek** | timeout ❌ | 19/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/5P2/p5Pb/1p6/2pn4/P5K1/1P6/1B6 b - - 2 43">Link</a> | Blitz |
+| chesssodico | **centrumek** | abandoned  | 19/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pp3pp1/1npb2qp/3p4/8/P1P1BN1P/1P3PP1/R2QR1K1 b - - 0 18">Link</a> | Blitz |
+| **centrumek** | kunallekhwani | win 🥇 | 19/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k4/p1p2Q2/4p1p1/3pN1Pr/3Pq2n/1RP1P3/7P/5RK1 w - - 1 27">Link</a> | Blitz |
 | GUNZsyh | **centrumek** | win 🥇 | 19/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/k2P4/pR6/P7/1P3q2/2P1p3/1KR5 w - - 0 43">Link</a> | Blitz |
 | WAQAR_UL_HASSAN_KHAN | **centrumek** | resigned ❌ | 19/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/8/7p/pkR5/8/1P1P4/6PP/2R3K1 b - - 0 32">Link</a> | Blitz |
-| **centrumek** | khtjcgy | win 🥇 | 19/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/p1p5/2P2KBP/P5P1/8/8/8 b - - 0 49">Link</a> | Blitz |
-| Mekky0011 | **centrumek** | win 🥇 | 19/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1q6/q7/3p3p/K2k3P/8/8/8/8 w - - 10 55">Link</a> | Blitz |
-| MP1010 | **centrumek** | abandoned  | 18/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3r2/pb1pk1p1/2p2pp1/1p6/4P3/P1PQ1P2/BPP3PP/R4RK1 b - - 1 14">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
