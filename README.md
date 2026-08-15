@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 950 | 1369 |
+| Current | 1049 | 966 | 1369 |
 | Best | 1132 | 1220 | 1369 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| hozifad | **centrumek** | win 🥇 | 15/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7r/3Q4/kb1Pp2q/4P1p1/6P1/1P3R1P/6K1 w - - 1 45">Link</a> | Blitz |
+| **centrumek** | bengoj | win 🥇 | 15/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rr6/3Q1Nkp/p3B3/5pp1/4pP2/B3P1P1/2P2K1P/q6R b - - 1 30">Link</a> | Blitz |
 | Jalil_27 | **centrumek** | timeout ❌ | 15/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p3k1/2Kp2P1/3PpB2/4P3/8/8/8 b - - 14 71">Link</a> | Blitz |
 | JoshuaHenrison | **centrumek** | win 🥇 | 15/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5q2/6b1/2q1K3/4p3/3p4/2kP4/2P5/8 w - - 6 62">Link</a> | Blitz |
 | **centrumek** | FischerSatranc | win 🥇 | 15/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/2r2p1p/1p4p1/8/1P6/P1N4P/5PPK/R4R2 b - - 0 31">Link</a> | Blitz |
-| MSDfanboy_7 | **centrumek** | abandoned  | 15/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/R1kq4/3p4/2p1p3/4P3/1P5P/2P3P1/6K1 b - - 0 27">Link</a> | Blitz |
-| **centrumek** | Belacan13 | resigned ❌ | 15/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/p1p2ppp/2p5/3pN3/4bPPq/2P1PQ1P/PP1K1n2/RNB4R w kq - 5 15">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
