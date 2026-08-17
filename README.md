@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 966 | 1369 |
+| Current | 1049 | 949 | 1369 |
 | Best | 1132 | 1220 | 1369 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| prakash2322 | **centrumek** | timeout ❌ | 17/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/5p1k/2Q1p1p1/3pb3/8/6PP/6r1/5b1K b - - 1 47">Link</a> | Blitz |
+| **centrumek** | TheRealGameBegins | timeout ❌ | 17/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5B2/8/6kp/4P3/5P1P/8/6PK/8 w - - 2 54">Link</a> | Blitz |
 | hozifad | **centrumek** | win 🥇 | 15/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7r/3Q4/kb1Pp2q/4P1p1/6P1/1P3R1P/6K1 w - - 1 45">Link</a> | Blitz |
 | **centrumek** | bengoj | win 🥇 | 15/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rr6/3Q1Nkp/p3B3/5pp1/4pP2/B3P1P1/2P2K1P/q6R b - - 1 30">Link</a> | Blitz |
 | Jalil_27 | **centrumek** | timeout ❌ | 15/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p3k1/2Kp2P1/3PpB2/4P3/8/8/8 b - - 14 71">Link</a> | Blitz |
-| JoshuaHenrison | **centrumek** | win 🥇 | 15/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5q2/6b1/2q1K3/4p3/3p4/2kP4/2P5/8 w - - 6 62">Link</a> | Blitz |
-| **centrumek** | FischerSatranc | win 🥇 | 15/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/2r2p1p/1p4p1/8/1P6/P1N4P/5PPK/R4R2 b - - 0 31">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
