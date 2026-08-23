@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 917 | 1369 |
+| Current | 1049 | 893 | 1369 |
 | Best | 1132 | 1220 | 1369 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| rafa-alba | **centrumek** | abandoned  | 23/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/5Q2/2pPp3/2P2kq1/1P1P4/5PP1/5RK1 b - - 2 38">Link</a> | Blitz |
+| **centrumek** | rafa-alba | timevsinsufficient ⏸️ | 23/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6k1/4R3/4KB2/8/8/8 w - - 31 80">Link</a> | Blitz |
+| **centrumek** | Champ747474 | timeout ❌ | 23/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4b3/8/8/3kP3/p7/K7/1B6 w - - 23 68">Link</a> | Blitz |
+| MTYGHI | **centrumek** | resigned ❌ | 23/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/5p2/7p/3k2p1/8/2P2PK1/P6P/1Q6 b - - 0 38">Link</a> | Blitz |
 | a7mdlll | **centrumek** | checkmated ❌ | 22/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3r1k/p7/3p3R/1ppB1P2/5P2/2bP3P/PP6/6RK b - - 0 26">Link</a> | Blitz |
-| **centrumek** | mohanish-1 | win 🥇 | 22/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4kp2/pP2p2p/P7/3Bp3/4P2P/5P2/6K1 b - - 0 32">Link</a> | Blitz |
-| rexxx29 | **centrumek** | win 🥇 | 21/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5R1p/4p1p1/5bP1/5P2/1k2K2r/8 w - - 1 53">Link</a> | Blitz |
-| **centrumek** | alperchess41 | abandoned  | 18/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2p1p/7q/5R2/1P6/8/P5PP/4R2K w - - 0 31">Link</a> | Blitz |
-| Shibi0007 | **centrumek** | timeout ❌ | 18/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k3Qn1/8/8/1p2PP2/1P6/P2rp3/3q4/1K6 b - - 11 50">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
