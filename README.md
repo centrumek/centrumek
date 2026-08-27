@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 893 | 1369 |
+| Current | 1049 | 884 | 1369 |
 | Best | 1132 | 1220 | 1369 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| erms063 | **centrumek** | timeout ❌ | 26/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/2pN4/1k6/6p1/3p1p2/3P1B1P/5PP1/6K1 b - - 3 41">Link</a> | Blitz |
 | **centrumek** | dobrinyordanov | timevsinsufficient ⏸️ | 25/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3k4/8/8/1Q5P/4K3/2Q5 w - - 2 68">Link</a> | Blitz |
 | rafa-alba | **centrumek** | abandoned  | 23/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/5Q2/2pPp3/2P2kq1/1P1P4/5PP1/5RK1 b - - 2 38">Link</a> | Blitz |
 | **centrumek** | rafa-alba | timevsinsufficient ⏸️ | 23/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6k1/4R3/4KB2/8/8/8 w - - 31 80">Link</a> | Blitz |
 | **centrumek** | Champ747474 | timeout ❌ | 23/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4b3/8/8/3kP3/p7/K7/1B6 w - - 23 68">Link</a> | Blitz |
-| MTYGHI | **centrumek** | resigned ❌ | 23/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/5p2/7p/3k2p1/8/2P2PK1/P6P/1Q6 b - - 0 38">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
