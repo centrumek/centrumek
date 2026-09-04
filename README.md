@@ -48,8 +48,8 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 868 | 1369 |
-| Best | 1132 | 1220 | 1369 |
+| Current | No Rating | No Rating | No Rating |
+| Best | No Rating | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
