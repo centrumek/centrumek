@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | No Rating | No Rating | No Rating |
-| Best | No Rating | No Rating | No Rating |
+| Current | 1049 | 860 | 1369 |
+| Best | 1132 | 1220 | 1369 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | fap24 | timeout ❌ | 5/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/3k4/3r2RK/8/8 w - - 20 56">Link</a> | Blitz |
+| Dinando7 | **centrumek** | win 🥇 | 5/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r2/1bp2p1k/p2p1q2/1p1PpN2/1P2Pn2/P1NB1P2/2P3P1/R3K3 w Q - 0 21">Link</a> | Blitz |
+| **centrumek** | Super_Mario_123 | timeout ❌ | 5/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/5kp1/4p2p/6rP/8/8/q7/7K w - - 2 44">Link</a> | Blitz |
 | SearingRebuke | **centrumek** | timeout ❌ | 31/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2R2pk1/4b3/2P5/8/6Kp/4B1p1/7r b - - 5 57">Link</a> | Blitz |
 | AlbiPlus14 | **centrumek** | timeout ❌ | 31/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pb2k2R/1p6/6p1/3p4/1P4B1/1P5P/RN4K1 b - - 1 34">Link</a> | Blitz |
-| **centrumek** | jazintoros | timeout ❌ | 31/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/1R3ppp/3Np3/3p4/8/2b1P3/2N2P2/2K3q1 w - - 7 30">Link</a> | Blitz |
-| **centrumek** | Xorizone | timeout ❌ | 31/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5R2/7P/1B2PK2/P2k1P2/6r1/8 w - - 0 41">Link</a> | Blitz |
-| abrshk7 | **centrumek** | win 🥇 | 31/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
