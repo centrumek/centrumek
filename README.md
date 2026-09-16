@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 844 | 1369 |
+| Current | 1049 | 828 | 1369 |
 | Best | 1132 | 1220 | 1369 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Kirefyx | **centrumek** | abandoned  | 16/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/8/1p6/p5Kp/P1k5/7P/8/8 b - - 0 41">Link</a> | Blitz |
+| **centrumek** | LimitlessJC | timeout ❌ | 16/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k4r1/ppq5/3NQ3/1Pn5/2P4p/P6P/6P1/5r1K w - - 0 33">Link</a> | Blitz |
 | **centrumek** | piarne | abandoned  | 11/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/p5p1/p1p1p3/3pP3/1P4P1/P5q1/1BP3P1/5K2 w - - 1 28">Link</a> | Blitz |
 | poldelablanca | **centrumek** | checkmated ❌ | 6/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6r/4Qpb1/B1qkp3/3p2Bp/3Pn1pP/2P1P1P1/5P2/RN2K2R b KQ - 2 30">Link</a> | Blitz |
 | **centrumek** | fap24 | timeout ❌ | 5/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/3k4/3r2RK/8/8 w - - 20 56">Link</a> | Blitz |
-| Dinando7 | **centrumek** | win 🥇 | 5/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r2/1bp2p1k/p2p1q2/1p1PpN2/1P2Pn2/P1NB1P2/2P3P1/R3K3 w Q - 0 21">Link</a> | Blitz |
-| **centrumek** | Super_Mario_123 | timeout ❌ | 5/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/5kp1/4p2p/6rP/8/8/q7/7K w - - 2 44">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
