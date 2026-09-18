@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 836 | 1369 |
+| Current | 1049 | 796 | 1369 |
 | Best | 1132 | 1220 | 1369 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| gondyn | **centrumek** | win 🥇 | 17/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k2/5p2/3p4/2p1p3/1p2P3/3P1q2/5PRP/2r4K w - - 0 32">Link</a> | Blitz |
-| Kirefyx | **centrumek** | abandoned  | 16/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/8/1p6/p5Kp/P1k5/7P/8/8 b - - 0 41">Link</a> | Blitz |
-| **centrumek** | LimitlessJC | timeout ❌ | 16/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k4r1/ppq5/3NQ3/1Pn5/2P4p/P6P/6P1/5r1K w - - 0 33">Link</a> | Blitz |
-| **centrumek** | piarne | abandoned  | 11/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/p5p1/p1p1p3/3pP3/1P4P1/P5q1/1BP3P1/5K2 w - - 1 28">Link</a> | Blitz |
-| poldelablanca | **centrumek** | checkmated ❌ | 6/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6r/4Qpb1/B1qkp3/3p2Bp/3Pn1pP/2P1P1P1/5P2/RN2K2R b KQ - 2 30">Link</a> | Blitz |
+| AzamatSadykov | **centrumek** | timeout ❌ | 18/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/p1Q2k2/2p1pnNp/8/3P4/8/P4PPP/1R4K1 b - - 0 27">Link</a> | Blitz |
+| ToxicGodzz | **centrumek** | timeout ❌ | 18/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q1k2/4r3/5p1p/2P1nP1B/4P1p1/P6P/4P3/6K1 b - - 0 35">Link</a> | Blitz |
+| quanghuy868 | **centrumek** | timeout ❌ | 18/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/1p6/p1p5/P1P3B1/1PKP4/8/5R2/1r6 b - - 0 45">Link</a> | Blitz |
+| **centrumek** | grolay | abandoned  | 18/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rq1k/pp5p/2p3p1/8/1P4P1/P7/4Q2P/7K w - - 1 33">Link</a> | Blitz |
+| **centrumek** | PADYA09 | resigned ❌ | 18/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r3/5pkp/6p1/2N5/1p1P4/1P2P2P/4qPP1/2R3K1 w - - 0 33">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
