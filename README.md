@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 788 | 1369 |
+| Current | 1049 | 780 | 1369 |
 | Best | 1132 | 1220 | 1369 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | tutumorais | checkmated ❌ | 19/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/1pb2ppp/p3p3/3p4/NP1B4/P3P3/2P2PPq/R2Q1RK1 w - - 0 15">Link</a> | Blitz |
 | **centrumek** | Boss43290000 | checkmated ❌ | 18/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/5pbp/1pB1p1pK/pPp5/P5P1/4Pn1P/4R3/8 w - - 2 33">Link</a> | Blitz |
 | AzamatSadykov | **centrumek** | timeout ❌ | 18/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/p1Q2k2/2p1pnNp/8/3P4/8/P4PPP/1R4K1 b - - 0 27">Link</a> | Blitz |
 | ToxicGodzz | **centrumek** | timeout ❌ | 18/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q1k2/4r3/5p1p/2P1nP1B/4P1p1/P6P/4P3/6K1 b - - 0 35">Link</a> | Blitz |
 | quanghuy868 | **centrumek** | timeout ❌ | 18/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/1p6/p1p5/P1P3B1/1PKP4/8/5R2/1r6 b - - 0 45">Link</a> | Blitz |
-| **centrumek** | grolay | abandoned  | 18/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rq1k/pp5p/2p3p1/8/1P4P1/P7/4Q2P/7K w - - 1 33">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
