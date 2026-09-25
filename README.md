@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 788 | 1369 |
+| Current | 1049 | 780 | 1369 |
 | Best | 1132 | 1220 | 1369 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **centrumek** | Abedzi | resigned ❌ | 25/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/2p3p1/2Pp4/2pPp3/2P1P3/2Q2PPP/q5K1 w - - 2 28">Link</a> | Blitz |
 | **centrumek** | 1erChachap | timeout ❌ | 20/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/4kpp1/8/4pP2/2rpP3/3R2PP/3K4 w - - 0 42">Link</a> | Blitz |
 | BOUGNA_97600 | **centrumek** | timeout ❌ | 20/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/8/p1p1kR2/1p6/1P6/P2K4/6P1/8 b - - 0 44">Link</a> | Blitz |
 | jaolpss | **centrumek** | win 🥇 | 20/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/8/3p4/4b3/2k5/Kq6/8/8 w - - 1 59">Link</a> | Blitz |
 | Esmeralda020 | **centrumek** | win 🥇 | 20/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/ppp1q1b1/2n1p2p/3p1pp1/3P4/2PBPN1P/PP1Q1PPB/R3K2R w KQkq - 1 12">Link</a> | Blitz |
-| **centrumek** | Haridrashwa | win 🥇 | 20/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/3p3p/3kp3/P2p4/5P2/8/3KBP2/Q7 b - - 0 39">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
