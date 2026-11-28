@@ -48,16 +48,16 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1049 | 784 | 1369 |
+| Current | 1049 | 766 | 1369 |
 | Best | 1132 | 1220 | 1369 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Gustoba | **centrumek** | abandoned  | 27/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq d3 0 3">Link</a> | Blitz |
+| LeivaBau | **centrumek** | abandoned  | 27/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/pppq1p2/3p1N2/4p2p/4P3/5QP1/PPP4P/2R2RK1 b kq - 4 21">Link</a> | Blitz |
 | Mythix54 | **centrumek** | win 🥇 | 27/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5K1p/6p1/6P1/4kP2/6P1/8 w - - 1 49">Link</a> | Blitz |
 | **centrumek** | Eclipse_0000 | win 🥇 | 25/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p6p/P6P/8/5p2/3kp3/3b4/5K2 b - - 0 48">Link</a> | Blitz |
 | CameronSear | **centrumek** | timeout ❌ | 23/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/R3k2r/8/8/5K2/8/8 b - - 19 53">Link</a> | Blitz |
-| **centrumek** | raheem-lbd | win 🥇 | 23/11/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/8/8/8/1P5P/P3p1P1/3R4/1b2K3 b - - 0 39">Link</a> | Blitz |
-| ItsStevenn | **centrumek** | timeout ❌ | 16/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/KPk5/4p3/2P2p2/3PpPp1/4P1P1/8/8 b - - 2 43">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 </div>
